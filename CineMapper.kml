@@ -1672,7 +1672,12 @@
       </Placemark>
       <Placemark>
         <name>Clint Barton’s Home (Age of Ultron)</name>
-        <description><![CDATA[This is a test]]></description>
+        <description><![CDATA[{
+  "film": "Age of Ultron",
+  "photo": "https://lh3.googleusercontent.com/proxy/hZjv6FXOr5x5PeU8j4aHKSZV4HchKDXfGCRMhZ46YV5C3Vklvzn2HWPzlwsKjFk6fxIQDuKPAbmGEPGrBjwvGh27pyZfHiEQ-emzteFtKX3_7J99Rgoj2du3vDMa12xcGYrzbjPnGBNS3Bz8fcZRrA6mQjeaBjyJ3FdLc5kNl2TWKPb5pcXIrWlx_C1kKzcc7dTATq0plAzBkGFfFvjZEpZFAV9HtENjfBUbrVtIIVY4tUCJ4nCobtZ49SngWn5GF4Fk1c5fTi0ymjO7y9aA7-d-TDD_RW2l1NEWKg74rPvKpYPxj8aLBSbhAS1Jq0nRn8LECj5gqQtrs8lV7kLLwqtdwH1K8CEpSnNLE7vZAfxzKJSwQcSZM1GB6kR9obBRpHPn_w=s0-d",
+  "studio": "marvel",
+  "description": "Hello World"
+}]]></description>
         <styleUrl>#icon-1626-673AB7</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
