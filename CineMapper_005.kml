@@ -1945,6 +1945,13 @@
       <Placemark>
         <name>Ivinghoe Beacon [Rise of Skywalker]</name>
         <description>Rey visits the Death Starcrash site</description>
+<Style>
+        <IconStyle>
+          <Icon>
+            <href>https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/5A9416D67DC9595496B2666087596EE64DE379272051BB854157C0D938BE2C26/scale?width=640&aspectRatio=1.78&format=png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
         <styleUrl>#icon-1856-000000</styleUrl>
         <Point>
           <coordinates>
