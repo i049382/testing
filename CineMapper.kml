@@ -1679,6 +1679,13 @@
   "description": null,
   "youtube": "https://www.youtube.com/watch?v=x2vtdNncOUE"
 }]]></description>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>https://seeklogo.com/images/T/the-avengers-capitao-america-logo-72B7C58836-seeklogo.com.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
         <styleUrl>#icon-1626-673AB7</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
