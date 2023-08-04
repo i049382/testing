@@ -1592,8 +1592,22 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Hydra Base, Germany [Captain America: The First Avenger]</name>
-        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AOq6mzqamIZ9LBh3CgoQwW-c_jdvNowS2aLTd66xztOvwAtVmpILKeAFWO8O68v0egR35_Kxtlqa6W9qqVAE0HazHZfNkTgdkng7G61oAXCjDQUcL8zf8DbxPXKw9SJUwEe7hC6dy4mdaNK6Vz2OwhWXKo-xK83moKewkKA2xNfPEAgAdV4RcoOiOkYViPSqbiW3axT_fLDfIQ5-1w_jkTbJ51USiloLimLlfTqR5bc" height="200" width="auto" /><br><br>https://www.youtube.com/embed/ajNwoS3Nsas]]></description>
+<Style>
+  <IconStyle>
+  <scale>2</scale>
+    <Icon>
+      <href>https://www.freepnglogos.com/uploads/avengers-png-logo/image-avengers-logo-marvel-cinematic-universe-wiki-18.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+        <name>Hydra Base, Germany</name>
+ <description><![CDATA[{
+  "film": "Captain America: The First Avenger",
+  "photo": "https://lh3.googleusercontent.com/umsh/AOq6mzqamIZ9LBh3CgoQwW-c_jdvNowS2aLTd66xztOvwAtVmpILKeAFWO8O68v0egR35_Kxtlqa6W9qqVAE0HazHZfNkTgdkng7G61oAXCjDQUcL8zf8DbxPXKw9SJUwEe7hC6dy4mdaNK6Vz2OwhWXKo-xK83moKewkKA2xNfPEAgAdV4RcoOiOkYViPSqbiW3axT_fLDfIQ5-1w_jkTbJ51USiloLimLlfTqR5bc",
+  "studio": "marvel",
+  "description": null,
+  "youtube": "https://www.youtube.com/embed/ajNwoS3Nsas"
+}]]></description>
         <styleUrl>#icon-1502-0288D1</styleUrl>
         <ExtendedData>
           <Data name="gx_media_links">
