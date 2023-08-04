@@ -1667,14 +1667,7 @@
       <Placemark>
 
         <name>Kebab Shop</name>
-<styleUrl>#avengers</styleUrl>
- <description><![CDATA[{
-  "film": "Infinty War",
-  "photo": "https://firebasestorage.googleapis.com/v0/b/slink-64a53.appspot.com/o/userContent%2F-NaBwc3brLvzF2VsHzIm%2Flocations%2Fkebab.png?alt=media&token=97f29bd8-4b89-42a6-9be5-d9d4b4af2de2",
-  "studio": "marvel",
-  "description": "Wanda & Vision chat outside the '"we'll deep fry your kebab' shop and watch the news",
-  "youtube": ""
-}]]></description>
+
         
         <Point>
           <coordinates>
