@@ -6,49 +6,75 @@
 
 
 
-<StyleMap id="avengers">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#avengers-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#avengers-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
+      <StyleMap id="avengers">
+        <Pair>
+          <key>normal</key>
+          <styleUrl>#avengers-normal</styleUrl>
+        </Pair>
+        <Pair>
+          <key>highlight</key>
+          <styleUrl>#avengers-highlight</styleUrl>
+        </Pair>
+      </StyleMap>
+      <Style id="avengers-normal">
+        <IconStyle>
+          <color>ffb73a67</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://images.crunchbase.com/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/v1485446950/wzxvmdhz58q44trtz8pi.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Style id="avengers-highlight">
+        <IconStyle>
+          <color>ffb73a67</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://images.crunchbase.com/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/v1485446950/wzxvmdhz58q44trtz8pi.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
 
-<Style id="avengers-normal">
-<BalloonStyle>
-      <text>
-        <![CDATA[
-          This is $[film]
-        ]]>
-      </text>
-    </BalloonStyle>
-
-      <IconStyle>
-        <color>ffb73a67</color>
-        <scale>1</scale>
-        <Icon>
-          <href>https://images.crunchbase.com/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/v1485446950/wzxvmdhz58q44trtz8pi.png</href>
-        </Icon>
-      </IconStyle>
-      <LabelStyle>
-        <scale>1</scale>
-      </LabelStyle>
-    </Style>
-<Style id="avengers-highlight">
-      <IconStyle>
-        <color>ffb73a67</color>
-        <scale>1</scale>
-        <Icon>
-          <href>https://images.crunchbase.com/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/v1485446950/wzxvmdhz58q44trtz8pi.png</href>
-        </Icon>
-      </IconStyle>
-      <LabelStyle>
-        <scale>1</scale>
-      </LabelStyle>
-    </Style>
+      <StyleMap id="transformers">
+        <Pair>
+          <key>normal</key>
+          <styleUrl>#transformers-normal</styleUrl>
+        </Pair>
+        <Pair>
+          <key>highlight</key>
+          <styleUrl>#transformers-highlight</styleUrl>
+        </Pair>
+      </StyleMap>
+      <Style id="transformers-normal">
+        <IconStyle>
+          <color>ffb73a67</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://firebasestorage.googleapis.com/v0/b/slink-64a53.appspot.com/o/userContent%2F-NaBwc3brLvzF2VsHzIm%2Flocations%2Ficons%2F641px-Autobot_symbol.webp?alt=media&token=9a86ee84-79de-4fbc-a7c4-90772572abd3</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Style id="transformers-highlight">
+        <IconStyle>
+          <color>ffb73a67</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://firebasestorage.googleapis.com/v0/b/slink-64a53.appspot.com/o/userContent%2F-NaBwc3brLvzF2VsHzIm%2Flocations%2Ficons%2F641px-Autobot_symbol.webp?alt=media&token=9a86ee84-79de-4fbc-a7c4-90772572abd3</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
 
 
 
