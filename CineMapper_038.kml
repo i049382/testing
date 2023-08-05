@@ -6,17 +6,17 @@
 
 
 
-      <StyleMap id="avengers">
+      <StyleMap id="marvel">
         <Pair>
           <key>normal</key>
-          <styleUrl>#avengers-normal</styleUrl>
+          <styleUrl>#marvel-normal</styleUrl>
         </Pair>
         <Pair>
           <key>highlight</key>
-          <styleUrl>#avengers-highlight</styleUrl>
+          <styleUrl>#marvel-highlight</styleUrl>
         </Pair>
       </StyleMap>
-      <Style id="avengers-normal">
+      <Style id="marvel-normal">
         <IconStyle>
           <color>ffb73a67</color>
           <scale>1</scale>
@@ -28,7 +28,7 @@
           <scale>1</scale>
         </LabelStyle>
       </Style>
-      <Style id="avengers-highlight">
+      <Style id="marvel-highlight">
         <IconStyle>
           <color>ffb73a67</color>
           <scale>1</scale>
@@ -1573,14 +1573,16 @@
     <Folder>
       <name>Marvel Cinematic Universe</name>
       <Placemark>
-        <name>New Asgard [Avengers: Endgame]</name>
-        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AOq6mzoSwspfaM3k0A63nBZSSjH3aeTgHtuB13UwMLKvlb1V1mGb5GgWboUbkPMW9PVo2DKfhKv721jSfvV0C3yfSsye9uj7wwDsj78qhRjKbTir_VfrBt-RY9vAiZSXPmLvO4wY9gtwS97hAhUmObshLzX_4zS0Xckbnonj5bdBC2TCw0SwEFgLvpKBnqqlAfpAg2ryocMD7WIcZe7-OvWk93iFzFo-bxesqHqtGsgEWHWU9aQmUIWXBOgJ3tXhkWpMDr9z5BBO1y_jgxgUKmTd7Xl979wRpN4ODFJp4erqfAQEDZvfUu2Wq9sfVgo_02BZYbRTERRgzHrTSdLvfSp1vElSmQJMCIoeEybr3izRj86GzfwYUMeEb8ZRdVp2mTprwvM4SPEnX1LHQWN5kx6cB28T-68ooIKBOPaURHjvY_VRm5IUKOUl898xMggrLk-Vpb3CNADcOHHshczSeDKvzYCuIUUjwjQGRPSW6D6pm41yvzftrOoPqQAhFBVcS0T5SlaZaItuKJT67E9CfpOqCweolSOoO6XT7NDRT-ircxqM8v1F0TADyZ0DDSDF_taWS_yXh8p7AelsLg0fxSDTysZU4IZBFesXq3pjnZXQYRCeHln63XVl5jJk1sKHyAwwbNVtitzemVuF68vN0fxCPeNhOG4pZxVjMYcOGCsBiwZ9JKgDitDlvlL4oZb9o8mxCbTTvDS7pz--hR2y8wlgM36JWuulIjmezN2F0-EYZXl8CCMXj9KO0n_oPbsSxG9ZUjiqTCS19TRRlBVAYeZ9AK6u1WgxX1C7TuKrsrRKHnQiTEZGSuIXOFJeidWDrNKjsEd2jmILP_aMps3XLHvMoiw0DhZNKHDO" height="200" width="auto" /><br><br>Rocket and Hulk visit Thor in New Asgard<br><br><img src="https://lh3.googleusercontent.com/umsh/AOq6mzrQTIkj0SlcEH_GXm05xq4eDGp97RLJJV0lUyloWX4xJuLH1lya0WY5qGz2duTqRqbrXXgAxEVrzfW4SCHyuAJoqTPKXtcHk4Pmrw9R3g8vxJF26ZfJelK-DXaIuzoesCokG_HCN6kmfraLURSHGYLBilgYYeWhuGxtNPlNGMhMd4sAvsU5ux4b52u5naOzqtzUCR8eeR1OQVfPdkvKndwCyovEYiUIqKB0iqdx4vuQdYcjebbaroxV18lOCju2K-rtlH1DOoKOkp3O2ueC2KkXoIEdd3AmmP5vUvSsdM_YcOmqVC_CCvPpMigSXKhxKXhD9gmAoYH6Mt3usK9yWS-hNc2aaDiohe2VVoDuX13rg1i-4hkNJcdgOKSYSFlwaZGqrwbxAKPz6F9pZa9mHyNuyhNeCrhoFxumuX80tEeP31GqfcASwJN3FnTQnl7PUb1Aai9Cp0u97cfNo_4viRvb6A4RmXzfgTS6ccEDYtxOck6XNeI05mOkHjSGFoWxk0bCBszvl7X7t9RLo-urj3-zvVOVNTDfcAvkSF8XYoA6pCslEC9DdzHHV4ZwR9K9Hi09IE1uNuwX0dD98WbVRrAVwAV2wzyXH4s4UNvLzRoK2rcdrfeZthC6hNR957pm80Zrfa00g8eChED9PAXkTI229GdCDb_HNa-x2_2eQxNHVKZ4qE3Ocn2JIjpY_GI2MTateh7rxa0DdIX0DImasBV6-Ui28w4Lwa3upHtXOFNLKDoPA2b-A5H1b3x_IzNDQQdFWHNNGKxINAo5XZiJZ5MhKujbM8TqDiIfGETBTRYZ5JaNFUf_SYr09KWcI9-OZpn4ujOm7TO2hG79zKLiUDXkdpRAntqz" height="200" width="auto" />]]></description>
-        <styleUrl>#icon-1626-9C27B0</styleUrl>
-        <ExtendedData>
-          <Data name="gx_media_links">
-            <value>https://lh3.googleusercontent.com/umsh/AOq6mzoSwspfaM3k0A63nBZSSjH3aeTgHtuB13UwMLKvlb1V1mGb5GgWboUbkPMW9PVo2DKfhKv721jSfvV0C3yfSsye9uj7wwDsj78qhRjKbTir_VfrBt-RY9vAiZSXPmLvO4wY9gtwS97hAhUmObshLzX_4zS0Xckbnonj5bdBC2TCw0SwEFgLvpKBnqqlAfpAg2ryocMD7WIcZe7-OvWk93iFzFo-bxesqHqtGsgEWHWU9aQmUIWXBOgJ3tXhkWpMDr9z5BBO1y_jgxgUKmTd7Xl979wRpN4ODFJp4erqfAQEDZvfUu2Wq9sfVgo_02BZYbRTERRgzHrTSdLvfSp1vElSmQJMCIoeEybr3izRj86GzfwYUMeEb8ZRdVp2mTprwvM4SPEnX1LHQWN5kx6cB28T-68ooIKBOPaURHjvY_VRm5IUKOUl898xMggrLk-Vpb3CNADcOHHshczSeDKvzYCuIUUjwjQGRPSW6D6pm41yvzftrOoPqQAhFBVcS0T5SlaZaItuKJT67E9CfpOqCweolSOoO6XT7NDRT-ircxqM8v1F0TADyZ0DDSDF_taWS_yXh8p7AelsLg0fxSDTysZU4IZBFesXq3pjnZXQYRCeHln63XVl5jJk1sKHyAwwbNVtitzemVuF68vN0fxCPeNhOG4pZxVjMYcOGCsBiwZ9JKgDitDlvlL4oZb9o8mxCbTTvDS7pz--hR2y8wlgM36JWuulIjmezN2F0-EYZXl8CCMXj9KO0n_oPbsSxG9ZUjiqTCS19TRRlBVAYeZ9AK6u1WgxX1C7TuKrsrRKHnQiTEZGSuIXOFJeidWDrNKjsEd2jmILP_aMps3XLHvMoiw0DhZNKHDO https://lh3.googleusercontent.com/umsh/AOq6mzrQTIkj0SlcEH_GXm05xq4eDGp97RLJJV0lUyloWX4xJuLH1lya0WY5qGz2duTqRqbrXXgAxEVrzfW4SCHyuAJoqTPKXtcHk4Pmrw9R3g8vxJF26ZfJelK-DXaIuzoesCokG_HCN6kmfraLURSHGYLBilgYYeWhuGxtNPlNGMhMd4sAvsU5ux4b52u5naOzqtzUCR8eeR1OQVfPdkvKndwCyovEYiUIqKB0iqdx4vuQdYcjebbaroxV18lOCju2K-rtlH1DOoKOkp3O2ueC2KkXoIEdd3AmmP5vUvSsdM_YcOmqVC_CCvPpMigSXKhxKXhD9gmAoYH6Mt3usK9yWS-hNc2aaDiohe2VVoDuX13rg1i-4hkNJcdgOKSYSFlwaZGqrwbxAKPz6F9pZa9mHyNuyhNeCrhoFxumuX80tEeP31GqfcASwJN3FnTQnl7PUb1Aai9Cp0u97cfNo_4viRvb6A4RmXzfgTS6ccEDYtxOck6XNeI05mOkHjSGFoWxk0bCBszvl7X7t9RLo-urj3-zvVOVNTDfcAvkSF8XYoA6pCslEC9DdzHHV4ZwR9K9Hi09IE1uNuwX0dD98WbVRrAVwAV2wzyXH4s4UNvLzRoK2rcdrfeZthC6hNR957pm80Zrfa00g8eChED9PAXkTI229GdCDb_HNa-x2_2eQxNHVKZ4qE3Ocn2JIjpY_GI2MTateh7rxa0DdIX0DImasBV6-Ui28w4Lwa3upHtXOFNLKDoPA2b-A5H1b3x_IzNDQQdFWHNNGKxINAo5XZiJZ5MhKujbM8TqDiIfGETBTRYZ5JaNFUf_SYr09KWcI9-OZpn4ujOm7TO2hG79zKLiUDXkdpRAntqz</value>
-          </Data>
-        </ExtendedData>
+        <name>New Asgard</name>
+        <description><![CDATA[{
+            "film": "Avengers: End Game",
+            "photo": "https://static1.moviewebimages.com/wordpress/wp-content/uploads/article/OWEnAFuTOdC3fBwLROGET7uNA9Mvp5.jpg",
+            "studio": "marvel",
+            "description": "",
+            "youtube": ""
+          }]]>
+        </description>
+        <styleUrl>#marvel</styleUrl>
         <Point>
           <coordinates>
             -2.138515,55.898921,0
@@ -1654,7 +1656,7 @@
   "description": null,
   "youtube": "https://www.youtube.com/embed/ajNwoS3Nsas"
 }]]></description>
-        <styleUrl>#avengers</styleUrl>
+        <styleUrl>#marvel</styleUrl>
         
         <Point>
           <coordinates>
@@ -1697,7 +1699,7 @@
           }]]>
         </description>
 
-        <styleUrl>#avengers</styleUrl>
+        <styleUrl>#marvel</styleUrl>
         
         <Point>
           <coordinates>
@@ -1736,12 +1738,11 @@
             "film": "Age of Ultron",
             "photo": "https://firebasestorage.googleapis.com/v0/b/slink-64a53.appspot.com/o/userContent%2F-NaBwc3brLvzF2VsHzIm%2Flocations%2FAvengers_27s_Home%2529.webp?alt=media&token=7ecd4ed1-9a88-4dbf-8020-d664e3e2d3de",
             "studio": "marvel",
-            "description": null,
+            "description": "",
             "youtube": "https://www.youtube.com/watch?v=x2vtdNncOUE"
           }]]>
         </description>
-
-        <styleUrl>#avengers</styleUrl>
+        <styleUrl>#marvel</styleUrl>
         <ExtendedData>
 <Data name="film">
     <displayName>Film</displayName> 
