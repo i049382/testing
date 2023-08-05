@@ -1626,7 +1626,7 @@
           </coordinates>
         </Point>
       </Placemark>
-      
+
       <Placemark>
         <name>Avengers Headquarters</name>
         <description><![CDATA[{
@@ -1916,13 +1916,15 @@
       </Placemark>
       <Placemark>
         <name>Shawarma Place [Avengers Assemble]</name>
-        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AOq6mzrCvzmPCGvKgNkvFsY4LZ7pGRAQXTsgtMQwgTT8NKiqfGkQri_R3nTtb4W3IViBxGdZqHVA0pjm9H4JCYgqK6KsuiQLAUYRsX73aFTlubWpcqZCMm1DuO-4b3l-oNwjkH4-ZVTP44c7HF-A80dSPbR0UZM0Sx4wDGtZQLTTWFcV4u-0gxwvBhbS1C-KTebl8HRgBesoIztuPaJo6FIQ6yCp-BiC6JfAh2jaH-ny0gD0EGoekaPhPDxbaCCJzQCyEtv1IckuyzQ_1Pz8GhV1GPK4cZcP10eRMWmvXZGHt8bdgycGg0LC7NrOrncJ7dnGK34gJnfJzFQmhQZKaUdeMIRoR516z8yg-PledWdNC9clvEReMz0RA3jH-9sMrqNAiv0G_OFTDkF8J7KLLtPtoXn3DCbQmB--prO2767_k8Kjni08_31gL7Tb3rMUS5wBE49V48PMq-BtKN1GoIvWZGoJh1KleDkbLwkxGDnyFdEf4l8CdzY62M_bNUF3G_y7PcQE3RqvF2T8oq_Zw5_vMF4p_jzXcLFpcMHyvphDGQOv3pDGGEJbfniEkyzf8EjxvCU0NxQYeGR2w7I4AURZMlrquH6A1tWC2tlc-aVfyDMu7oobzGx9dqa3x964ZEOecoQ8Q0-Uj2XkNaJLEzHiOG64CYmBfpEw41Z1z2q3Q0d_2F1iWH7OAkWZskBIty2l0RNqHHng-xoEyMKDtMUIHEvUeupHVgiauSegsn7ZTbh30FHUSZHejDtgAO9AQm2mFrOUlGKXS3u40pvqgJlASHeImA_6ge7K4OVe31lXXtdLK_e5uQA72oHg_FwSvgWauQ1UhFI-qUMmD4Ym5pOxeBbjeVu-UYPP" height="200" width="auto" /><br><br>Tony Stark takes the Avengers for shawarma in the post credit scene.]]></description>
-        <styleUrl>#icon-1626-C2185B</styleUrl>
-        <ExtendedData>
-          <Data name="gx_media_links">
-            <value>https://lh3.googleusercontent.com/umsh/AOq6mzrCvzmPCGvKgNkvFsY4LZ7pGRAQXTsgtMQwgTT8NKiqfGkQri_R3nTtb4W3IViBxGdZqHVA0pjm9H4JCYgqK6KsuiQLAUYRsX73aFTlubWpcqZCMm1DuO-4b3l-oNwjkH4-ZVTP44c7HF-A80dSPbR0UZM0Sx4wDGtZQLTTWFcV4u-0gxwvBhbS1C-KTebl8HRgBesoIztuPaJo6FIQ6yCp-BiC6JfAh2jaH-ny0gD0EGoekaPhPDxbaCCJzQCyEtv1IckuyzQ_1Pz8GhV1GPK4cZcP10eRMWmvXZGHt8bdgycGg0LC7NrOrncJ7dnGK34gJnfJzFQmhQZKaUdeMIRoR516z8yg-PledWdNC9clvEReMz0RA3jH-9sMrqNAiv0G_OFTDkF8J7KLLtPtoXn3DCbQmB--prO2767_k8Kjni08_31gL7Tb3rMUS5wBE49V48PMq-BtKN1GoIvWZGoJh1KleDkbLwkxGDnyFdEf4l8CdzY62M_bNUF3G_y7PcQE3RqvF2T8oq_Zw5_vMF4p_jzXcLFpcMHyvphDGQOv3pDGGEJbfniEkyzf8EjxvCU0NxQYeGR2w7I4AURZMlrquH6A1tWC2tlc-aVfyDMu7oobzGx9dqa3x964ZEOecoQ8Q0-Uj2XkNaJLEzHiOG64CYmBfpEw41Z1z2q3Q0d_2F1iWH7OAkWZskBIty2l0RNqHHng-xoEyMKDtMUIHEvUeupHVgiauSegsn7ZTbh30FHUSZHejDtgAO9AQm2mFrOUlGKXS3u40pvqgJlASHeImA_6ge7K4OVe31lXXtdLK_e5uQA72oHg_FwSvgWauQ1UhFI-qUMmD4Ym5pOxeBbjeVu-UYPP</value>
-          </Data>
-        </ExtendedData>
+        <description><![CDATA[{
+            "film": "Avengers Assemble",
+            "photo": "https://www.google.com/maps/d/u/0/viewer?mid=1VsPUP3enI_EvGW66RcK0yLfQVmaPWY0&ll=34.05489500000001%2C-118.39406700000002&z=8",
+            "studio": "marvel",
+            "description": "Tony Stark takes the Avengers for shawarma in the post credit scene.",
+            "youtube": ""
+          }]]>
+        </description>
+        <styleUrl>#marvel</styleUrl>
         <Point>
           <coordinates>
             -118.394067,34.054895,0
@@ -1930,6 +1932,7 @@
         </Point>
       </Placemark>
     </Folder>
+    
     <Folder>
       <name>Star Wars</name>
       <Placemark>
