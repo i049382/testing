@@ -3,7 +3,7 @@
     <Link>
       <href>https://raw.githubusercontent.com/i049382/testing/master/CineMapper_038.kml</href>
       <refreshMode>onInterval</refreshMode>
-      <refreshInterval> 300 </refreshInterval>
+      <refreshInterval> 60 </refreshInterval>
     </Link>
   </NetworkLink>
 </kml>
