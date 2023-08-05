@@ -1918,7 +1918,7 @@
         <name>Shawarma Place [Avengers Assemble]</name>
         <description><![CDATA[{
             "film": "Avengers Assemble",
-            "photo": "https://www.google.com/maps/d/u/0/viewer?mid=1VsPUP3enI_EvGW66RcK0yLfQVmaPWY0&ll=34.05489500000001%2C-118.39406700000002&z=8",
+            "photo": "https://asset.cloudinary.com/dlfqvoflp/fe865165c26e505981a5c9c88c03bb42",
             "studio": "marvel",
             "description": "Tony Stark takes the Avengers for shawarma in the post credit scene.",
             "youtube": ""
@@ -1932,7 +1932,7 @@
         </Point>
       </Placemark>
     </Folder>
-    
+
     <Folder>
       <name>Star Wars</name>
       <Placemark>
