@@ -1572,6 +1572,7 @@
     </Folder>
     <Folder>
       <name>Marvel Cinematic Universe</name>
+
       <Placemark>
         <name>New Asgard</name>
         <description><![CDATA[{
@@ -1589,20 +1590,36 @@
           </coordinates>
         </Point>
       </Placemark>
+
       <Placemark>
         <name>Great Scotland Yard [Doctor Strange]</name>
-        <description>The Ancient One fights Kaecilius near the London Sanctum.</description>
-        <styleUrl>#icon-1626-DB4436</styleUrl>
+        <description><![CDATA[{
+            "film": "Doctor Strange",
+            "photo": "",
+            "studio": "marvel",
+            "description": "The Ancient One fights Kaecilius near the London Sanctum.",
+            "youtube": ""
+          }]]>
+        </description>
+        <styleUrl>#marvel</styleUrl>
         <Point>
           <coordinates>
             -0.12498,51.506846,0
           </coordinates>
         </Point>
       </Placemark>
+
       <Placemark>
-        <name>Warrior Falls [Black Panther]</name>
-        <description>f you want to be the next king of Wakanda, you have to challenge the current king to ritual combat at Warrior Falls. While close-ups and action footage of Black Panther’s Warrior Falls were filmed on a soundstage in Atlanta, Georgia, establishing and wide shots were filmed at Iguazu Falls, a water system on the border of Argentina and Brazil in South America.</description>
-        <styleUrl>#icon-1766-000000</styleUrl>
+        <name>Warrior Falls</name>
+        <description><![CDATA[{
+            "film": "Black Panther",
+            "photo": "",
+            "studio": "marvel",
+            "description": "If you want to be the next king of Wakanda, you have to challenge the current king to ritual combat at Warrior Falls. While close-ups and action footage of Black Panther’s Warrior Falls were filmed on a soundstage in Atlanta, Georgia, establishing and wide shots were filmed at Iguazu Falls, a water system on the border of Argentina and Brazil in South America.",
+            "youtube": ""
+          }]]>
+        </description>
+        <styleUrl>#marvel</styleUrl>
         <Point>
           <coordinates>
             -54.436666,-25.695259,0
