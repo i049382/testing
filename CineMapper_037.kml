@@ -3258,7 +3258,7 @@
       </Placemark>
 
       <Placemark>
-        <name>The Dark Hedges (Transformers: The Last Knight)</name>
+        <name>The Dark Hedges</name>
         <description><![CDATA[{
             "film": "The Last Knight",
             "photo": "https://firebasestorage.googleapis.com/v0/b/slink-64a53.appspot.com/o/userContent%2F-NaBwc3brLvzF2VsHzIm%2Flocations%2F2e4e0e3c-9960-11ed-beec-0210609a3fe2.jpg?alt=media&token=499a89d1-9411-40d4-b622-15cdf9124b85",
@@ -3358,14 +3358,15 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Jordan [Transformers: Revenge of the Fallen]</name>
-        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AOq6mzrUk3tWvJvJeUygqlJJjllSM__po18HHdg29U5NL-ZYNJoYjUStrYGmE-NU6WlcNReqHbIoVX5I-UVusjnYscwJEoEw4b1WRf34lUdotg5EsdZsWFyCbBOq1OOAiQPAMlITLeQI9An6agkelOPpdhZaH6omd7S1Q9SiWPhMeUSEzYcST-AAUPQk6dyh_MTKyePw5sYvO2a7TLvKRsokt8hVKydRhgJ9U8uCWnStkR6g25tg-2W4MhyjTnyij4kx2mykTAD5F11tUfXI5xecaZSDN-Vn4dXilxjAgZsSuWBhErKZo44pF_peurCO_97_fQc2GD-br-uP1hFqMYY75hkDmy3nzFLjsuunZdT8sJfrCXmeQ3WSWdpGmlLWqZbHn7OBhKLBjf0z_ujCWnNRrMXcESn0uY9DQ_iYWtofIZOL-7s4FEuCbGSaBzdVwaRd5r3ly9J6MaHiY1bnvYVBSD4tD5bFuwapjqCRMZA7KGyqc0bwtdh8nC4TvstC10rmHBQFsOlrSQzDXhhF1BC-SZ0xhtSzTQRE12rZBmxda3e-F_YI_CVrr76v6Ok7R5MtUR-O2AUwzTnwNd-v9aHZqhn9CgaOe_pV_RvMzDmtQF2UTRHWc25GkQNeDQGQRDWMyc0VZPG-hYd2y08kjGj0zGujUeeCRAo4TX0rlbl_Yx4_xNuP4PUedq5ZYswqXFIe6lmltcQSN84cSFkK7gGEqfRIDCwqhKEbPr6XFvet9PsJEZkcExnLpdsF-8mq9CEHNfUHsqiiqqZHACmVr__d_7WRXA4M4FQ53NXsKRE9LPEXpCO7CMSk0et8_x28T1yNLGFNZO-1FhwoC7HOyQ881nCCrNgtCPWL" height="200" width="auto" /><br><br>The group finds the Matrix, whom the Primes that punished the Fallen sacrificed themselves to hide, in Petra, but it disintegrates into dust.]]></description>
-        <styleUrl>#icon-1722-1A237E</styleUrl>
-        <ExtendedData>
-          <Data name="gx_media_links">
-            <value>https://lh3.googleusercontent.com/umsh/AOq6mzrUk3tWvJvJeUygqlJJjllSM__po18HHdg29U5NL-ZYNJoYjUStrYGmE-NU6WlcNReqHbIoVX5I-UVusjnYscwJEoEw4b1WRf34lUdotg5EsdZsWFyCbBOq1OOAiQPAMlITLeQI9An6agkelOPpdhZaH6omd7S1Q9SiWPhMeUSEzYcST-AAUPQk6dyh_MTKyePw5sYvO2a7TLvKRsokt8hVKydRhgJ9U8uCWnStkR6g25tg-2W4MhyjTnyij4kx2mykTAD5F11tUfXI5xecaZSDN-Vn4dXilxjAgZsSuWBhErKZo44pF_peurCO_97_fQc2GD-br-uP1hFqMYY75hkDmy3nzFLjsuunZdT8sJfrCXmeQ3WSWdpGmlLWqZbHn7OBhKLBjf0z_ujCWnNRrMXcESn0uY9DQ_iYWtofIZOL-7s4FEuCbGSaBzdVwaRd5r3ly9J6MaHiY1bnvYVBSD4tD5bFuwapjqCRMZA7KGyqc0bwtdh8nC4TvstC10rmHBQFsOlrSQzDXhhF1BC-SZ0xhtSzTQRE12rZBmxda3e-F_YI_CVrr76v6Ok7R5MtUR-O2AUwzTnwNd-v9aHZqhn9CgaOe_pV_RvMzDmtQF2UTRHWc25GkQNeDQGQRDWMyc0VZPG-hYd2y08kjGj0zGujUeeCRAo4TX0rlbl_Yx4_xNuP4PUedq5ZYswqXFIe6lmltcQSN84cSFkK7gGEqfRIDCwqhKEbPr6XFvet9PsJEZkcExnLpdsF-8mq9CEHNfUHsqiiqqZHACmVr__d_7WRXA4M4FQ53NXsKRE9LPEXpCO7CMSk0et8_x28T1yNLGFNZO-1FhwoC7HOyQ881nCCrNgtCPWL</value>
-          </Data>
-        </ExtendedData>
+        <name>Jordan</name>
+        <description><![CDATA[{
+            "film": "Revenge of the Fallen",
+            "photo": "https://i.ytimg.com/vi/MVN7UoRD7pQ/maxresdefault.jpg",
+            "studio": "transformers",
+            "description": "The group finds the Matrix, whom the Primes that punished the Fallen sacrificed themselves to hide, in Petra, but it disintegrates into dust."
+          }]]>
+        </description>
+        <styleUrl>#transformers</styleUrl>
         <Point>
           <coordinates>
             35.476726,29.698845,0
