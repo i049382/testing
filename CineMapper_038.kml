@@ -1626,21 +1626,25 @@
           </coordinates>
         </Point>
       </Placemark>
+      
       <Placemark>
         <name>Avengers Headquarters</name>
-        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AOq6mzrfV60mYqougLoBXzh85Rg5pSbNJetSQ1d0wF8I1Dnoq6Neg5zl459LWV6bCP47RLE0d5N5tQIdLx2UQenEcjJ0tOjsapI2QdXNU_giGqTK257jIQ5JLKcoR3fdfQpNI0rJy0WCjqYaUPmYr3YS4BYcgvoBkGO0PowaWXOY_R_fksQI3quHOXGPgn4gGzg2NIXRFDIWBkpQkLZQOMKytrRJYcHGMgXxefXr4lc" height="200" width="auto" /><br><br>https://www.youtube.com/embed/a0_gdHxFHkI<br><br>As seen as the end of Avengers: Age of Ultron and in AntMan.]]></description>
-        <styleUrl>#icon-1626-E65100</styleUrl>
-        <ExtendedData>
-          <Data name="gx_media_links">
-            <value>https://lh3.googleusercontent.com/umsh/AOq6mzrfV60mYqougLoBXzh85Rg5pSbNJetSQ1d0wF8I1Dnoq6Neg5zl459LWV6bCP47RLE0d5N5tQIdLx2UQenEcjJ0tOjsapI2QdXNU_giGqTK257jIQ5JLKcoR3fdfQpNI0rJy0WCjqYaUPmYr3YS4BYcgvoBkGO0PowaWXOY_R_fksQI3quHOXGPgn4gGzg2NIXRFDIWBkpQkLZQOMKytrRJYcHGMgXxefXr4lc</value>
-          </Data>
-        </ExtendedData>
+        <description><![CDATA[{
+            "film": "Black Panther",
+            "photo": "https://www.retrozap.com/wp-content/uploads/2019/07/Avengers4_029-Avengers-HQ.jpg",
+            "studio": "marvel",
+            "description": "As seen as the end of Avengers: Age of Ultron and in AntMan.",
+            "youtube": "https://www.youtube.com/embed/a0_gdHxFHkI"
+          }]]>
+        </description>
+        <styleUrl>#marvel</styleUrl>
         <Point>
           <coordinates>
             1.23471,52.620382,0
           </coordinates>
         </Point>
       </Placemark>
+
       <Placemark>
         <name>1940s New York [Captain America: The First Avenger]</name>
         <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AOq6mzrp33EbLOOx8Uo2SRMnCpZ7gEl4RETtE5RyZbZFuUBaAfNOpg4FuxKpzvZJkqN3Td-Oxf8RAjv-GO5JJpTsIfaZcZq9mYssA3ioa1BK_VeXYyn-zMvF0sI_D40msYNcCiF_-fke2Qr-ZPxqkVa9iri-c7BF-nNbbnFxcZsXZMDO2VSxz47KCr3EOapmxiNJyYzMbX-PEZfgyLMD61xJ8BhhCa378CgL1EOwsMEt9bjdG5FIylw5XoY-6LzDildp-RdJNkk7fmnQdiIMUXEA-770zrn5tXbXTdtHJqgIkWLM4sFr37QMCMBAPLZS9P0TASWsIou1jfBYdDq6kNkGU4cYpFIy69i3LfOUXbGBaj1jSDJAVmMoPmRTYyBMxRKq_UVHlBc1LMXib74jgC1TaIN0ql5iGyINdjI05pQ9NuSJsxFJ64eVaLbWIhAkfI_6p8r81qjpklmLs9f6yCB9_X7s918N7VM9Olrt6ln7j-F3C9ChM0WdIySFwiHz8gzAjbPKRPNi_QgajD-OPAMr0lVI0Zjz3T9JYZtb8vN__7clBK80kK2KO-JeJl8RvS-jj4ul552QC8x1fYTdfbUu2-cvVxa5EEUArUl8QilZoLjbiJ1DWN13-7tXHHAtvPB0bvPK2eh-_y0mU9IJ-zcZo-oFp02nxzf_pew-dJsk22r7etPHmsdUuT6x_OT3qP-9SRY58ALCTYBycjb8FRCWlvHMCCDptR4zdAlIMGkhshnPnj2fVEnJ26TA1UMWSjtWBnoToP0YRMqh5KBTgRjrQm2V52aPgZXsqWbjtAPkmmIsj-5CESIrJcL4btYL22ej2iYceYvRpOF-OTHzvzutKMysCStpZLdg" height="200" width="auto" /><br><br>Steve Rodgers chases down a Hydra agent to the docks.]]></description>
