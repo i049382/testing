@@ -54,7 +54,7 @@
       <Style id="transformers-normal">
         <IconStyle>
           <color>ffb73a67</color>
-          <scale>1</scale>
+          <scale>0.5</scale>
           <Icon>
             <href>https://static.wikia.nocookie.net/injusticefanon/images/2/26/641px-Autobot_symbol.png/revision/latest/scale-to-width-down/259?cb=20160522201912</href>
           </Icon>
@@ -66,7 +66,7 @@
       <Style id="transformers-highlight">
         <IconStyle>
           <color>ffb73a67</color>
-          <scale>1</scale>
+          <scale>0.5</scale>
           <Icon>
             <href>https://static.wikia.nocookie.net/injusticefanon/images/2/26/641px-Autobot_symbol.png/revision/latest/scale-to-width-down/259?cb=20160522201912</href>
           </Icon>
