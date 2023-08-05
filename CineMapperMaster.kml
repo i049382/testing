@@ -1,0 +1,9 @@
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <NetworkLink>
+    <Link>
+      <href>https://raw.githubusercontent.com/i049382/testing/master/CineMapper_038.kml</href>
+      <refreshMode>onInterval</refreshMode>
+      <refreshInterval> 300 </refreshInterval>
+    </Link>
+  </NetworkLink>
+</kml>
