@@ -3239,6 +3239,7 @@
       </Placemark>
     </Folder>
     <Folder>
+    <styleUrl>#transformers</styleUrl>
       <name>Paramount Pictures</name>
       <Placemark>
         <name>Alnwick Castle</name>
