@@ -279,7 +279,7 @@
           </coordinates>
         </Point>
       </Placemark>
-      
+
       <Placemark>
         <name>Hydra Base, Germany</name>
         <description><![CDATA[{
@@ -296,21 +296,24 @@
           </coordinates>
         </Point>
       </Placemark>
+
       <Placemark>
-        <name>1940s New York [Captain America: The First Avenger]</name>
-        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AOq6mzo1I_KzpOX6mz3M_-UdBOcksP8RIGGpodlbEOEGPQFNWdLED4wRolv8udbYhJd2bIrGTd7ESPr095Y_6RrC4QB9MLLWsZ_BuMlKcJuS9dH1IRr59iyvHZ9DvS7BnsixhT_3egzZoJAA-vDWkvH7cIz7dbfCyqQhopzkak6rr51Vm9tbJGfkm8OU946T4kMuqkVByAh_puOLMuYlzCOKJof2v24TafS_UYciW-1h" height="200" width="auto" /><br><br>https://www.youtube.com/embed/TjPzNc_PY2Q<br><br>Steve Rodgers gets his super serum and gives chase to the Hydra Agent that killed Dr Erskine.]]></description>
+        <name>1940s New York</name>
+        <description><![CDATA[{
+          "film": "Captain America: The First Avenger",
+          "photo": "https://ik.imagekit.io/slink/CineMapper/Marvel/unnamed%20(2)_-zqimmaCk.jpg?updatedAt=1691363022526",
+          "studio": "marvel",
+          "description": "Steve Rodgers gets his super serum and gives chase to the Hydra Agent that killed Dr Erskine.",
+          "youtube": "https://www.youtube.com/embed/TjPzNc_PY2Q"
+        }]]></description>
         <styleUrl>#marvel</styleUrl>
-        <ExtendedData>
-          <Data name="gx_media_links">
-            <value>https://lh3.googleusercontent.com/umsh/AOq6mzo1I_KzpOX6mz3M_-UdBOcksP8RIGGpodlbEOEGPQFNWdLED4wRolv8udbYhJd2bIrGTd7ESPr095Y_6RrC4QB9MLLWsZ_BuMlKcJuS9dH1IRr59iyvHZ9DvS7BnsixhT_3egzZoJAA-vDWkvH7cIz7dbfCyqQhopzkak6rr51Vm9tbJGfkm8OU946T4kMuqkVByAh_puOLMuYlzCOKJof2v24TafS_UYciW-1h</value>
-          </Data>
-        </ExtendedData>
         <Point>
           <coordinates>
             -2.233222,53.481223,0
           </coordinates>
         </Point>
       </Placemark>
+
       <Placemark>
         <name>Old Royal Naval College [Thor 2: Dark World]</name>
         <styleUrl>#marvel</styleUrl>
