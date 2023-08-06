@@ -263,20 +263,23 @@
       </Placemark>
 
       <Placemark>
-        <name>1940s New York [Captain America: The First Avenger]</name>
-        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AOq6mzrp33EbLOOx8Uo2SRMnCpZ7gEl4RETtE5RyZbZFuUBaAfNOpg4FuxKpzvZJkqN3Td-Oxf8RAjv-GO5JJpTsIfaZcZq9mYssA3ioa1BK_VeXYyn-zMvF0sI_D40msYNcCiF_-fke2Qr-ZPxqkVa9iri-c7BF-nNbbnFxcZsXZMDO2VSxz47KCr3EOapmxiNJyYzMbX-PEZfgyLMD61xJ8BhhCa378CgL1EOwsMEt9bjdG5FIylw5XoY-6LzDildp-RdJNkk7fmnQdiIMUXEA-770zrn5tXbXTdtHJqgIkWLM4sFr37QMCMBAPLZS9P0TASWsIou1jfBYdDq6kNkGU4cYpFIy69i3LfOUXbGBaj1jSDJAVmMoPmRTYyBMxRKq_UVHlBc1LMXib74jgC1TaIN0ql5iGyINdjI05pQ9NuSJsxFJ64eVaLbWIhAkfI_6p8r81qjpklmLs9f6yCB9_X7s918N7VM9Olrt6ln7j-F3C9ChM0WdIySFwiHz8gzAjbPKRPNi_QgajD-OPAMr0lVI0Zjz3T9JYZtb8vN__7clBK80kK2KO-JeJl8RvS-jj4ul552QC8x1fYTdfbUu2-cvVxa5EEUArUl8QilZoLjbiJ1DWN13-7tXHHAtvPB0bvPK2eh-_y0mU9IJ-zcZo-oFp02nxzf_pew-dJsk22r7etPHmsdUuT6x_OT3qP-9SRY58ALCTYBycjb8FRCWlvHMCCDptR4zdAlIMGkhshnPnj2fVEnJ26TA1UMWSjtWBnoToP0YRMqh5KBTgRjrQm2V52aPgZXsqWbjtAPkmmIsj-5CESIrJcL4btYL22ej2iYceYvRpOF-OTHzvzutKMysCStpZLdg" height="200" width="auto" /><br><br>Steve Rodgers chases down a Hydra agent to the docks.]]></description>
+        <name>1940s New York</name>
+        <description><![CDATA[{
+            "film": "Captain America: The First Avenger",
+            "photo": "https://ik.imagekit.io/slink/CineMapper/Marvel/unnamed%20(2)_if7evPvaj.png?updatedAt=1691362669663",
+            "studio": "marvel",
+            "description": "Steve Rodgers chases down a Hydra agent to the docks.",
+            "youtube": "https://www.youtube.com/embed/a0_gdHxFHkI"
+          }]]>
+        </description>
         <styleUrl>#marvel</styleUrl>
-        <ExtendedData>
-          <Data name="gx_media_links">
-            <value>https://lh3.googleusercontent.com/umsh/AOq6mzrp33EbLOOx8Uo2SRMnCpZ7gEl4RETtE5RyZbZFuUBaAfNOpg4FuxKpzvZJkqN3Td-Oxf8RAjv-GO5JJpTsIfaZcZq9mYssA3ioa1BK_VeXYyn-zMvF0sI_D40msYNcCiF_-fke2Qr-ZPxqkVa9iri-c7BF-nNbbnFxcZsXZMDO2VSxz47KCr3EOapmxiNJyYzMbX-PEZfgyLMD61xJ8BhhCa378CgL1EOwsMEt9bjdG5FIylw5XoY-6LzDildp-RdJNkk7fmnQdiIMUXEA-770zrn5tXbXTdtHJqgIkWLM4sFr37QMCMBAPLZS9P0TASWsIou1jfBYdDq6kNkGU4cYpFIy69i3LfOUXbGBaj1jSDJAVmMoPmRTYyBMxRKq_UVHlBc1LMXib74jgC1TaIN0ql5iGyINdjI05pQ9NuSJsxFJ64eVaLbWIhAkfI_6p8r81qjpklmLs9f6yCB9_X7s918N7VM9Olrt6ln7j-F3C9ChM0WdIySFwiHz8gzAjbPKRPNi_QgajD-OPAMr0lVI0Zjz3T9JYZtb8vN__7clBK80kK2KO-JeJl8RvS-jj4ul552QC8x1fYTdfbUu2-cvVxa5EEUArUl8QilZoLjbiJ1DWN13-7tXHHAtvPB0bvPK2eh-_y0mU9IJ-zcZo-oFp02nxzf_pew-dJsk22r7etPHmsdUuT6x_OT3qP-9SRY58ALCTYBycjb8FRCWlvHMCCDptR4zdAlIMGkhshnPnj2fVEnJ26TA1UMWSjtWBnoToP0YRMqh5KBTgRjrQm2V52aPgZXsqWbjtAPkmmIsj-5CESIrJcL4btYL22ej2iYceYvRpOF-OTHzvzutKMysCStpZLdg</value>
-          </Data>
-        </ExtendedData>
         <Point>
           <coordinates>
             -2.996785,53.421507,0
           </coordinates>
         </Point>
       </Placemark>
+      
       <Placemark>
         <name>Hydra Base, Germany</name>
         <description><![CDATA[{
