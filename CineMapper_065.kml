@@ -1905,8 +1905,15 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>The TVA Building [Loki Disney+ Series]</name>
-        <description>Atlanta Marriot Hotel</description>
+        <name>The TVA Building</name>
+        <description><![CDATA[{
+            "film": "Loki Disney+ Series",
+            "photo": "",
+            "studio": "Atlanta Marriot Hotel",
+            "description": "",
+            "youtube": ""
+          }]]>
+        </description>
         <styleUrl>#marvel</styleUrl>
         <Point>
           <coordinates>
