@@ -52,19 +52,19 @@
       <Style id="starwars-normal">
         <IconStyle>
           <color>ffb73a67</color>
-          <scale></scale>
+          <scale>30</scale>
           <Icon>
             <href>https://ik.imagekit.io/slink/CineMapper/Starwars_LI149jc3Q.png?updatedAt=1691352990383</href>
           </Icon>
         </IconStyle>
         <LabelStyle>
-          <scale>1</scale>
+          <scale>30</scale>
         </LabelStyle>
       </Style>
       <Style id="starwars-highlight">
         <IconStyle>
           <color>ffb73a67</color>
-          <scale>1</scale>
+          <scale>30</scale>
           <Icon>
             <href>https://ik.imagekit.io/slink/CineMapper/Starwars_LI149jc3Q.png?updatedAt=1691352990383</href>
           </Icon>
