@@ -1697,24 +1697,15 @@
         </Point>
       </Placemark>
       <Placemark>
-<Style>
-  <IconStyle>
-  <scale>2</scale>
-    <Icon>
-      <href>https://www.freepnglogos.com/uploads/avengers-png-logo/image-avengers-logo-marvel-cinematic-universe-wiki-18.png</href>
-    </Icon>
-  </IconStyle>
-</Style>
         <name>Hydra Base, Germany</name>
- <description><![CDATA[{
-  "film": "Captain America: The First Avenger",
-  "photo": "https://firebasestorage.googleapis.com/v0/b/slink-64a53.appspot.com/o/userContent%2F-NaBwc3brLvzF2VsHzIm%2Flocations%2Funnamed%20(1).jpg?alt=media&token=7cd0abf9-6b6c-4cbe-b212-ade258f1f4ec",
-  "studio": "marvel",
-  "description": "",
-  "youtube": "https://www.youtube.com/embed/ajNwoS3Nsas"
-}]]></description>
+        <description><![CDATA[{
+          "film": "Captain America: The First Avenger",
+          "photo": "https://firebasestorage.googleapis.com/v0/b/slink-64a53.appspot.com/o/userContent%2F-NaBwc3brLvzF2VsHzIm%2Flocations%2Funnamed%20(1).jpg?alt=media&token=7cd0abf9-6b6c-4cbe-b212-ade258f1f4ec",
+          "studio": "marvel",
+          "description": "",
+          "youtube": "https://www.youtube.com/embed/ajNwoS3Nsas"
+        }]]></description>
         <styleUrl>#marvel</styleUrl>
-        
         <Point>
           <coordinates>
             -0.771164,51.192702,0
