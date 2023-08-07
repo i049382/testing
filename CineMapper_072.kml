@@ -159,7 +159,7 @@
           <color>ffb73a67</color>
           <scale>1</scale>
           <Icon>
-            <href>https://ik.imagekit.io/slink/CineMapper/Harry%20Potter_ta2tbl3jd.png?updatedAt=1691365213847</href>
+            <href>https://ik.imagekit.io/slink/CineMapper/Harry%20Potter_4bUheL84k.png?updatedAt=1691367626777</href>
           </Icon>
         </IconStyle>
         <LabelStyle>
@@ -171,7 +171,7 @@
           <color>ffb73a67</color>
           <scale>1</scale>
           <Icon>
-            <href>https://ik.imagekit.io/slink/CineMapper/Harry%20Potter_ta2tbl3jd.png?updatedAt=1691365213847</href>
+            <href>https://ik.imagekit.io/slink/CineMapper/Harry%20Potter_4bUheL84k.png?updatedAt=1691367626777</href>
           </Icon>
         </IconStyle>
         <LabelStyle>
@@ -315,8 +315,7 @@
       </Placemark>
 
       <Placemark>
-        <name>Old Royal Naval College []</name>
-        
+        <name>Old Royal Naval College</name>
         <description><![CDATA[{
           "film": "Thor 2: Dark World",
           "photo": "https://www.newsshopper.co.uk/resources/images/4940154/?type=og-image",
@@ -333,7 +332,7 @@
       </Placemark>
       <Placemark>
         <name>Kebab Shop</name>
-<description><![CDATA[{
+          <description><![CDATA[{
             "film": "Infinity War",
             "photo": "https://firebasestorage.googleapis.com/v0/b/slink-64a53.appspot.com/o/userContent%2F-NaBwc3brLvzF2VsHzIm%2Flocations%2Fkebab.png?alt=media&token=97f29bd8-4b89-42a6-9be5-d9d4b4af2de2",
             "studio": "marvel",
@@ -341,15 +340,14 @@
             "youtube": ""
           }]]>
         </description>
-
         <styleUrl>#marvel</styleUrl>
-        
         <Point>
           <coordinates>
             -3.188797,55.95066,0
           </coordinates>
         </Point>
       </Placemark>
+
       <Placemark>
         <name>Asgard (Avengers: Endgame)</name>
         <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AOq6mzq_KXEeR01xgl4HjtvyPHf-MjU87MTlDDSPqVVyBny-uJhkZZMKZTB-gKJVnS1wm7za05zxJVzOEHHV-i548hACBM77tXfmuedcxZ-ZE2qsq5ipKBQT7oDkvHSLnkIvmL0YZyUaeTR5kn6t0QGPVY0CtUAuwzPnuGcWynSPrZBvFKyYGXpizStq988nvgYhZJWicKjh9FHPS_pJOcWLnwamRg7Vf79nEe4dcLjza_kDCYOx8KtkiRoYuHouCsmCvrbL7KRVrWtnW_dcf5VeZ-LLeIi1KfTzuGSo2b31z4mRkDF18P95CS8OTqg9Vc_w9NGe_zhdq-VprHqGjkaQVf6dstQwchTs0IOC-2BhCSNXn3IQfhZRcQ-DuGTX3J_r3dYVZQQbTKGYaNjNjJ25OjetrqLBAFqqzEwE8-q0qpMbesVlipksmOnJ5TvL_2JzK5JPb_ABK3vYaWpHL2UENnNu1tQmSp8waWq515V0nBb3PU4BSso3Iaa6FGa5wDc-oIanHXp_sxxwgDxtjBbDoZxUReolS2i0-KqA9TbU1yOGiNm4VTpLb--5OZiszEEBmg70YzV18C8alJ1UbnTtQDtbDzPuOq0OBeG7R7K7O0N9qK3jyYukcQQf2P_ByoJVyJm3FWWg4WLpSp3e5xhAK0_YIPLsqJhIVqvptBr3wWeZZkf9ptwnnhNpiyeWhh_Spdcq4YyagYcBFjglOkaA3hcwcH2cNzx_qqChrOZxr17WhHzL-0oum73jkvI5rXN7HW6zafq-7ZnESO09abWSdhpLPnfG8AavFBa80jMUY1ZnlNWi1BWFTn72FhISLXKBTzPNLE36laPWC8liPk6wsiMgv5xtmMyy" height="200" width="auto" /><br><br>Thor and Rocket jump back in time to 2013 Asgard to retrieve the Reality Stone.]]></description>
