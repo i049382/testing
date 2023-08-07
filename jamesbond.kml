@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>CineMapper</name>
+    <description/>
+
+      <StyleMap id="default">
+        <Pair>
+          <key>normal</key>
+          <styleUrl>#default-normal</styleUrl>
+        </Pair>
+        <Pair>
+          <key>highlight</key>
+          <styleUrl>#default-highlight</styleUrl>
+        </Pair>
+      </StyleMap>
+      <Style id="default-normal">
+        <IconStyle>
+          <color>ffb73a67</color>
+          <scale></scale>
+          <Icon>
+            <href>https://ik.imagekit.io/slink/CineMapper/CineMapper_a5BvTcXYh.png?updatedAt=1691326155823</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Style id="default-highlight">
+        <IconStyle>
+          <color>ffb73a67</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://ik.imagekit.io/slink/CineMapper/CineMapper_a5BvTcXYh.png?updatedAt=1691326155823</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+
+      <StyleMap id="starwars">
+        <Pair>
+          <key>normal</key>
+          <styleUrl>#starwars-normal</styleUrl>
+        </Pair>
+        <Pair>
+          <key>highlight</key>
+          <styleUrl>#starwars-highlight</styleUrl>
+        </Pair>
+      </StyleMap>
+      <Style id="starwars-normal">
+        <IconStyle>
+          <color>ffb73a67</color>
+          <scale>30</scale>
+          <Icon>
+            <href>https://ik.imagekit.io/slink/CineMapper/Starwars_LI149jc3Q.png?updatedAt=1691352990383</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <scale>30</scale>
+        </LabelStyle>
+      </Style>
+      <Style id="starwars-highlight">
+        <IconStyle>
+          <color>ffb73a67</color>
+          <scale>30</scale>
+          <Icon>
+            <href>https://ik.imagekit.io/slink/CineMapper/Starwars_LI149jc3Q.png?updatedAt=1691352990383</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <scale>2</scale>
+        </LabelStyle>
+      </Style>
+
+      <StyleMap id="marvel">
+        <Pair>
+          <key>normal</key>
+          <styleUrl>#marvel-normal</styleUrl>
+        </Pair>
+        <Pair>
+          <key>highlight</key>
+          <styleUrl>#marvel-highlight</styleUrl>
+        </Pair>
+      </StyleMap>
+      <Style id="marvel-normal">
+        <IconStyle>
+          <color>ffb73a67</color>
+          <scale></scale>
+          <Icon>
+            <href>https://ik.imagekit.io/slink/CineMapper/CineMapperMarvel_T36MtcVfv.png?updatedAt=1691350353337</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Style id="marvel-highlight">
+        <IconStyle>
+          <color>ffb73a67</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://ik.imagekit.io/slink/CineMapper/CineMapperMarvel_T36MtcVfv.png?updatedAt=1691350353337</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+
+      <StyleMap id="transformers">
+        <Pair>
+          <key>normal</key>
+          <styleUrl>#transformers-normal</styleUrl>
+        </Pair>
+        <Pair>
+          <key>highlight</key>
+          <styleUrl>#transformers-highlight</styleUrl>
+        </Pair>
+      </StyleMap>
+      <Style id="transformers-normal">
+        <IconStyle>
+          <color>ffb73a67</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://ik.imagekit.io/slink/CineMapper/Transformers_WVfHs6oN0.png?updatedAt=1691354329225</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Style id="transformers-highlight">
+        <IconStyle>
+          <color>ffb73a67</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://ik.imagekit.io/slink/CineMapper/Transformers_WVfHs6oN0.png?updatedAt=1691354329225</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+
+      <StyleMap id="harrypotter">
+        <Pair>
+          <key>normal</key>
+          <styleUrl>#harrypotter-normal</styleUrl>
+        </Pair>
+        <Pair>
+          <key>highlight</key>
+          <styleUrl>#harrypotter-highlight</styleUrl>
+        </Pair>
+      </StyleMap>
+      <Style id="harrypotter-normal">
+        <IconStyle>
+          <color>ffb73a67</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://ik.imagekit.io/slink/CineMapper/Harry%20Potter_4bUheL84k.png?updatedAt=1691367626777</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Style id="harrypotter-highlight">
+        <IconStyle>
+          <color>ffb73a67</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://ik.imagekit.io/slink/CineMapper/Harry%20Potter_4bUheL84k.png?updatedAt=1691367626777</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+
+      <Folder>
+      <name>James Bond</name>
+      <Placemark>
+        <name>Skyfall Road/View [Skyfall]</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AOq6mzqEYyFIm9blXXfJTRC4S1cXBtS1ZoGE7E--dQpenfmEFNKd531tR07k9Yu85WbkKs095myAeWfeozyiuo0r1wcFO0Tvi_M9I1F1zYi4uGeBIRX64OpzMD6LuvIpio_tKl-adimE5cKwbx4hbWg8nUp3a_a0zzkicytzBFB6ptbzDBK95QAX5xaBvfOwr7VOI5nzKqLzHWKGAhPyuGG_xf_5w_NIzrBmOkiYog9EiarHq39XYxBNvI44qafiVjy-XiU2I49958SCnbhye-UznuvMd1Rkdv8GTMFNbGHAVA1_KGGDL2EPXdQfmpRYDJpA8u1aPzjbtkVTllG3v1b662uoE8Lqjj7hjHsYZKepHDeyrfOD6S6cPy8aiSTO18RLqjSIzCtbUgAlJcmCgEHenu4CZ_m9oDzcZEMoK1QEQxdiLNvFgtHF0hvcrUFC9UyWlfhQ9e_kCC1vPRu4GDnEQqkdti8wUCLwQPuJF2_JQMzrbElDk0MZMuVMhzZuih4e34p9opVHLaxp-Ip1XXo9CLzjFTp2EA3ACSHZYeU_bCCPVSsM8aUKYLsP5MasrR_RVr8x31HgL-B-PQeH8ZVYHc7qjd0i5LAa7-y9OxRc1lsz-1DvuvDGHR9nlzIAHTKmubQko7BvlyrOkgQSoy8_G7ty7PJjptizKmweDkUoUbQ5Ewvx5qM6R7bzOqwN-F3_p_H2MUg36HipVtLchrfAiiz2CwHgMHrEB_ib25NdQ-3Ut5s1OmUWepbbirErAB68aVJlH0bn7x75zZBoRlsPhLzUc7o3xSg8GY51vVDLjhr4goB7qyVoObcHKlcwwg5K-16LXDeHC84YMqA7yOpDJPBxTyqN4vka" height="200" width="auto" /><br><br>Those epic final scenes of Bond’s 2012 adventure take place in the atmospheric valley of Glencoe, where his childhood home — the Skyfall estate, is located. Bond and M take their final stand against a former agent turned bad as the mist creeps across the Scottish landscape.]]></description>
+        <styleUrl>#default</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AOq6mzqEYyFIm9blXXfJTRC4S1cXBtS1ZoGE7E--dQpenfmEFNKd531tR07k9Yu85WbkKs095myAeWfeozyiuo0r1wcFO0Tvi_M9I1F1zYi4uGeBIRX64OpzMD6LuvIpio_tKl-adimE5cKwbx4hbWg8nUp3a_a0zzkicytzBFB6ptbzDBK95QAX5xaBvfOwr7VOI5nzKqLzHWKGAhPyuGG_xf_5w_NIzrBmOkiYog9EiarHq39XYxBNvI44qafiVjy-XiU2I49958SCnbhye-UznuvMd1Rkdv8GTMFNbGHAVA1_KGGDL2EPXdQfmpRYDJpA8u1aPzjbtkVTllG3v1b662uoE8Lqjj7hjHsYZKepHDeyrfOD6S6cPy8aiSTO18RLqjSIzCtbUgAlJcmCgEHenu4CZ_m9oDzcZEMoK1QEQxdiLNvFgtHF0hvcrUFC9UyWlfhQ9e_kCC1vPRu4GDnEQqkdti8wUCLwQPuJF2_JQMzrbElDk0MZMuVMhzZuih4e34p9opVHLaxp-Ip1XXo9CLzjFTp2EA3ACSHZYeU_bCCPVSsM8aUKYLsP5MasrR_RVr8x31HgL-B-PQeH8ZVYHc7qjd0i5LAa7-y9OxRc1lsz-1DvuvDGHR9nlzIAHTKmubQko7BvlyrOkgQSoy8_G7ty7PJjptizKmweDkUoUbQ5Ewvx5qM6R7bzOqwN-F3_p_H2MUg36HipVtLchrfAiiz2CwHgMHrEB_ib25NdQ-3Ut5s1OmUWepbbirErAB68aVJlH0bn7x75zZBoRlsPhLzUc7o3xSg8GY51vVDLjhr4goB7qyVoObcHKlcwwg5K-16LXDeHC84YMqA7yOpDJPBxTyqN4vka</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -4.930924,56.619455,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shanghai Skyscraper Pool [Skyfall]</name>
+        <description><![CDATA[James Bond is following a lead in Shanghai. We see him swimming in a futuristic looking pool overlooking Shanghai's skyline. It's actually this Virgin Active Gym, you can gain access through gym membership or as a guest of the Four Seasons Hotel next door.]]></description>
+        <styleUrl>#default</styleUrl>
+        <Point>
+          <coordinates>
+            -0.028562,51.506435,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Day of the Dead [Spectre]</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AOq6mzok_GfXJ59b2PK4ZLHQV8ZOFiAhdpLMblsPoxCjS3bf7bPufqZYQPpsURcUn1Sv3S8OBdJsdUK2MiLkTbqx7lm_2v2osVJV2SfC8w9XbCVCv2ICQE0xd-g_HbT8kAsu1vGRJhqORLc2apRBv8RA1TE3nKW3ba9EbtOcBtS6Aq7kRQmUpgxv4dpwnpjIn8pBRYiezRm85ooXMWpK-_D1_F-Xc0KE16eHv1Sv91MWpjB0WGXaJC4rK8fIVjxr5N5sug0xJV9CaBHP0NFZO5hsWgOlzeCtJ98B8O3X7YVjc1_WD1wzhuuZpaqqxLVGHXAS9OM1nKE897-uCbQuniC59iUAo5H8msXesWmuHUdi5Qiz2qsM_7o2IeJgc0zVMW1WY5FlZAgeP4gcErRfvaD2JGqb3xC4EziepLwd723coPHo1wyejg9lMWix-tIDF40AQboUjOYTNhPYjAq80zmv1hLUKP_H-lIac20adEdY1yhTeHONcRRDocoHKJzwHiVKjSTIRsh6uMbL3AjPezxRDonqbLAZvIunfvrpt1pEGImo1WSdUgRNhyb1GoD1UNtaXjK3_MRAZqqQDDa8BfXLDZKFrT27LZdtZRYYI44nubHCll2p7PswqWTZ8YSLInAEjSjxKdPImUzT6FKzpWARMRmbyoulTadRRSn18KKwkNnFsUDq0W6ST1WNktR83MZpstUD38YYnhACSBQlLwe4_RHY5eRg3BL3y8mh7nYscBvA0FDMrOMCXdwyNwYrc7cbRK2rSdIkowiDakusBIl47LR9VNXvCX7feYZpCfDdtQKHKekZXQLPVmhliCCFNOIhy5GXQYye6lmCuu3WLau-brmqO7vC7wL2" height="200" width="auto" /><br><br>Mexico City’s main square is the venue for another dramatic chase scene opening Spectre. This finds 007 following his own path (as always!) to thwart a terrorist plot on Day of the Dead. Hot on the heels of danger, he weaves around the crowds in this enormous square.<br><br>You can see glimpses of the spectacular architecture of the buildings surrounding Zócalo, including the Catedral and the Palacio Nacional. There’s history all around as one of the best Bond opening sequences unfolds, and this scene only scratches the surface of how genuinely majestic Mexico City is.]]></description>
+        <styleUrl>#default</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AOq6mzok_GfXJ59b2PK4ZLHQV8ZOFiAhdpLMblsPoxCjS3bf7bPufqZYQPpsURcUn1Sv3S8OBdJsdUK2MiLkTbqx7lm_2v2osVJV2SfC8w9XbCVCv2ICQE0xd-g_HbT8kAsu1vGRJhqORLc2apRBv8RA1TE3nKW3ba9EbtOcBtS6Aq7kRQmUpgxv4dpwnpjIn8pBRYiezRm85ooXMWpK-_D1_F-Xc0KE16eHv1Sv91MWpjB0WGXaJC4rK8fIVjxr5N5sug0xJV9CaBHP0NFZO5hsWgOlzeCtJ98B8O3X7YVjc1_WD1wzhuuZpaqqxLVGHXAS9OM1nKE897-uCbQuniC59iUAo5H8msXesWmuHUdi5Qiz2qsM_7o2IeJgc0zVMW1WY5FlZAgeP4gcErRfvaD2JGqb3xC4EziepLwd723coPHo1wyejg9lMWix-tIDF40AQboUjOYTNhPYjAq80zmv1hLUKP_H-lIac20adEdY1yhTeHONcRRDocoHKJzwHiVKjSTIRsh6uMbL3AjPezxRDonqbLAZvIunfvrpt1pEGImo1WSdUgRNhyb1GoD1UNtaXjK3_MRAZqqQDDa8BfXLDZKFrT27LZdtZRYYI44nubHCll2p7PswqWTZ8YSLInAEjSjxKdPImUzT6FKzpWARMRmbyoulTadRRSn18KKwkNnFsUDq0W6ST1WNktR83MZpstUD38YYnhACSBQlLwe4_RHY5eRg3BL3y8mh7nYscBvA0FDMrOMCXdwyNwYrc7cbRK2rSdIkowiDakusBIl47LR9VNXvCX7feYZpCfDdtQKHKekZXQLPVmhliCCFNOIhy5GXQYye6lmCuu3WLau-brmqO7vC7wL2</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -99.133425,19.431972,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Himeji Castle [You Only Live Twice]</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AOq6mzoAoP14q26UXEj59MJ3ScZt2wU-pRc1nYUueE9F5VTffppttEf1O-cKy0B1PauWGLeCMfBkXm7kGe04HTVl7H5YtKyXB7bLj-GteE8LtnL4jVV5FMLSeZ3M9i4Urx5bKZB_e3yoD_YemAiE8yXUGHA_y_zMvJPf2azNnVrglH6JZUjvz9Ytil_tTtByv2YYh4lzROFKlTpVO_oaaS2rlxXjlFnzlDnBzQ2b4CJlGVa0cRcCmI3XyHlfsj2sgUEpxPzrihbxJ7b5y5yn4sVRjYe-Ftc-In1XDdgA46PHqylfLybeTPVmWa6O8vP5icVyYdlGoK88BNq2c3LydguCJEyt11ZUnd_7bHsl0zu1L4JEvd-8gzfIsEdx6zb8gPC-Vu6_ZVOaOGq2CL59Tzmn2dws3NYLI1tH9Okt6S8Wfy5KWYKtQrYiMvH_AYE4bJpTmqhEXVxfMKGUStBg_4OO5O5V-HLFHPEjW-qEulzm6eVGmFtWMKyrWGfTOyGI5nbj6ayHzXbzhRZ-3AhHlygfMSJ8N5EMOuQIFxDdvXGzDoHaqmIe1u1jhQn1H4NXFHh45JGTGi0ryOU-g0Gmu5ulNr3tiPm9O9y1WPK35-r4TYSL5UEh29bX1paAWBWIz9Uyb3JJ2AE3Za4aKwwbmc-pOSjYyEhhlXr-VKGdtUnzqpUTe78whtUYyHsbTm_ElHjUFa04hTCoJ9bj2KckFqb3o0_1DpEiR9J7CgnUCIt2NdwZiMMb7tN9qCdLNwaT5_6YcnPB5PuKNs4gld6v7FcQwn1kPluoy6FYnvJoGRuTq2-couOyAoBdCVSTKJ5AF2qukb7p3PlFW9dB6jbCbi0zFrw0wtBOHTSq" height="200" width="auto" /><br><br>nusually for the globetrotting secret agent, this is one of the few Bond films to be shot primarily in one location – Japan, in this case. One of the many beautiful Japanese James Bond film locations is Himeji Castle, dating back to 1333.<br><br>This UNESCO World Heritage Site and designated National Treasure played the role of a ninja training camp in You Only Live Twice, where Sean Connery learns to fight. The real role of the castle is one of legend in Japan, and it’s a spectacular place to visit.]]></description>
+        <styleUrl>#default</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AOq6mzoAoP14q26UXEj59MJ3ScZt2wU-pRc1nYUueE9F5VTffppttEf1O-cKy0B1PauWGLeCMfBkXm7kGe04HTVl7H5YtKyXB7bLj-GteE8LtnL4jVV5FMLSeZ3M9i4Urx5bKZB_e3yoD_YemAiE8yXUGHA_y_zMvJPf2azNnVrglH6JZUjvz9Ytil_tTtByv2YYh4lzROFKlTpVO_oaaS2rlxXjlFnzlDnBzQ2b4CJlGVa0cRcCmI3XyHlfsj2sgUEpxPzrihbxJ7b5y5yn4sVRjYe-Ftc-In1XDdgA46PHqylfLybeTPVmWa6O8vP5icVyYdlGoK88BNq2c3LydguCJEyt11ZUnd_7bHsl0zu1L4JEvd-8gzfIsEdx6zb8gPC-Vu6_ZVOaOGq2CL59Tzmn2dws3NYLI1tH9Okt6S8Wfy5KWYKtQrYiMvH_AYE4bJpTmqhEXVxfMKGUStBg_4OO5O5V-HLFHPEjW-qEulzm6eVGmFtWMKyrWGfTOyGI5nbj6ayHzXbzhRZ-3AhHlygfMSJ8N5EMOuQIFxDdvXGzDoHaqmIe1u1jhQn1H4NXFHh45JGTGi0ryOU-g0Gmu5ulNr3tiPm9O9y1WPK35-r4TYSL5UEh29bX1paAWBWIz9Uyb3JJ2AE3Za4aKwwbmc-pOSjYyEhhlXr-VKGdtUnzqpUTe78whtUYyHsbTm_ElHjUFa04hTCoJ9bj2KckFqb3o0_1DpEiR9J7CgnUCIt2NdwZiMMb7tN9qCdLNwaT5_6YcnPB5PuKNs4gld6v7FcQwn1kPluoy6FYnvJoGRuTq2-couOyAoBdCVSTKJ5AF2qukb7p3PlFW9dB6jbCbi0zFrw0wtBOHTSq</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            134.693905,34.839449,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DB5 chase [Goldfinger]</name>
+        <description><![CDATA[here’s no more suitable place for a Bond-style high-speed car chase than a vertiginous mountain pass through the Alps, and Furka Pass played exactly that role in Goldfinger. It’s among the most iconic James Bond film locations because of the heart-in-mouth quality of the hairpin turns and sheer drops.<br><br>We’d definitely recommend hiring a car and traveling through the scenery (at a reasonable pace, of course!) or doing the walk through the glacier at the top.<br><br>Trust us, traveling at James Bond speed means you won’t be able to take anything in – you’ll want to be able to drink in the views! A grand and worthy landmark of Switzerland to be sure.]]></description>
+        <styleUrl>#default</styleUrl>
+        <Point>
+          <coordinates>
+            8.414864,46.57241,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+
+    </Document>
+    </kml>
