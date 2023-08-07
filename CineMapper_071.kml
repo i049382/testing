@@ -315,7 +315,15 @@
       </Placemark>
 
       <Placemark>
-        <name>Old Royal Naval College [Thor 2: Dark World]</name>
+        <name>Old Royal Naval College []</name>
+        
+        <description><![CDATA[{
+          "film": "Thor 2: Dark World",
+          "photo": "https://www.newsshopper.co.uk/resources/images/4940154/?type=og-image",
+          "studio": "marvel",
+          "description": "",
+          "youtube": ""
+        }]]></description>
         <styleUrl>#marvel</styleUrl>
         <Point>
           <coordinates>
