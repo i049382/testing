@@ -1,0 +1,799 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Lord of the Rings filming location map</name>
+    <description>All the places in New Zealand where the original Lord of the rings trilogy was shot</description>
+    <Style id="icon-503-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-503-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-503-DB4436-nodesc-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-503-DB4436-nodesc-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-503-DB4436-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-DB4436-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-DB4436-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-89-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/89-movies.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-89-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/89-movies.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-89">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-89-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-89-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Untitled layer</name>
+      <Placemark>
+        <name>MORDOR</name>
+        <description>All over the different areas of Tongariro National Park was used for Mordor. The Chateau was used by the crew as a base of operations. Most of the locations used can only be accessed by helicopter.</description>
+        <styleUrl>#icon-89</styleUrl>
+        <Point>
+          <coordinates>
+            175.56118,-39.194746,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tawhai Falls</name>
+        <description>Stop here to take the 20min walk to Tawhai falls</description>
+        <styleUrl>#icon-89</styleUrl>
+        <Point>
+          <coordinates>
+            175.526547,-39.182614,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rock where Isuldur cut the ring from Saurons hand</name>
+        <description><![CDATA[-39° 14' 6.96", +175° 35' 14.34"]]></description>
+        <styleUrl>#icon-89</styleUrl>
+        <Point>
+          <coordinates>
+            175.587317,-39.235267,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rohirrim Village</name>
+        <description>Poolburn Dam is where the Orcs attacked the Rohirrim village and where Morwen sent her children to Edoras. The nearby sites were used for filming Aragon Gimli and Legolas chasing the Orcs that were taking Merry and Pippin to Sauraman</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            169.739105,-45.296146,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Norwest Lakes</name>
+        <description><![CDATA[scene of "the flight to the ford",south of Rivendell and scenes heading to Moria.This location is an approximate one]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            167.355386,-45.30948,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>River Anduin</name>
+        <description>A location used for the River Anduin. The sections here were used for the journey before the Fellowship reached the Brown Lands and the area between Mirkwood and Emyn Muil.</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            167.669312,-45.495918,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fangorn Forest</name>
+        <description>Both sides of the road were used to shoot Aragon moving through the trees of Fangorn forest.</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            167.908735,-45.351196,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nen Hithoel </name>
+        <description>Nen Hithoel is the landing spot where the remaining fellowship landed the boats. The last calm spot before the Falls of Rauros, the fellowship rested and created a small fire. Their last meal before the breaking of the fellowship and also where Frodo and Sam crossed over to the eastern shore, beginning their journey to Mordor.</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            168.173513,-45.266501,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Merry & Pippin hide from the Orcs under a tree stump]]></name>
+        <description><![CDATA[In one the final scenes of The Fellowship of the Ring, Merry and Pippin hide from the Orcs and a large tree shields Frodo from the Urukhai. <br>The slopes here were also used to potray Lurtz the Uruk running through the forest to Nen Hithoel.]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            168.175003,-45.267067,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Escape from the Narzgul</name>
+        <description><![CDATA[This area has a path which has the following features from the Fellowship of the Ring:<br>1. The path that the Narzgul rides along<br>2. Where the Hobbits fall down and discover  mushrooms<br>3. Sam and Frodo breakfast in the Woody End<br>4. The Hobbit's flee from the Narzgul toward the ferry crossing.]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            174.787856,-41.301483,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The burnt Orc mound - edge of Fangorn Forest</name>
+        <description>Here is where the riders of Rohan burnt the orcs and Urak hai who had been carrying Merry and Pippin towards Isengard.</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            168.173416,-45.332999,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Isengard - the Wizards Vale</name>
+        <description>This location formed the basis for the digitised background of Isengard.</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            168.316055,-44.757721,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Amon Hen </name>
+        <description>Where Merry and Pippin were captured by the Urak Hai</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            168.335801,-44.685623,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sam and Smeagol discuss food</name>
+        <description>To reach the spot where Sam tries to teach Gollum about Coneys and Taters go to the walking track at the end of the river.</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            168.543094,-45.069194,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ithilien</name>
+        <description><![CDATA[Where Sam and Frodo saw the Oliphants. To reach here go down the river and walk towards the lake. <br>The bank on the right is Frodo Sam and Smeagol watch the battle between the men Harad and the Gondor Rangers.]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            168.544112,-45.066961,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dans Paddock</name>
+        <description>This where Gandalf rode up to Isengard. The peak of Mt Earnslaw was used as part of the Misty Mountains.</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            168.340828,-44.671909,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lothlorien</name>
+        <description>The edge of Lothlorien. This area was used to show the Fellowship entering Lothlorien.</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            168.335068,-44.657658,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Amon Hen</name>
+        <description><![CDATA[Here is where the fellowship battled Saurons UrakHai. Unfortunately the exact location isn't accessible.]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            168.575163,-45.062064,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dimrill Dale</name>
+        <description>in the Remarkables Mountain rainge and used as part of the scene where the fellowship escape Moria after loosing Gandalf</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            168.810346,-45.067509,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Battle of the Wargs</name>
+        <description>from the TTT.Many locations all over this hill - Deer Park Heights were used in the Battle scene</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            168.724388,-45.041777,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mountain Tarn - Rohirrim Refugees</name>
+        <description>Where the convey of Rohirrim passed a small Mtn Lake in TTT. Deer Park Heights is the real location</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            168.729002,-45.038367,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ford of Bruinen - Background shot</name>
+        <description>The part close to the bridge was used as the Ford  in flood.</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            168.681588,-44.848858,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gladden Fields</name>
+        <description>Where Isildur was ambushed in then betrayed by the One Ring.</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            168.839187,-44.939591,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pillars of the Kings</name>
+        <description><![CDATA[Kawarau River -aka the Anduin River<br>This is where the two huge pillars of Isildur and Anduin guarded the river entrance.<br>A river trip will let you go to the exact spot of the Argonath.<br>-45° 0' 39.96", +168° 53' 34.39"]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            168.892654,-45.010881,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Treble Cone Ski Area</name>
+        <description>Ski resort not in the LOTR but a good reference point!</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            168.88807,-44.632198,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ford of Bruinen</name>
+        <description><![CDATA[This is where Arwin carried Frodo across the river then summoned the flood to wash away the Nazgul. <br>To reach it park in the area behind main street and walk down the riverbank. The exact spot is 200m up.]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            168.830719,-44.935044,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Flight to the Ford</name>
+        <description><![CDATA[Shot in the town of Tarras is where Arwen carries Frodo and flees from the Narzgul. The actual shots where filmed on private land but you can see the area used as the 'Great East Road' by heading south towards cromwell for 6km then turning right onto Maori Point Road for another 2km.]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            169.346973,-44.849995,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lighting of the Beacons</name>
+        <description>When the beacons are lit to call for aid Franz Josef Glacier was selected as one of the locations. Again helicopter is one of the best ways to see it but if you drive down the access road great views are available of the base of the glacier.</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            170.207586,-43.503461,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ancient ruins south of rivendell</name>
+        <description>There is a large brown hill on the right hand side where ruins were digitally imposed onto the background as the fellowship head south</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            168.961088,-44.653851,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The ring falls</name>
+        <description>The mountains at the headwaters of the Rangitata was where Frodo lost the ring only have Boromir picked it up and be tempted by it.</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            170.695303,-43.328577,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pelennor Fields</name>
+        <description>The main wide shot battle scenes of the Return of the King were shot here with the close ups being filmed at Queen Elizabeth Park in Paraparaumu</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            170.059742,-44.208461,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Trudging through the snow - Misty Mtns</name>
+        <description>This is where the fellowship are high on the mountain walking in single file through the snow was shot.</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            168.740214,-44.443152,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Caradhas</name>
+        <description>the Redhorn pass.Mt Earnslaw was used for Caradhas as the fellowship tried to cross the Misty Mountains.</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            168.408385,-44.62516,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Misty mountains - above Moria</name>
+        <description>The whole Southern Alps were used for shots of the Misty Mountains.Mt Aspiring was used in the opening sequence of The Two Towers</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            168.732611,-44.375464,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dimrill Dale</name>
+        <description><![CDATA[This is where the fellowship escaped Moria after loosing Gandalf to the Balrog. While the doors were added digitally, steps were built onto the site.<br>While Helicopter is the best way to reach the site, you can get here by tramping. Though you need to be at mountaineering skill level to get here.]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            172.532108,-41.55247,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hunted by Sauramons Crows</name>
+        <description>The Fellowship had a meal by the jagged outcrops and the hobbits practiced the sword play with Boromir. All is going well Sarumans Black crows searched for them.Getting here is only possible by helicopter.</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            172.500114,-40.897921,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[River Anduin & Rohan River]]></name>
+        <description>In the Fellowship of the Ring the Fellowship use Elven boats to travel down the river Anduin. Principal filming for these scenes was undertaken on the Hutt river between Moonshine and Totara Park. Further smaller scenes were shot in Kaitoke in the north.</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            175.042312,-41.118854,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Isengard Gardens</name>
+        <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            175.099945,-41.103027,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Rivendell & Fords of Isen]]></name>
+        <description><![CDATA[Rivendell is one of the few locations which has information about the site and sets. It's position is signposted from the entrance to the park and there is an interactive display which shows the construction process]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            175.200376,-41.062163,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bree</name>
+        <description>Filmed at Fort Dorset -an old army base. Nothing remains of the set or the site unfortunately.</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            174.83737,-41.327246,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chetwood forest</name>
+        <description><![CDATA[Past the Ngarua Caves there is an unpaved Canaan road on the right. 8km in past the cattle stop on the right is where the catering marquee stood. A little further past another stand of trees is were Aragon led the hobbits into the wild (What about second breakfast?)<br>Another scene showing the Hobbits leaving the shire was also filmed here]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            172.878783,-40.965534,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dimholt Road</name>
+        <description><![CDATA[Known as the 'Path of the Dead' by the Rohirrim. It is here in the Return of the King that Legolas tells the story of the Army of the dead.<br>To access this spot drive down from Martinborough and turn towards Cape Palliser. Park in the DOC car park  and walk up the Putangirua streambead. Note: its a 2-3hr hike]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            175.232224,-41.440606,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lothlorien - Gladden fields</name>
+        <description>Filmed at Fernside historic Home.The Gardens were filmed as lothlorien and the lake was Deagol and Smeagol fishing</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            175.315725,-41.123637,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Westpac Trust Stadium</name>
+        <description><![CDATA[30000 cricket fans stamped their feets & chanted in black speech during a break in the game on Peter Jacksons orders to get sounds to use in the Helms Deep scenes]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            174.788027,-41.272399,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dunharrow</name>
+        <description><![CDATA[The cliff face behind the fenced off area was utilised as the Rohirrim camp of Dunharrow.<br>The best parking for this location is in Dorrie Leslie Park.]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            174.791265,-41.333485,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Downed Nazgul and Mumak - Pelennor Fields</name>
+        <description>Close ups for the Pelennor Fields were filmed here</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            174.97979,-40.954458,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dunharrow </name>
+        <description><![CDATA[This abandoned quarry was used as the - Rohirrim encampment. It was here that Dernhelm approached Merry before thier ride to the aid of the Gondor. <br>Lyall bay was also used for some shots of Dunharrow]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            174.787438,-41.30212,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Leaving the shire</name>
+        <description>Otaki and Otaki GorgeScenes from FOTR where the Hobbits leave the shire</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            175.264964,-40.806759,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>River Anduin</name>
+        <description>While 4 rivers were used to create the river Anduin in the Fellowship of the Ring, the Rangitikei River Gorge was the first seen and affords the best views.  This site is probably the best to view the river as there is a footbridge with a bungy jump on it.</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            175.970539,-39.7049,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hobbiton</name>
+        <description><![CDATA[Site of the wonderful Hobbiton, the town of Matamata has become a self styled homage to the Hobbit village. <br>Since the fellowship of the ring the sets have been reused and left intact once filming was complete. There is now a Hobbit themed bar as well.<br>The site is on private land so access is only through the tours.]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            175.668039,-37.866113,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Weathertop - Amon Suil</name>
+        <description><![CDATA[-37° 28' 29.18", +174° 45' 49.34"<br><br>Though the actual weathertop was made in studio this area best represents it and it's surrounding countryside]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            174.755066,-37.479983,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mordor Emyn Muil</name>
+        <description>Many Mordor and Emyn Muil scenes filmed around here</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            175.56389,-39.234439,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ithilien</name>
+        <description>The site where Smeagol chased and caught his fish and Sam and Frodo were caught by Faramir in The Two Towers. To access the site, go up to Mangawhero falls, stop at the turn off area then clamber down to the river bed</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            175.502955,-39.3196,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Isildur cuts the ring from Sauron</name>
+        <description>Here is where the Isuldur took up his fathers sword and cut the ring from Saurons hand.</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            175.5587,-39.235253,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>scene from Battle of last Alliance</name>
+        <description>Mt Ruapehu - Orcs grouped on a rocks in the Battle of the last Alliance FOTR</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            175.558672,-39.23525,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Helm's Deep & Minas Tirith]]></name>
+        <description>As Haywards Hill Road Quarry is a fully operational quarry nothing remains of the sets and access to the site is pretty much impossible.</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            174.977268,-41.148895,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Edoras </name>
+        <description><![CDATA[Home of Theoden, King of Rohan. Edoras was one of the most complex sets taking 11 months to build. <br>The area is called Mt Potts and is therefore private land. So getting to the exact site requires permission. But great views are available on the road nearby.]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            170.891305,-43.547156,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Trollshaw Forest and Osgiliath Wood</name>
+        <description>Different parts of this plantation forest was used for Trollshaw Forest, Osgiliath Wood and some scenes of Arwen walking through the forest in the Twin Towers. This spot is probably the best place to park and experience some of the trails of the forest. Most of which are mountain bike friendly</description>
+        <styleUrl>#icon-89</styleUrl>
+        <Point>
+          <coordinates>
+            175.205795,-40.548912,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Leaving the Shire</name>
+        <description><![CDATA[Otaki Gorge Road was used to portray the Hobbits leaving the Shire. While the actual locations are not accessible to the public the 19km drive along the road has scenery reminiscent of Tolkien's description of the edge of the Shire and has great picnic spots beside the river]]></description>
+        <styleUrl>#icon-89</styleUrl>
+        <Point>
+          <coordinates>
+            175.143782,-40.774091,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Weta Cave</name>
+        <description><![CDATA[The small museum contains artwork props and collectibles not only from the Lord of the Rings, but from other Weta films as well. With free admission, memorabilia to purchase and a direct bus from the city centre, it's definitely worth it]]></description>
+        <styleUrl>#icon-89</styleUrl>
+        <Point>
+          <coordinates>
+            174.824356,-41.306424,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Embassy Theatre</name>
+        <description>Built in 1926 this theatre was especially restored for the premier of the Lord of the Rings in 2001. Loving restored it even has the names of the stars on the seats.</description>
+        <styleUrl>#icon-89</styleUrl>
+        <Point>
+          <coordinates>
+            174.784026,-41.294237,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Get off the road now!</name>
+        <description><![CDATA[Here is the tree that the Hobbit's sat under while hiding from the Narzgul. While a large model tree used for the movie the actual location has some semblance to the scene]]></description>
+        <styleUrl>#icon-89</styleUrl>
+        <Point>
+          <coordinates>
+            174.78865,-41.30125,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Isengard Gardens</name>
+        <description>An elevated section of this garden was used to film Gandalf riding into Isengard.  During filming the lawn was removed and a gravel pathway with chain-link fence was constructed which formed the entrance into Isengard.</description>
+        <styleUrl>#icon-89</styleUrl>
+        <Point>
+          <coordinates>
+            175.093513,-41.10162,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Toppled trees of Isengard</name>
+        <description>Shooting took place here for the trees of Isengard (Since removed) which were chopped down by Orcs.</description>
+        <styleUrl>#icon-89</styleUrl>
+        <Point>
+          <coordinates>
+            175.09345,-41.101171,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aragon washes up on shore</name>
+        <description>Following the battle with the Wargs, Aragon falls off a cliff and washes up on shore here.</description>
+        <styleUrl>#icon-89</styleUrl>
+        <Point>
+          <coordinates>
+            175.112747,-41.094404,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cardrona Summit</name>
+        <description><![CDATA[While not a filming location, the Cadrona Summit offers great views over many locations such as:<br>The River Anduin (on the left)<br>Pillars of Argonath (on the left)<br>Dimrill Dale (straight ahead)<br>Ford of Bruinen (on the right)<br>Amon He, sitting on the shore of Nen Hithoel]]></description>
+        <styleUrl>#icon-89</styleUrl>
+        <Point>
+          <coordinates>
+            169.0553,-44.835482,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Silverlode River</name>
+        <description>The river outlet by the swing bridge was used as the Silverlode and Anduin Rivers.</description>
+        <styleUrl>#icon-89</styleUrl>
+        <Point>
+          <coordinates>
+            168.178909,-45.316004,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rohan</name>
+        <description><![CDATA[The area around the reservoir, on the Rough Range Ridge in the Ida valley was used heavily to portray Rohan. It's recommended that only 4WD vehicles come to this area.]]></description>
+        <styleUrl>#icon-89</styleUrl>
+        <Point>
+          <coordinates>
+            169.809494,-45.326806,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
