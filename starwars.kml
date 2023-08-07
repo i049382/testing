@@ -1,0 +1,593 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>CineMapper</name>
+    <description/>
+
+      <StyleMap id="default">
+        <Pair>
+          <key>normal</key>
+          <styleUrl>#default-normal</styleUrl>
+        </Pair>
+        <Pair>
+          <key>highlight</key>
+          <styleUrl>#default-highlight</styleUrl>
+        </Pair>
+      </StyleMap>
+      <Style id="default-normal">
+        <IconStyle>
+          <color>ffb73a67</color>
+          <scale></scale>
+          <Icon>
+            <href>https://ik.imagekit.io/slink/CineMapper/CineMapper_a5BvTcXYh.png?updatedAt=1691326155823</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Style id="default-highlight">
+        <IconStyle>
+          <color>ffb73a67</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://ik.imagekit.io/slink/CineMapper/CineMapper_a5BvTcXYh.png?updatedAt=1691326155823</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+
+      <StyleMap id="starwars">
+        <Pair>
+          <key>normal</key>
+          <styleUrl>#starwars-normal</styleUrl>
+        </Pair>
+        <Pair>
+          <key>highlight</key>
+          <styleUrl>#starwars-highlight</styleUrl>
+        </Pair>
+      </StyleMap>
+      <Style id="starwars-normal">
+        <IconStyle>
+          <color>ffb73a67</color>
+          <scale>30</scale>
+          <Icon>
+            <href>https://ik.imagekit.io/slink/CineMapper/Starwars_LI149jc3Q.png?updatedAt=1691352990383</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <scale>30</scale>
+        </LabelStyle>
+      </Style>
+      <Style id="starwars-highlight">
+        <IconStyle>
+          <color>ffb73a67</color>
+          <scale>30</scale>
+          <Icon>
+            <href>https://ik.imagekit.io/slink/CineMapper/Starwars_LI149jc3Q.png?updatedAt=1691352990383</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <scale>2</scale>
+        </LabelStyle>
+      </Style>
+
+      <StyleMap id="marvel">
+        <Pair>
+          <key>normal</key>
+          <styleUrl>#marvel-normal</styleUrl>
+        </Pair>
+        <Pair>
+          <key>highlight</key>
+          <styleUrl>#marvel-highlight</styleUrl>
+        </Pair>
+      </StyleMap>
+      <Style id="marvel-normal">
+        <IconStyle>
+          <color>ffb73a67</color>
+          <scale></scale>
+          <Icon>
+            <href>https://ik.imagekit.io/slink/CineMapper/CineMapperMarvel_T36MtcVfv.png?updatedAt=1691350353337</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Style id="marvel-highlight">
+        <IconStyle>
+          <color>ffb73a67</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://ik.imagekit.io/slink/CineMapper/CineMapperMarvel_T36MtcVfv.png?updatedAt=1691350353337</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+
+      <StyleMap id="transformers">
+        <Pair>
+          <key>normal</key>
+          <styleUrl>#transformers-normal</styleUrl>
+        </Pair>
+        <Pair>
+          <key>highlight</key>
+          <styleUrl>#transformers-highlight</styleUrl>
+        </Pair>
+      </StyleMap>
+      <Style id="transformers-normal">
+        <IconStyle>
+          <color>ffb73a67</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://ik.imagekit.io/slink/CineMapper/Transformers_WVfHs6oN0.png?updatedAt=1691354329225</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Style id="transformers-highlight">
+        <IconStyle>
+          <color>ffb73a67</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://ik.imagekit.io/slink/CineMapper/Transformers_WVfHs6oN0.png?updatedAt=1691354329225</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+
+      <StyleMap id="harrypotter">
+        <Pair>
+          <key>normal</key>
+          <styleUrl>#harrypotter-normal</styleUrl>
+        </Pair>
+        <Pair>
+          <key>highlight</key>
+          <styleUrl>#harrypotter-highlight</styleUrl>
+        </Pair>
+      </StyleMap>
+      <Style id="harrypotter-normal">
+        <IconStyle>
+          <color>ffb73a67</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://ik.imagekit.io/slink/CineMapper/Harry%20Potter_4bUheL84k.png?updatedAt=1691367626777</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Style id="harrypotter-highlight">
+        <IconStyle>
+          <color>ffb73a67</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://ik.imagekit.io/slink/CineMapper/Harry%20Potter_4bUheL84k.png?updatedAt=1691367626777</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+
+
+
+
+
+
+
+<Folder>
+      <name>Star Wars</name>
+      <Placemark>
+        <name>Corellia Chase [Solo]</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AOq6mzp31gV2mssp-NhEp77Ctv5awJ58Ez8oj3rk1VvCbYRStn6TdjkGYxiR1dRcsv83rDu7VkGcUeS2mZlpBCPKDySJlmKGtLIWilXgh6fOM-PeMEb72B3otfPCaK1mQUssossK2iVxzXAvcnUoXyfAVb6kFaPCy5a9Dqy2aTZ6HpXLZCogeLQZ2DrPSaQm6fGWT9VMQMttRatxz2MD-dSYW3Dc1AS9yiFslqfY7n2E" height="200" width="auto" /><br><br>https://www.youtube.com/embed/iGebheN-DWw<br><br>Han Solo is chased.]]></description>
+        <styleUrl>#starwars</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AOq6mzp31gV2mssp-NhEp77Ctv5awJ58Ez8oj3rk1VvCbYRStn6TdjkGYxiR1dRcsv83rDu7VkGcUeS2mZlpBCPKDySJlmKGtLIWilXgh6fOM-PeMEb72B3otfPCaK1mQUssossK2iVxzXAvcnUoXyfAVb6kFaPCy5a9Dqy2aTZ6HpXLZCogeLQZ2DrPSaQm6fGWT9VMQMttRatxz2MD-dSYW3Dc1AS9yiFslqfY7n2E</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.327769,50.817966,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Imperial Base, Scarif [Rogue One]</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AOq6mzp0Wv7d9i-R6qqEyv9xhqr0ZhLWtmPcYELy9kRj-lyVAidY_VwfsAimccmFd-L86F58K4boXAPb_97Pzt1SZsWs0xaLlODBmqtH_y2bnJXunT9tk2HrMT1AdWBTpNTm5ifw5hX5Qzd1YHv0VA9AWoRT4rrE7cy0f1NR3riOzRqisSQMXXZXSq91dZODCDeec2S81CgRi6woWC8KDxwW-aocvZacgeyvtsRiBMzg" height="200" width="auto" /><br><br>https://www.youtube.com/embed/DD5Af7FIwvg]]></description>
+        <styleUrl>#starwars</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AOq6mzp0Wv7d9i-R6qqEyv9xhqr0ZhLWtmPcYELy9kRj-lyVAidY_VwfsAimccmFd-L86F58K4boXAPb_97Pzt1SZsWs0xaLlODBmqtH_y2bnJXunT9tk2HrMT1AdWBTpNTm5ifw5hX5Qzd1YHv0VA9AWoRT4rrE7cy0f1NR3riOzRqisSQMXXZXSq91dZODCDeec2S81CgRi6woWC8KDxwW-aocvZacgeyvtsRiBMzg</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.0177,51.503452,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Maz's Palace, Takodana [Force Awakens]]]></name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AOq6mzrxU0FIw7np4s_Qc0A4FP7k_Hl9C6w-bbAZ3H2E0GeihKqRje-7OU0qXRYr50SARWfds-Hpec17qOS0RT05ILNl9OjbZiE0P5nfSL6XK7FGFu0wRMyGHY5R_H-020SGzhgbQquJPVWHLTI7fRtA1EE1D7Mfxng9oX2CV0wzHKJHxWgclYuJI1pxxBdcxji-mn8sCBpaTz7ggEtkfMFTxK1_krrbmHJtozTYIM68" height="200" width="auto" /><br><br>https://www.youtube.com/embed/qy3N4-KLNWs<br><br>Rey & Finn meet Han & Leia. X wings attack the beach.]]></description>
+        <styleUrl>#starwars</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AOq6mzrxU0FIw7np4s_Qc0A4FP7k_Hl9C6w-bbAZ3H2E0GeihKqRje-7OU0qXRYr50SARWfds-Hpec17qOS0RT05ILNl9OjbZiE0P5nfSL6XK7FGFu0wRMyGHY5R_H-020SGzhgbQquJPVWHLTI7fRtA1EE1D7Mfxng9oX2CV0wzHKJHxWgclYuJI1pxxBdcxji-mn8sCBpaTz7ggEtkfMFTxK1_krrbmHJtozTYIM68</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -3.135092,54.565425,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Naboo Forest [Phantom Menace]</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AOq6mzryPIwaQKVyQHnRA9nzlXO1BDgvJatPvdnXzpAMpuxTTs2Yjb4m-PqpMo4XBm3c5MoBwceWHE7OEpr7m47TpGTLZxmdaRropejRSgJY-42C2eum9gxEZwNeWbCdCyPwOmG3_b-drJTIEy5rHhr4A06RtOMANCKkpblYFM3UegLNLsWcw0CgOlqJn6XwcPML3gzfaN37ggFSq2Zg5mnLSssI9ZuyWrduisAc4QI" height="200" width="auto" /><br><br>https://www.youtube.com/embed/_gsWpr2KKN0<br><br>Before the Battle of Naboo, the Gungan Army meet with the Palace Guard. Also, where Qui Gon meets Jar Jar.<br><br><br><br>https://www.youtube.com/embed/2Sp0Wch1fAo<br><br><img src="https://lh3.googleusercontent.com/umsh/AOq6mzqi_mDEKaLb_6Dvxk7Nxk6oz8njh0oNHeLIHpp90XJCvYlM4EuHZ-Mhx4p9wt6F6cFt1AArxjnn4YzNLuI9fgUj7HSrPw9qDWG4auzdnc9AcB-NFVk0cw1kLEZVmWTUidcaya-9s4vdspFxwwHa8WhmN15Es7GQGHpFqmMYgGhFcBH1iz2lf-xNhxTLlTtLYcLDGU4L8qPEGwXtI1-GbFrIvCujFnGzFV8a9Gs" height="200" width="auto" />]]></description>
+        <styleUrl>#starwars</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AOq6mzryPIwaQKVyQHnRA9nzlXO1BDgvJatPvdnXzpAMpuxTTs2Yjb4m-PqpMo4XBm3c5MoBwceWHE7OEpr7m47TpGTLZxmdaRropejRSgJY-42C2eum9gxEZwNeWbCdCyPwOmG3_b-drJTIEy5rHhr4A06RtOMANCKkpblYFM3UegLNLsWcw0CgOlqJn6XwcPML3gzfaN37ggFSq2Zg5mnLSssI9ZuyWrduisAc4QI https://lh3.googleusercontent.com/umsh/AOq6mzqi_mDEKaLb_6Dvxk7Nxk6oz8njh0oNHeLIHpp90XJCvYlM4EuHZ-Mhx4p9wt6F6cFt1AArxjnn4YzNLuI9fgUj7HSrPw9qDWG4auzdnc9AcB-NFVk0cw1kLEZVmWTUidcaya-9s4vdspFxwwHa8WhmN15Es7GQGHpFqmMYgGhFcBH1iz2lf-xNhxTLlTtLYcLDGU4L8qPEGwXtI1-GbFrIvCujFnGzFV8a9Gs</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.442671,51.668785,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Road to Jabba's/Boba's Palace [Return of the Jedi/Book of Boba Fett]]]></name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AOq6mzqGao1qIiKIcijt-xv_QME8w8Zu-DIBKrVNDGfOztuu4RGSRLDVyn788ou3PftcluKaX0GXNzjHM4VMiDN2-8Hz01cYsG5nwHjJnkBt9cFs_wy4oB1SSlZeQ3Y0N4dwgjkW80ee-dCzCL1cDxMEY7fhKT1T_GySAx4OfeOFC7teFSmJQR_MIG7cm2lU0to8DxkMZH36RsD7Vz2CQXLaH0I1hXuafqGFllEeA6TttkS8bIgHWKgJD3jDEqmRtOIHJ5ae1MredMVvqVRwSv07NvI2h6p-kOS-PBAxpllYy_N_7nXjCw8ffeTCESBMkzp8UE0LAnUOOTHjPUSreQwpUS3BK3sgnmi2bXkT3QJb_3tP_xTwg6y8UBDi6SWp_e5p90ccNDXL0_Y5zfglZaSoGJinjtXpDXlLjmUMRpQWTVYN8rnZdIdGDBE8AlqVMA1gVYHA9UeZL-7fbNOEOk6qk1QaLF6ZiKV9GWKQMZkofJUgfjDQy0bp1ZlHiS5Hmk1eMG--RXZEZKm7oeDVPHakjo4NhMDOa7k9Ea3O2rmQGVuUJjQhP_Ggg7qxK_36rDBm0XuDMaH1f44OYv4eU2NiBNdzfwFSKM1W-4zLiYj2-F8-OuEe1t4LcdW_NWioNJM34HB6PkFTW8psf7zN1kA8lFeouPdNIVn42Est9LDwJGOLKQqryiGnjoswtNlmouOM-bJfF8IVe60n0r3cTkeQTvY3Qc6GqilaBUcedJjOEs-MJd2AC1Sw6X94TrNRg_X-eqU9h6v7kZdJjFjpg-srTI1MSrperX-KU8EoX1QRx1qQR_Z8DYDI-AE0jnvo2mqCIL7r12JnpT8TnPu58gPVwv2KiiawuJoD" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#starwars</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AOq6mzqGao1qIiKIcijt-xv_QME8w8Zu-DIBKrVNDGfOztuu4RGSRLDVyn788ou3PftcluKaX0GXNzjHM4VMiDN2-8Hz01cYsG5nwHjJnkBt9cFs_wy4oB1SSlZeQ3Y0N4dwgjkW80ee-dCzCL1cDxMEY7fhKT1T_GySAx4OfeOFC7teFSmJQR_MIG7cm2lU0to8DxkMZH36RsD7Vz2CQXLaH0I1hXuafqGFllEeA6TttkS8bIgHWKgJD3jDEqmRtOIHJ5ae1MredMVvqVRwSv07NvI2h6p-kOS-PBAxpllYy_N_7nXjCw8ffeTCESBMkzp8UE0LAnUOOTHjPUSreQwpUS3BK3sgnmi2bXkT3QJb_3tP_xTwg6y8UBDi6SWp_e5p90ccNDXL0_Y5zfglZaSoGJinjtXpDXlLjmUMRpQWTVYN8rnZdIdGDBE8AlqVMA1gVYHA9UeZL-7fbNOEOk6qk1QaLF6ZiKV9GWKQMZkofJUgfjDQy0bp1ZlHiS5Hmk1eMG--RXZEZKm7oeDVPHakjo4NhMDOa7k9Ea3O2rmQGVuUJjQhP_Ggg7qxK_36rDBm0XuDMaH1f44OYv4eU2NiBNdzfwFSKM1W-4zLiYj2-F8-OuEe1t4LcdW_NWioNJM34HB6PkFTW8psf7zN1kA8lFeouPdNIVn42Est9LDwJGOLKQqryiGnjoswtNlmouOM-bJfF8IVe60n0r3cTkeQTvY3Qc6GqilaBUcedJjOEs-MJd2AC1Sw6X94TrNRg_X-eqU9h6v7kZdJjFjpg-srTI1MSrperX-KU8EoX1QRx1qQR_Z8DYDI-AE0jnvo2mqCIL7r12JnpT8TnPu58gPVwv2KiiawuJoD</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -116.795328,36.409116,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Takodana Forest [Force Awakens]</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AOq6mzpVXcdzrSi3Mt2KC8zSbzcq6xL8z3oVUrYxmOiZxXl4HqBy92d3IIWtTzKZSFOO9Tgp89XTxUVkI5Wn2aBxxQNPzaXzo8QGxen2DPhiaqtgFA4TWi8PrhXOBYy4-r0Yna_jRA-h4TMaZlOzoY6BYGG-vRKDk1P2LRmrzSW5tFRl68Ds9bu-GbGF5D4Z4dp4Qlrswj-m_YUqokM6Qu77SxroRKBCqtBs1vPTK3qJ7_SMNpoxYeT7C_c3dhW0SKrdozttwWjpMn1YDSuVqnqtWO5pzuY7sXsQ4AtC50YwCWnKH-i6zrFf3sjTydghCgICfmD-XT1CK0Oh39w7FWcS5ZBnCiuxL0l_WOUJcFkZPop0xid4OnQa3ZW42rIQC6B50ITYc2WTvVP-quET2FJIwz06HbQocz7TkIHvYVPqln3D3Sb5UvDuSnuuSM5XZra0l0cZ3Oh2a1sfTo7YcDFtUO8ndHhtl2KO2DoPb__B_zQsYN7w2IYzqjwUkOKQrZzq7Ds0pputLHA2rc03MX0r7NWaMyfXh5Z4UfG24C3cLyN6gFJ6VqYxRvnAneN20N5eY10KvUvcw13NqjR11C8_hftQYBr82J9yQcpaedF_Za85af2RDs23TaOlAa3wlYg-v7ZZyQuRcLdUX6BMgwEBSLhtyMQv0jsqSA2ZU3JxU-idJd-hy3s3yJ6vHyRCaOqyb7QtMWLSi5ZtTjWYOJJuEZk_IHA6z8OV8NDUaxE1af9plSbVLJxId4YdBPKE_cT01khQh0heZIWtvAphsq6-T2CbCe_YrJR4vOFkfRqaymnGJX1H_YoOZ_Sl1eSWAcwsaiFLI2yk32KOfT6wwY-zaGDvIdCVlMhQ" height="200" width="auto" /><br><br>Rey encounters Kylo for the first time.<br><br><br><br>https://www.youtube.com/embed/wuyrCpooBH4<br><br><img src="https://lh3.googleusercontent.com/umsh/AOq6mzq4qyqkpmAHcqThFq8nE9TN_LO_YrRZEamRRnl6T9FTQmfjYdVdhFUciN_rVthqtDKR7IALU2VQ67uaiu4Gwd0hZHnUAYFUbk8oPAyHelOn5ciZMz07FZhhEQj5YBLJkR49Uhp24T7zZTPwGivbW3FK7Hr5OYYRpHec83RKuA2BMf82ZOYcBC62P0-2ml1q6Si716ssL4CFNpHqUeBRglrDXUn3yS4DUxS9Zq8M" height="200" width="auto" />]]></description>
+        <styleUrl>#starwars</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AOq6mzpVXcdzrSi3Mt2KC8zSbzcq6xL8z3oVUrYxmOiZxXl4HqBy92d3IIWtTzKZSFOO9Tgp89XTxUVkI5Wn2aBxxQNPzaXzo8QGxen2DPhiaqtgFA4TWi8PrhXOBYy4-r0Yna_jRA-h4TMaZlOzoY6BYGG-vRKDk1P2LRmrzSW5tFRl68Ds9bu-GbGF5D4Z4dp4Qlrswj-m_YUqokM6Qu77SxroRKBCqtBs1vPTK3qJ7_SMNpoxYeT7C_c3dhW0SKrdozttwWjpMn1YDSuVqnqtWO5pzuY7sXsQ4AtC50YwCWnKH-i6zrFf3sjTydghCgICfmD-XT1CK0Oh39w7FWcS5ZBnCiuxL0l_WOUJcFkZPop0xid4OnQa3ZW42rIQC6B50ITYc2WTvVP-quET2FJIwz06HbQocz7TkIHvYVPqln3D3Sb5UvDuSnuuSM5XZra0l0cZ3Oh2a1sfTo7YcDFtUO8ndHhtl2KO2DoPb__B_zQsYN7w2IYzqjwUkOKQrZzq7Ds0pputLHA2rc03MX0r7NWaMyfXh5Z4UfG24C3cLyN6gFJ6VqYxRvnAneN20N5eY10KvUvcw13NqjR11C8_hftQYBr82J9yQcpaedF_Za85af2RDs23TaOlAa3wlYg-v7ZZyQuRcLdUX6BMgwEBSLhtyMQv0jsqSA2ZU3JxU-idJd-hy3s3yJ6vHyRCaOqyb7QtMWLSi5ZtTjWYOJJuEZk_IHA6z8OV8NDUaxE1af9plSbVLJxId4YdBPKE_cT01khQh0heZIWtvAphsq6-T2CbCe_YrJR4vOFkfRqaymnGJX1H_YoOZ_Sl1eSWAcwsaiFLI2yk32KOfT6wwY-zaGDvIdCVlMhQ https://lh3.googleusercontent.com/umsh/AOq6mzq4qyqkpmAHcqThFq8nE9TN_LO_YrRZEamRRnl6T9FTQmfjYdVdhFUciN_rVthqtDKR7IALU2VQ67uaiu4Gwd0hZHnUAYFUbk8oPAyHelOn5ciZMz07FZhhEQj5YBLJkR49Uhp24T7zZTPwGivbW3FK7Hr5OYYRpHec83RKuA2BMf82ZOYcBC62P0-2ml1q6Si716ssL4CFNpHqUeBRglrDXUn3yS4DUxS9Zq8M</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -2.610181,51.779934,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ivinghoe Beacon [Rise of Skywalker]</name>
+        <description>Rey visits the Death Starcrash site</description>
+
+        <styleUrl>#starwars</styleUrl>
+        <Point>
+          <coordinates>
+            -0.605755,51.841985,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Luke Skywalker's Hideout [The Last Jedi]]]></name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AOq6mzptN5IoFz8VKIGuSSr0OlHqqAugngGSQ8r1Oqv0PTVj1ARzgRwFGxy5w6b84LUyC_8uLkdNqQhtNaAQkiGWbAI2FsiM_5deQj9HIzIjiV2nSR5fsTUeqLvtfeDjMDlgNkUJxj4nFaEfZgP6Fetr1WAsVlb-iBQu1wd9HPxwOlhHHLe-dx-1hXZqpWXKrTUaB5w-2oYzzWWLkRH2E4ues_4FQz-HDk-RkTRXGxRa" height="200" width="auto" /><br><br>https://www.youtube.com/embed/f2NihqrNDoA<br><br>Rey gives Luke's lightsaber back and trains to be a jedi.]]></description>
+        <styleUrl>#default</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AOq6mzptN5IoFz8VKIGuSSr0OlHqqAugngGSQ8r1Oqv0PTVj1ARzgRwFGxy5w6b84LUyC_8uLkdNqQhtNaAQkiGWbAI2FsiM_5deQj9HIzIjiV2nSR5fsTUeqLvtfeDjMDlgNkUJxj4nFaEfZgP6Fetr1WAsVlb-iBQu1wd9HPxwOlhHHLe-dx-1hXZqpWXKrTUaB5w-2oYzzWWLkRH2E4ues_4FQz-HDk-RkTRXGxRa</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -10.540524,51.770662,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>[Andor: Disney+ Series]</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AOq6mzqeeN9AguvZ5yZgczEX4sV0oPawqfL-YQe8eBiyCaukhka2KRoWfW5ymphDjMaKcFCh0jWMEY6WTZgUad0xBh5Jepd_qNgy5ysSlfT-WMSv9aPO0GRQ8hkJ-xHO8gWnb9laCtmbuS2KFE2WTB8x5u1JQ9hbEDvtHKOedFHIfW4xCO9Gp1SIGBvXS5be1wesT-MwPFTTppZ2-U9_wifnY7um11IRSJrXQ4yayXoFUJAt3eoIwOv3nVW1btya5ZbQnhR9DL4LYzFEdV7jJTfvUit-wCl9zSEv4zWalyAMY6zWlsXr-EjbZhs5Mqashrp1ld6Qp6VS8pyBzvPVqWNCAALrVsiOj1DavqDn332wMeA4zxLfgFxyLJFMDXtxLL0NSlaS4cK5EYhk-48gkbabqdDZ_YHTtX5tKU0dSLhndiTToSXBMrtFrx_HndSF-x6UbHqqrnCNlij92LTYN_dzOjKwPNNmWCyLzaitPfZNIUNq33JxBehK0Vz0GNio6fen7kZ3StDANucunmB2f5FGk2eDZoiOHQEX0XrnjvavIVNXJphTtRyefGYQf9pS6q4WXF5fvzJ7JXA93Eg72rPgtHdLI0FW-br96EVH61jEXmIru3vTjRaWiRpucUQPfY7htc7ElgAHg0Ebgcnjy0gVRlbJIceS5Qw4TPJdKjw87vQG0jkkBVdr3qZMiA0tNRdKYGS4-Oa6h3B48YpS8E8MmMVdFu31Hgt4VJcaVrx0I7Za09h-62JzqSP3hkuSr3dkH5MHaM7KRBZBw9Bx4c-nZz1BxswXE9x0dFAp2UjAh_tniW27GgNlT-YimDWzVt99784WrpKnPzyz6htJ1PcNRaXUS-NNRRjS5A" height="200" width="auto" /><br><br>Shoretroopers and Diego Luna were spotted filming here in May 2021<br><br><br><br>https://www.youtube.com/embed/oYV9cA7fU4w<br><br><img src="https://lh3.googleusercontent.com/umsh/AOq6mzrlaDNK-bIQ_GJiL6E7Ymve8gtV4M3yA8litaBfW4Ux4tojQyRj5udrqNVqs-sn85ZCpVs1UWLWP0cZ0-ek0JrOhxgQ69j6IZWfERhhUV-e5p-327q4TDRsCUbg8iqubHWfXAPNPgfGr6mcR_5mYP8w0fLvErYmNTru0xIk8O5wl1pTtApI14vu0HHVHlW7FH4xYEjZd0EXP-sBaGzmgCC-y2OQINzogDqcAlM" height="200" width="auto" />]]></description>
+        <styleUrl>#starwars</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AOq6mzqeeN9AguvZ5yZgczEX4sV0oPawqfL-YQe8eBiyCaukhka2KRoWfW5ymphDjMaKcFCh0jWMEY6WTZgUad0xBh5Jepd_qNgy5ysSlfT-WMSv9aPO0GRQ8hkJ-xHO8gWnb9laCtmbuS2KFE2WTB8x5u1JQ9hbEDvtHKOedFHIfW4xCO9Gp1SIGBvXS5be1wesT-MwPFTTppZ2-U9_wifnY7um11IRSJrXQ4yayXoFUJAt3eoIwOv3nVW1btya5ZbQnhR9DL4LYzFEdV7jJTfvUit-wCl9zSEv4zWalyAMY6zWlsXr-EjbZhs5Mqashrp1ld6Qp6VS8pyBzvPVqWNCAALrVsiOj1DavqDn332wMeA4zxLfgFxyLJFMDXtxLL0NSlaS4cK5EYhk-48gkbabqdDZ_YHTtX5tKU0dSLhndiTToSXBMrtFrx_HndSF-x6UbHqqrnCNlij92LTYN_dzOjKwPNNmWCyLzaitPfZNIUNq33JxBehK0Vz0GNio6fen7kZ3StDANucunmB2f5FGk2eDZoiOHQEX0XrnjvavIVNXJphTtRyefGYQf9pS6q4WXF5fvzJ7JXA93Eg72rPgtHdLI0FW-br96EVH61jEXmIru3vTjRaWiRpucUQPfY7htc7ElgAHg0Ebgcnjy0gVRlbJIceS5Qw4TPJdKjw87vQG0jkkBVdr3qZMiA0tNRdKYGS4-Oa6h3B48YpS8E8MmMVdFu31Hgt4VJcaVrx0I7Za09h-62JzqSP3hkuSr3dkH5MHaM7KRBZBw9Bx4c-nZz1BxswXE9x0dFAp2UjAh_tniW27GgNlT-YimDWzVt99784WrpKnPzyz6htJ1PcNRaXUS-NNRRjS5A https://lh3.googleusercontent.com/umsh/AOq6mzrlaDNK-bIQ_GJiL6E7Ymve8gtV4M3yA8litaBfW4Ux4tojQyRj5udrqNVqs-sn85ZCpVs1UWLWP0cZ0-ek0JrOhxgQ69j6IZWfERhhUV-e5p-327q4TDRsCUbg8iqubHWfXAPNPgfGr6mcR_5mYP8w0fLvErYmNTru0xIk8O5wl1pTtApI14vu0HHVHlW7FH4xYEjZd0EXP-sBaGzmgCC-y2OQINzogDqcAlM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -3.047655,53.879778,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lars Family Homestead [A New Hope]</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AOq6mzqDoVILNAo2d1oQmNnZB_h6_Iw86bFNBNZY88aqoWGDZqYtHvwAH_wGkGulNsvbvRbinQfC-p1of86rgiGc5bGqVfjW05XG82dH8rw4Xy5sXhfquRDzEEzBXtDnEPBUiESlvgE82onGaXtKFdSD47rKe5iBhs5SoCLtXXJHVQpeSc1nOFIL9Zq0RxAR_o5kjq0YbhvzDkbwM1Y9kWyhpQAm7S0QWKDikjze5gdORtRnG_1GZ9-vrVfzQcKzju4wgRkmejME_0kq00KoDlYbOgIaPg3ma0xYACIIQQ-mhWwHrj4qO131ixtwtV0uy0SKlPbh5UCd7ChffwEb48B3hDOEep-S2GHgMeKatOtZsfSo3dvq2kvy4uHgbNqU-SPglRLqknneW3Woiiku2rR5ZZep1WYHhuEK80dXH5cCWtG1iLOknTmbb4CCQ26Xt8saPQnIjt_MLQEuEWKeIq_WfuzeZsqPEfGIalMvbzcykxdC8bPJnkVs5zG5OhdULq-pouVO1VWojhRjfEdj55gcLS1pL62x1xHm6Vdl9WxEKNF31gP4nTr2YI5Afcthtg0wliQq0HHQvLNtBmawHX8GtpMTfc-5hOOPzFMDYHewT0ipMgJrS2zYynE-kdw7BCZWRxrN9I7zSAYyPbkD8q4YN9iBrDsvUv8F1pfP3SpR_kQ2q44c1W_Rwti81eUhybB1yLUMwPLi3dj3myuo0X4TOYsvWrFSRkw8qCayEmAmGUgvCBuJZNMyeUDI5uEoGYOBzmffhty1pqWGLwYBtzs408aoivcCDdOcM7dOOE1KUD77a_GANCQ8gCtUPauA28lEKg8wYYPGk-rnNiE-7Er1oGchi75MOS0p" height="200" width="auto" /><br><br>Luke Skywalker's Home along with his Uncle Lars and Aunt Beru. As seen in Star Wars Episode IV A New Hope,  III Revenge of The Sith and IX Rise of the Skywalker.]]></description>
+        <styleUrl>#starwars</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AOq6mzqDoVILNAo2d1oQmNnZB_h6_Iw86bFNBNZY88aqoWGDZqYtHvwAH_wGkGulNsvbvRbinQfC-p1of86rgiGc5bGqVfjW05XG82dH8rw4Xy5sXhfquRDzEEzBXtDnEPBUiESlvgE82onGaXtKFdSD47rKe5iBhs5SoCLtXXJHVQpeSc1nOFIL9Zq0RxAR_o5kjq0YbhvzDkbwM1Y9kWyhpQAm7S0QWKDikjze5gdORtRnG_1GZ9-vrVfzQcKzju4wgRkmejME_0kq00KoDlYbOgIaPg3ma0xYACIIQQ-mhWwHrj4qO131ixtwtV0uy0SKlPbh5UCd7ChffwEb48B3hDOEep-S2GHgMeKatOtZsfSo3dvq2kvy4uHgbNqU-SPglRLqknneW3Woiiku2rR5ZZep1WYHhuEK80dXH5cCWtG1iLOknTmbb4CCQ26Xt8saPQnIjt_MLQEuEWKeIq_WfuzeZsqPEfGIalMvbzcykxdC8bPJnkVs5zG5OhdULq-pouVO1VWojhRjfEdj55gcLS1pL62x1xHm6Vdl9WxEKNF31gP4nTr2YI5Afcthtg0wliQq0HHQvLNtBmawHX8GtpMTfc-5hOOPzFMDYHewT0ipMgJrS2zYynE-kdw7BCZWRxrN9I7zSAYyPbkD8q4YN9iBrDsvUv8F1pfP3SpR_kQ2q44c1W_Rwti81eUhybB1yLUMwPLi3dj3myuo0X4TOYsvWrFSRkw8qCayEmAmGUgvCBuJZNMyeUDI5uEoGYOBzmffhty1pqWGLwYBtzs408aoivcCDdOcM7dOOE1KUD77a_GANCQ8gCtUPauA28lEKg8wYYPGk-rnNiE-7Er1oGchi75MOS0p</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            7.779046,33.842851,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Royal Palace of Theed [Phantom Menace]</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AOq6mzq0bjCL68kIo7o7MWecyIMlcEXIW2mfXN5Sr5-KwSEZ7GpcKLA3bGIFU9uBpCspciEJwHqrWBd24D_W4q9ICjOtsPgWjQGIrKUPMOQ6_HCknFp3skhMBrBAEE01DsSjW1rkTXvPh1NbtFYSfMurvSGaX9-MPnP-AA0l2aveCbntDouCKB74yZ-btAV9e13aSUuuTQ4pMJu68dpxdiqQvlZ08PlxlzA6cVH7zt-KBGyCkWu_ZQz-p_JN1ircs5bRrOWiF6L98Jm4nKChX9-i6Y4UtgSSgGGYbro6RkcPYtJ6P982IHR9XdVjtROdMIOTaDaRIj95KSyBB0EEbXSlMjCh_uJsFsc7kiqtp_CsYP5UrED0SQZeAmLEAUsQjan9mYQgf23Ew4N33TcYklsWzmzmEmjy8bUoR5b5V4akN3Qj4-k0-rFvaKyGKR6Gju5j6dkARO-BIkTWyM9qspDCwxt5mrKHaa5fnC3DaP6gUORUe6vNkyYUzZWnBluDZwaBhWuG3U0EDqssbag3N7jXROWmmCPHYvt3smA4OePYmeiyP3SsDliKO-9Uaq8Njmuwkf2YHFb0OKOXTs_7OKj_gTW_zmkNZBKxVdOzwEsQ0YR-QPgYyOuKmsj9aQ496aqMuwT6iyW4LDHWkgle_K0CP-A4h3d9mu7W0GMb8ntba9sn3HgKtPk6lJzcBPnxepjMxkt_NwckwAsMyYXwj7s83vRYEgpG1-9HGagTdfYqYLhsNJM8t1ImZWb19YGztPaKLH2rEx3lJnk3vjYZTXdiEnp12nU42O-w3EvtghIGGGrTYF2ngd8aAuQxjSYcTERV1i2k3MY06gy5b5Hdr3du3LC6EbajObth" height="200" width="auto" /><br><br>Home to Queen Amidala and other monarchs of Naboo.]]></description>
+        <styleUrl>#starwars</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AOq6mzq0bjCL68kIo7o7MWecyIMlcEXIW2mfXN5Sr5-KwSEZ7GpcKLA3bGIFU9uBpCspciEJwHqrWBd24D_W4q9ICjOtsPgWjQGIrKUPMOQ6_HCknFp3skhMBrBAEE01DsSjW1rkTXvPh1NbtFYSfMurvSGaX9-MPnP-AA0l2aveCbntDouCKB74yZ-btAV9e13aSUuuTQ4pMJu68dpxdiqQvlZ08PlxlzA6cVH7zt-KBGyCkWu_ZQz-p_JN1ircs5bRrOWiF6L98Jm4nKChX9-i6Y4UtgSSgGGYbro6RkcPYtJ6P982IHR9XdVjtROdMIOTaDaRIj95KSyBB0EEbXSlMjCh_uJsFsc7kiqtp_CsYP5UrED0SQZeAmLEAUsQjan9mYQgf23Ew4N33TcYklsWzmzmEmjy8bUoR5b5V4akN3Qj4-k0-rFvaKyGKR6Gju5j6dkARO-BIkTWyM9qspDCwxt5mrKHaa5fnC3DaP6gUORUe6vNkyYUzZWnBluDZwaBhWuG3U0EDqssbag3N7jXROWmmCPHYvt3smA4OePYmeiyP3SsDliKO-9Uaq8Njmuwkf2YHFb0OKOXTs_7OKj_gTW_zmkNZBKxVdOzwEsQ0YR-QPgYyOuKmsj9aQ496aqMuwT6iyW4LDHWkgle_K0CP-A4h3d9mu7W0GMb8ntba9sn3HgKtPk6lJzcBPnxepjMxkt_NwckwAsMyYXwj7s83vRYEgpG1-9HGagTdfYqYLhsNJM8t1ImZWb19YGztPaKLH2rEx3lJnk3vjYZTXdiEnp12nU42O-w3EvtghIGGGrTYF2ngd8aAuQxjSYcTERV1i2k3MY06gy5b5Hdr3du3LC6EbajObth</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            14.327193,41.073168,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Naboo Space Port [Attack of the Clones]</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AOq6mzrjCwNJE_iHLxUIjwmmD71wBBUqHwEEO5Ilr7cdxBfODy-2pw0Ee8CpZHkjbthQkYmn59KqVEyrzhD8x0E-CA752QuFZ-xqFLijG80nuvxvfUTEmATKkRip7C7ZKEn_bSgFNCzDvRk1aZ4ZH0HHgLmRAUTcJpNc1oKhuGogOdNLI9j13GKiR-_mfQE5_F3Sb92BWSM1I2hCu5A4Lu4JiJKM9iebviQkY-riPjB0SBS2cEWpvEncJQOElHEnbgRF7bO8LJeRf0YzClHNJObaxAfcF-xrV52Gjgc3sAjqjQKCGATKLDUGViP4ajhL-R-8GU1TRweoLnOQyk1665jiws6xbdbaZ8XIAGLpubC_djyirc_d1gBxHr_hxVzRGE6q7UlBKTPRk7WWlLLXBKLsMF89ASvnPK5NFkYWuciGv9PnRAoqKBCdIvZGLEFrRQPzoihStILJ0zCV8Kvi-zrZik0-_XynUaW4gqmFXvD2dIIMwvz_aydcxTggQE7E13tYhf8Stg3nwfBDsAkGiWgkShIQbYLnW46qPrsy_Ixsk2ziH82E0fW-Drg4LhSI7yDY6omH6KS2gomxHMkuSfeWgIm2j9ho6NCukmY74iP-FYXF7ixGt43SBmjR13mTho22C7aVdJuIjwdpSXviPL88RkCDclyah0vHGfh2YAl_FmFbiQVsAdnDgnQ9wZmTd1uiMNqmiV1IS55B0OdqrE6hrexM6XbLmx46trlMChjlorKsnQ62f0jDNi_G4E7Z7ic7kUWryLu_vJBqJ5rJac2K2kvizy_NhpIeH3VAgXgPISMISIieb-ydqx0B1qChbV_MZCtMDH2nD8LW6oKoVUN8zrOhmNGZod8" height="200" width="auto" /><br><br>Padme and Anakin travel to Naboo.]]></description>
+        <styleUrl>#starwars</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AOq6mzrjCwNJE_iHLxUIjwmmD71wBBUqHwEEO5Ilr7cdxBfODy-2pw0Ee8CpZHkjbthQkYmn59KqVEyrzhD8x0E-CA752QuFZ-xqFLijG80nuvxvfUTEmATKkRip7C7ZKEn_bSgFNCzDvRk1aZ4ZH0HHgLmRAUTcJpNc1oKhuGogOdNLI9j13GKiR-_mfQE5_F3Sb92BWSM1I2hCu5A4Lu4JiJKM9iebviQkY-riPjB0SBS2cEWpvEncJQOElHEnbgRF7bO8LJeRf0YzClHNJObaxAfcF-xrV52Gjgc3sAjqjQKCGATKLDUGViP4ajhL-R-8GU1TRweoLnOQyk1665jiws6xbdbaZ8XIAGLpubC_djyirc_d1gBxHr_hxVzRGE6q7UlBKTPRk7WWlLLXBKLsMF89ASvnPK5NFkYWuciGv9PnRAoqKBCdIvZGLEFrRQPzoihStILJ0zCV8Kvi-zrZik0-_XynUaW4gqmFXvD2dIIMwvz_aydcxTggQE7E13tYhf8Stg3nwfBDsAkGiWgkShIQbYLnW46qPrsy_Ixsk2ziH82E0fW-Drg4LhSI7yDY6omH6KS2gomxHMkuSfeWgIm2j9ho6NCukmY74iP-FYXF7ixGt43SBmjR13mTho22C7aVdJuIjwdpSXviPL88RkCDclyah0vHGfh2YAl_FmFbiQVsAdnDgnQ9wZmTd1uiMNqmiV1IS55B0OdqrE6hrexM6XbLmx46trlMChjlorKsnQ62f0jDNi_G4E7Z7ic7kUWryLu_vJBqJ5rJac2K2kvizy_NhpIeH3VAgXgPISMISIieb-ydqx0B1qChbV_MZCtMDH2nD8LW6oKoVUN8zrOhmNGZod8</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -5.986893,37.377196,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hoth [Empire Strikes Back]</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AOq6mzr1JNEhyGVGmjAtjC-hgyKxdBE3f5Pc8NrgKs2Kh8ZZd1Y1jOCP8uLol7oUg_JlS3OIsVYEma8qZBCmZiO3mXHmX9ZqMgnOxaA9D-qN8n173ahkO4MqyFVD19xHgyD-saDXt0OY9kWsPrbZ0Nq8ZwsSQMPbFBD7iUAm9rO9FPXTCQYc7jFIKnllgmcckIE5bXki1kNjNxNSlUumL1LoqQIerOIMA6Ge-9uKmqI" height="200" width="auto" /><br><br>https://www.youtube.com/embed/fkJKaRtuM88<br><br>Town closest to where the Hoth scenes were shot.]]></description>
+        <styleUrl>#starwars</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AOq6mzr1JNEhyGVGmjAtjC-hgyKxdBE3f5Pc8NrgKs2Kh8ZZd1Y1jOCP8uLol7oUg_JlS3OIsVYEma8qZBCmZiO3mXHmX9ZqMgnOxaA9D-qN8n173ahkO4MqyFVD19xHgyD-saDXt0OY9kWsPrbZ0Nq8ZwsSQMPbFBD7iUAm9rO9FPXTCQYc7jFIKnllgmcckIE5bXki1kNjNxNSlUumL1LoqQIerOIMA6Ge-9uKmqI</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            7.508746,60.600922,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Yavin IV Rebel Base [A New Hope]</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AOq6mzqS_UFiGODkNAmbJL0A9h9pMZcVm2EM-Lg6sa7QKxROm58FLDtY2Y0xkZRBxvVUyjTsgR5pZ8P3KkBVwbPLCRJRu2-AZSLqOwYqB96o-P8i6H2mTkdmFRlgZKib5UhUE74L2QSUOrJifFEp_wz_RhFcK1_CKPWxuDZjjiEZnR0beTiXAhv8sJZWzJzy7VwaFczh4Hlq7GqBwntkiDG9WsZasWH8HbhfWTSTB8hY5_WMdQBKl0D-oWlz8fqJmYm_qRqOQah01XIUO1bZPyzJ7os1636wUskxBk_C38DbozbkCyWb0A3pdacxt41b-7Qddkb6uwfeZ3UlibxBpArOdus_CzjgGXiGvuAzd2fF_OwKkzWPDVPfVfmrfEJx9e_zmZxrhKcgkgpRvklosFqUI3RKTPl40BM3vQcn3k1k5q94XNAilqgFUFG0AtCchyGudEYtHwHU6ek8Y5Ycz9TsZNYDjZbTweNWE8KwAm8IM7YodTEdEr06PKKEHQBW_3ikRKHBFhUV7fx2RPsjC6j7XA5PApAXUht7ZaIhNnuBwoFrMMp17Jqq36UC29QOJFX2jY2uhQwnsvvgFQQXGEw9pmCzt1ipjBGBLFYd5Y-e80JGbkDS5iCOurMMV3fCHCfRKh7pfP40BJTJsNcx6_AydQHFyYei1HrhssAJx11Flvl-UrLhv53S3aifer5ywy23E8PqMv7OR7oYotxBaH-Z9N5TBc4gXLKAd1L45iL0YRcApILo1piP3upJofdx04pL8MlTwE3eExIxqCcSnNXLeEMPn3P7YyGFcw-hwnG9RcRh-xYO9lrT_j-FXRiWrn7mT-T4yeWspv-4-wOXfNA-BqweYy25N_Q2EQ" height="200" width="auto" /><br><br>Where the Rebels planned their attacks in Rogue One and A New Hope.]]></description>
+        <styleUrl>#starwars</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AOq6mzqS_UFiGODkNAmbJL0A9h9pMZcVm2EM-Lg6sa7QKxROm58FLDtY2Y0xkZRBxvVUyjTsgR5pZ8P3KkBVwbPLCRJRu2-AZSLqOwYqB96o-P8i6H2mTkdmFRlgZKib5UhUE74L2QSUOrJifFEp_wz_RhFcK1_CKPWxuDZjjiEZnR0beTiXAhv8sJZWzJzy7VwaFczh4Hlq7GqBwntkiDG9WsZasWH8HbhfWTSTB8hY5_WMdQBKl0D-oWlz8fqJmYm_qRqOQah01XIUO1bZPyzJ7os1636wUskxBk_C38DbozbkCyWb0A3pdacxt41b-7Qddkb6uwfeZ3UlibxBpArOdus_CzjgGXiGvuAzd2fF_OwKkzWPDVPfVfmrfEJx9e_zmZxrhKcgkgpRvklosFqUI3RKTPl40BM3vQcn3k1k5q94XNAilqgFUFG0AtCchyGudEYtHwHU6ek8Y5Ycz9TsZNYDjZbTweNWE8KwAm8IM7YodTEdEr06PKKEHQBW_3ikRKHBFhUV7fx2RPsjC6j7XA5PApAXUht7ZaIhNnuBwoFrMMp17Jqq36UC29QOJFX2jY2uhQwnsvvgFQQXGEw9pmCzt1ipjBGBLFYd5Y-e80JGbkDS5iCOurMMV3fCHCfRKh7pfP40BJTJsNcx6_AydQHFyYei1HrhssAJx11Flvl-UrLhv53S3aifer5ywy23E8PqMv7OR7oYotxBaH-Z9N5TBc4gXLKAd1L45iL0YRcApILo1piP3upJofdx04pL8MlTwE3eExIxqCcSnNXLeEMPn3P7YyGFcw-hwnG9RcRh-xYO9lrT_j-FXRiWrn7mT-T4yeWspv-4-wOXfNA-BqweYy25N_Q2EQ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -89.611038,17.224894,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Scarif Beach [Rogue One]</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AOq6mzpW0IVM71tAa2IOtYu6sg55uGtaN6bYAgJgh13klwo8qFJsbUPw2DJMTDl88z14Br3TcXJfyZumVVdlKybjyQMrGGdMm5ISgGECPtAdoty0Gl3dRnL-LTSvEG073qvyyHDLzddozzsz2zWnI_NBSfznpWK4jyZfNuWSZ8CK73Pm7X6_QxeuT7ytJo6MDPV6qBltYhc-TmY2FhIjBWLrQIujeqzla5SdpMM0cGMTKUhFXJAwf-I3Xwf5Q8YA8S4TjbJYSfsxXIDobMWE2vlL-EDdrubeOtkZT7cTjHpIgMBNQxUc8AgpgOfmcRru9D97l3WnxLo39ktOBud1THbiyCLhMH5zgxU-dP_3-F1LY3-5o9E-Cxl19K59bxQKXDxe_uhX5uaLWF3Av8ZnO5yudMPKOxGDMunTpQAt6Omlqk3ku1srHtbreDejQNtECZlBRd0cFES5Ot2xF6t7_o72CWwqwpfhpcUzH0INv9ne6JaDPqSS_KncnrzTzaWiuHzd9kt5AXGm-ud8y6RULoZRQoVT17TavODjvMig2m0iMHiYVnBoRPuqqiGoAqgO_EjIgTsCj0FjqFeEgch-iPp7SDUE3SjklUKLKkGDFKIGoX6WmaGJ7O-JbLkNA8omroTMti8W6Qb17kgJaGS2RUcWIO0U5RM3xg9gInOllBsrUi400KHyHdXW7uOaW3RpjhHBmGyCG6gkxtlnotj95ovmC5JZ4CqWSIrGlK2SY02X663dFltv5jJ5stmx6qZvbc-G13H3Ky7C7O4HBsrs3t_eczbBiw5GnBGgVAnah2KS32i_Bo29pw_QvWJ4x06FjBFQ7w06BRjTa_XfuLUJPH6ancCB-wrdD0PlDw" height="200" width="auto" /><br><br>Rebels storm the Scarif Base.]]></description>
+        <styleUrl>#starwars</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AOq6mzpW0IVM71tAa2IOtYu6sg55uGtaN6bYAgJgh13klwo8qFJsbUPw2DJMTDl88z14Br3TcXJfyZumVVdlKybjyQMrGGdMm5ISgGECPtAdoty0Gl3dRnL-LTSvEG073qvyyHDLzddozzsz2zWnI_NBSfznpWK4jyZfNuWSZ8CK73Pm7X6_QxeuT7ytJo6MDPV6qBltYhc-TmY2FhIjBWLrQIujeqzla5SdpMM0cGMTKUhFXJAwf-I3Xwf5Q8YA8S4TjbJYSfsxXIDobMWE2vlL-EDdrubeOtkZT7cTjHpIgMBNQxUc8AgpgOfmcRru9D97l3WnxLo39ktOBud1THbiyCLhMH5zgxU-dP_3-F1LY3-5o9E-Cxl19K59bxQKXDxe_uhX5uaLWF3Av8ZnO5yudMPKOxGDMunTpQAt6Omlqk3ku1srHtbreDejQNtECZlBRd0cFES5Ot2xF6t7_o72CWwqwpfhpcUzH0INv9ne6JaDPqSS_KncnrzTzaWiuHzd9kt5AXGm-ud8y6RULoZRQoVT17TavODjvMig2m0iMHiYVnBoRPuqqiGoAqgO_EjIgTsCj0FjqFeEgch-iPp7SDUE3SjklUKLKkGDFKIGoX6WmaGJ7O-JbLkNA8omroTMti8W6Qb17kgJaGS2RUcWIO0U5RM3xg9gInOllBsrUi400KHyHdXW7uOaW3RpjhHBmGyCG6gkxtlnotj95ovmC5JZ4CqWSIrGlK2SY02X663dFltv5jJ5stmx6qZvbc-G13H3Ky7C7O4HBsrs3t_eczbBiw5GnBGgVAnah2KS32i_Bo29pw_QvWJ4x06FjBFQ7w06BRjTa_XfuLUJPH6ancCB-wrdD0PlDw</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            73.418021,1.943074,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Crait Salt Flats [Last Jedi]</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AOq6mzocwef-Jx43cfy0YG8IPErrCTHCRaOOrV9OUEpxjakxO8LsJoCy2NA5mhtoLpMAR5Wa-b7oNH5KXjE-VXj40XxSOX_j7k5fTuiBjT_DdN2w5W0K0VEkbNRgyNUxFGiBv0b9OlpKwNwq3pP3xC5UL45ZWhHf8Fkr8RliLIJjT4VFGDKQ-YYlwQUxsy2FbMQtOtAcxqop58CGZYzdhUCNB-k16umH46hqLn-5Br6qL4HoHK2mozSkygJLZsq1zHFCyylxI-tCgC7LZ2fTECMSsP1P9sfSBXxidZF3nuLBmIJjUf7_0pFkJeTGzFI6G56_t9-PcA0_EBHRw2LbXyW4OV06zFJaNj2Z8RtaOPAzFqVxTK2wgCQ4gdeUHbJFQZv1PA5pB2GDbgxVQo2OmSyTlLZS_0pu7ye6M_qfxiSzRUU_ck0OucMoP2ekLFMEMJtmVmhIjonsh3EydB_gjgSSILvqoR5xgXnAlNsxz8kkX0wdjfaPeA4VX7Aa6E1AC6o80N2ISiZ13_dlYu7PenCZlllvVQGR0lFCJaGnb9XVSLTFFhuQIIqMrKXHbLnW_9SYDHud202rMDH_GFPKI0jPNK9gmRHbQRc4vxiJTljqZfC3C9xwox2XYCfA2VDFsN46ZZRSOFk1EZmuMAm_fG4p1Yv7R6K8CCZKLiQtICw0ZCkGgVMbMCbMGBowHfNOj9RggGd9AVWFPxzBULWd-_5axHuIPt_3Xuj5KZX__E9BHucaZEGHmSzVzGPwWhqhQ0uVdSr0xFN6dMcHaPWJ7eja2Uf6bM3xA48gy4XEarsFwdlSaNdNyFVHzZ4is-WFJ8EYKIX6WGcEBUy4wloNCVya3zKd8Uf13HWvDQ" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#starwars</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AOq6mzocwef-Jx43cfy0YG8IPErrCTHCRaOOrV9OUEpxjakxO8LsJoCy2NA5mhtoLpMAR5Wa-b7oNH5KXjE-VXj40XxSOX_j7k5fTuiBjT_DdN2w5W0K0VEkbNRgyNUxFGiBv0b9OlpKwNwq3pP3xC5UL45ZWhHf8Fkr8RliLIJjT4VFGDKQ-YYlwQUxsy2FbMQtOtAcxqop58CGZYzdhUCNB-k16umH46hqLn-5Br6qL4HoHK2mozSkygJLZsq1zHFCyylxI-tCgC7LZ2fTECMSsP1P9sfSBXxidZF3nuLBmIJjUf7_0pFkJeTGzFI6G56_t9-PcA0_EBHRw2LbXyW4OV06zFJaNj2Z8RtaOPAzFqVxTK2wgCQ4gdeUHbJFQZv1PA5pB2GDbgxVQo2OmSyTlLZS_0pu7ye6M_qfxiSzRUU_ck0OucMoP2ekLFMEMJtmVmhIjonsh3EydB_gjgSSILvqoR5xgXnAlNsxz8kkX0wdjfaPeA4VX7Aa6E1AC6o80N2ISiZ13_dlYu7PenCZlllvVQGR0lFCJaGnb9XVSLTFFhuQIIqMrKXHbLnW_9SYDHud202rMDH_GFPKI0jPNK9gmRHbQRc4vxiJTljqZfC3C9xwox2XYCfA2VDFsN46ZZRSOFk1EZmuMAm_fG4p1Yv7R6K8CCZKLiQtICw0ZCkGgVMbMCbMGBowHfNOj9RggGd9AVWFPxzBULWd-_5axHuIPt_3Xuj5KZX__E9BHucaZEGHmSzVzGPwWhqhQ0uVdSr0xFN6dMcHaPWJ7eja2Uf6bM3xA48gy4XEarsFwdlSaNdNyFVHzZ4is-WFJ8EYKIX6WGcEBUy4wloNCVya3zKd8Uf13HWvDQ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -67.489134,-20.133777,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kashyyk Landscape [Revenge of the Sith]</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AOq6mzo9-A9PvVmThrqvarAhLHfGkkWxsTvhbzha7o5_oVAL6jWTx1tAmKOjGNEuIDeNQV6rWPt1626_egWXAkoA2GalCagSJrJ9bqhJknb0lRUpUEptd3TWUDk2gBlO3GZnSi757bD3MYvS_Bks4Dr6GVQKGjFEIcj-Z-AQu3arpIfHJdlM1KjrFGLoJUot1uCP552tDW82t0VH4S60hg6rJLQYoyLNo1CZxDKZ-YYpYkT6b9uVDq1ZhTi6aiOciiCmrzYwWh3nkT2JMtwm4LkQGP1J6CmZEliYlwE64GDT9sBRlpQWwvo62UmHTzEmrma8t6BtCp0Hq7J-9XYeDIOlKAtMS7-FNgo4_QtcwJG56xm4nUpZLCyP1z3HwK-EM_5Mlq-3Q0pPNn-a5RYxxOHKZmqRCO_xxtLGcp-bblsjh8GsB6S5bqMRQ-mYcJTOEJa-ZiP6XKMY4JyglHFKpglj-hMIJznX3ffyk66U95uJgMjPwQv7Bh7-kmvFfjNP7UkDudlarBARsFiE4TEa_tSZZNrgAoNeLbCxcXjpble1L_QkK_a7qPU6-nGJyp9fNcsqg2bmN6LDgBZQWomDpXM1A-0KFY2OxBQ2ZZIa0JkeX-CdsA3tUt5wwrfw5styB_cz9VB_zWuQodhoLIMOXI1Yw_ZJFSl2KcybgFCvRwHv6ykqKyfwtKF1J_qX_oRpwQdJ1jvkHKic3BbKjwLFpyRdFUwa6A_j3nkvCVEfhoc6N9hXHH8JegWajncp1pq7TGzENTA1yzI4jLJIJ0Y5_qD5SGoYi2-AGyZWeNDhZsUFSIFgPmYEX44tHoYmeYLDOimAv6o_8Qzo2aWtvruKerBh2dkW8RxyhuU" height="200" width="auto" /><br><br><br><br><img src="https://lh3.googleusercontent.com/umsh/AOq6mzrsp87o0bU-wpI5c8VFupVTBuIExsMkPOC4cSXSxMVXPJVuSLF2bdASiOnPVgfj5r1-Pf8EQRlOxooOFjFdEtz6HEtMweEyeBu6GeiQUWSlLc2m4P-sLMmtFXhd4wOBRHywWYwiFCaA3FXbpFZ6hWcmNUqgZQxfhFuVPHJtAzJgTPj2kDAeyQGnyDeQPFe97fNHOgAcRQtm4j0SNBO6ZqqJiC2Q3cnwkaZK0xz_l8MtpPCuZl6sJiNl2Xt9CcnaHxiPEVp5ProoukpS99rmNPkAJLjYicUzSJIsuDwVDxw5BITxAGHLWE7zd8EfO4_DeAGVb2F4KvnyBHHuKFS9IYUWuBB4ddkMZao-BwZ32lk_fSyu0ebz7f5eGvBnITTBLUE7K8zr4r33RrG-phrjqFM5jNteihFLIWTAZMJcRnet5h57Fb4aEsF6SdY29uR_i3DOgPJH-IHExNs-TeQygbsmjllZImv95ypd3PWzQzlAG3AxXJEkVEg7ITiQnd7miynKb3_d5QnfavHdEhzVOR44VB4KdQF80-lrY4QPHuIF-iEhCDmls_cHgXCC-mYk3SMEMokKYwnUUuEYVCWLuUFesr1bexlpgNamX8PdxZTBGxJzz8olqWbqNddiSiwIJRprulNQQ79frwUNuYCURTMkm9NE6Hw6aLV8zOV0taY4XGhPfn2msbhRW9Bfa0huODkJfd-JfYvpL4Y7lyEt2q41Jb5C8Bbn_yUJZGe2LRKGF9nYJDrkfGIrYbHtmIS2wRf1H-rPUMfpBlPMoGo2kTHmQIQC4aqLRJlyzh5Tv5bw3UIOozbd989LCm3_Xo5c9fD7G-vHE9uxJ3JE1zQ-AHCNXsUohq7A" height="200" width="auto" />]]></description>
+        <styleUrl>#starwars</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AOq6mzo9-A9PvVmThrqvarAhLHfGkkWxsTvhbzha7o5_oVAL6jWTx1tAmKOjGNEuIDeNQV6rWPt1626_egWXAkoA2GalCagSJrJ9bqhJknb0lRUpUEptd3TWUDk2gBlO3GZnSi757bD3MYvS_Bks4Dr6GVQKGjFEIcj-Z-AQu3arpIfHJdlM1KjrFGLoJUot1uCP552tDW82t0VH4S60hg6rJLQYoyLNo1CZxDKZ-YYpYkT6b9uVDq1ZhTi6aiOciiCmrzYwWh3nkT2JMtwm4LkQGP1J6CmZEliYlwE64GDT9sBRlpQWwvo62UmHTzEmrma8t6BtCp0Hq7J-9XYeDIOlKAtMS7-FNgo4_QtcwJG56xm4nUpZLCyP1z3HwK-EM_5Mlq-3Q0pPNn-a5RYxxOHKZmqRCO_xxtLGcp-bblsjh8GsB6S5bqMRQ-mYcJTOEJa-ZiP6XKMY4JyglHFKpglj-hMIJznX3ffyk66U95uJgMjPwQv7Bh7-kmvFfjNP7UkDudlarBARsFiE4TEa_tSZZNrgAoNeLbCxcXjpble1L_QkK_a7qPU6-nGJyp9fNcsqg2bmN6LDgBZQWomDpXM1A-0KFY2OxBQ2ZZIa0JkeX-CdsA3tUt5wwrfw5styB_cz9VB_zWuQodhoLIMOXI1Yw_ZJFSl2KcybgFCvRwHv6ykqKyfwtKF1J_qX_oRpwQdJ1jvkHKic3BbKjwLFpyRdFUwa6A_j3nkvCVEfhoc6N9hXHH8JegWajncp1pq7TGzENTA1yzI4jLJIJ0Y5_qD5SGoYi2-AGyZWeNDhZsUFSIFgPmYEX44tHoYmeYLDOimAv6o_8Qzo2aWtvruKerBh2dkW8RxyhuU https://lh3.googleusercontent.com/umsh/AOq6mzrsp87o0bU-wpI5c8VFupVTBuIExsMkPOC4cSXSxMVXPJVuSLF2bdASiOnPVgfj5r1-Pf8EQRlOxooOFjFdEtz6HEtMweEyeBu6GeiQUWSlLc2m4P-sLMmtFXhd4wOBRHywWYwiFCaA3FXbpFZ6hWcmNUqgZQxfhFuVPHJtAzJgTPj2kDAeyQGnyDeQPFe97fNHOgAcRQtm4j0SNBO6ZqqJiC2Q3cnwkaZK0xz_l8MtpPCuZl6sJiNl2Xt9CcnaHxiPEVp5ProoukpS99rmNPkAJLjYicUzSJIsuDwVDxw5BITxAGHLWE7zd8EfO4_DeAGVb2F4KvnyBHHuKFS9IYUWuBB4ddkMZao-BwZ32lk_fSyu0ebz7f5eGvBnITTBLUE7K8zr4r33RrG-phrjqFM5jNteihFLIWTAZMJcRnet5h57Fb4aEsF6SdY29uR_i3DOgPJH-IHExNs-TeQygbsmjllZImv95ypd3PWzQzlAG3AxXJEkVEg7ITiQnd7miynKb3_d5QnfavHdEhzVOR44VB4KdQF80-lrY4QPHuIF-iEhCDmls_cHgXCC-mYk3SMEMokKYwnUUuEYVCWLuUFesr1bexlpgNamX8PdxZTBGxJzz8olqWbqNddiSiwIJRprulNQQ79frwUNuYCURTMkm9NE6Hw6aLV8zOV0taY4XGhPfn2msbhRW9Bfa0huODkJfd-JfYvpL4Y7lyEt2q41Jb5C8Bbn_yUJZGe2LRKGF9nYJDrkfGIrYbHtmIS2wRf1H-rPUMfpBlPMoGo2kTHmQIQC4aqLRJlyzh5Tv5bw3UIOozbd989LCm3_Xo5c9fD7G-vHE9uxJ3JE1zQ-AHCNXsUohq7A</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            110.29002,25.27361,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mos Espa [Phantom Menace]</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AOq6mzput-D7LMSkw9OE0vEsqmwEkq-0OTVgou_ZK2Wu2DBlxhgF2f-SyQWIBoFPUzSjblHtyKSGdtEt92HD-UI8ZPqfRNSodXLng321ClGLsLvLGXhnC1xL-j8V0tJEZ5BCPhKKduhHekECOj5XVk5zwdb2Ms1eVhhbnVI7fCik-ExlDl_LwdvAU0ErNWfmJRu5r9UkolC2108PgWd3LtuP108QPbPAd-E0bgfOXKcuR6R9p29q_ocqjZjT3PcrLyyqJuGY7GmAqMi2SCWUezOi1fAqcj6zdtfUdw01DiBAkjQ3Ugf8EXBMxPxxdiHyj3lXFzwrhXtSHF46ogKlVi81a0vbbwY3l4Og3g4nLF5O5h9EA_ynh5vMYEaGRkA3-7O9blS0qiWHWuRBCf7nGQY2AQPLyw76O7x486FSXkp6LWvacK-XiKVss6xUMHssoRdc2woGkoUNUxJWQtkhPD3VzC4NOyh0UK6qMKMnxVAMtrtjjOGD2kfo0EG6AIenCXk-OXLyXPlg0E37xyvbxKOk8_OwYxlVnMqUNi5TaDVX5k6sriIeErRAAkI0lHnZId94ks-b0Hn9k3HTI2qIuoSnN79mLgxfDJL4uhFqjIRhyYZixutF81BTflNzB33LjOzB0VRpfO3wJxGtYyK3MLaONC9udNBtP9WxKP48wnbgf15oYUq-NE-HzK6WMO9dol8MuJ0ABK8BqGKECGHigU2C7NiurEyNoYC1Z1q6bNl0dS5MPlJMCcR33XoIqe40tiMf__snTsbXO8UKMDMJA7dy7BMP1-wXxFz26RYq0AD38B4AaUF7P1PYB0zwZ-x7BR7Dw0J1C-C0_Z3arY3Y2iozCEs6EjnOK5rF" height="200" width="auto" /><br><br>Qui Gonn, Jar Jar and Amidala visit Mos Espa to get ship parts. They encounter Anikan Skywalker.]]></description>
+        <styleUrl>#starwars</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AOq6mzput-D7LMSkw9OE0vEsqmwEkq-0OTVgou_ZK2Wu2DBlxhgF2f-SyQWIBoFPUzSjblHtyKSGdtEt92HD-UI8ZPqfRNSodXLng321ClGLsLvLGXhnC1xL-j8V0tJEZ5BCPhKKduhHekECOj5XVk5zwdb2Ms1eVhhbnVI7fCik-ExlDl_LwdvAU0ErNWfmJRu5r9UkolC2108PgWd3LtuP108QPbPAd-E0bgfOXKcuR6R9p29q_ocqjZjT3PcrLyyqJuGY7GmAqMi2SCWUezOi1fAqcj6zdtfUdw01DiBAkjQ3Ugf8EXBMxPxxdiHyj3lXFzwrhXtSHF46ogKlVi81a0vbbwY3l4Og3g4nLF5O5h9EA_ynh5vMYEaGRkA3-7O9blS0qiWHWuRBCf7nGQY2AQPLyw76O7x486FSXkp6LWvacK-XiKVss6xUMHssoRdc2woGkoUNUxJWQtkhPD3VzC4NOyh0UK6qMKMnxVAMtrtjjOGD2kfo0EG6AIenCXk-OXLyXPlg0E37xyvbxKOk8_OwYxlVnMqUNi5TaDVX5k6sriIeErRAAkI0lHnZId94ks-b0Hn9k3HTI2qIuoSnN79mLgxfDJL4uhFqjIRhyYZixutF81BTflNzB33LjOzB0VRpfO3wJxGtYyK3MLaONC9udNBtP9WxKP48wnbgf15oYUq-NE-HzK6WMO9dol8MuJ0ABK8BqGKECGHigU2C7NiurEyNoYC1Z1q6bNl0dS5MPlJMCcR33XoIqe40tiMf__snTsbXO8UKMDMJA7dy7BMP1-wXxFz26RYq0AD38B4AaUF7P1PYB0zwZ-x7BR7Dw0J1C-C0_Z3arY3Y2iozCEs6EjnOK5rF</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            7.842833,33.994172,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Starkiller Base [Force Awakens]</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AOq6mzp43_a3YeHyANMVzZQnskXZPO_PBtDdAsnyRyLkFxZVXv9mjKHMSgWDW9mNBk5KB4gdYmNvlwBjLUUUi9_wV0T4-YF5ZYjSIyAlcquYiA6pXagJUL7h0j2vs6XB-JLJWpXf9yZcRfinx9zN4eJcW0j6JqgemaHiqm059m96ckYtWOtdhtQVPew5SW5u4IRzeuXB8akVmYpa-UIh8ofp_8AOU8DdPAqGR-cnBEk--jdrcyrkIywJ45M78CDesEoeabZn6xMToyYoQW1V4QtiQoGBagj-xuykclTZtzLUrstnktUS8kPzwEiUgxsYwEkBCJpGgiK7sr3vJ90HEGmu606aVMC9GCGM8RFAH3GQ9OmhVOxa17hFR63KJOi4Tlu4Ty21TRwHgT3NZnjCx7cdx7HX4FV1apZle2HLDJHtUgNhBHd-VK-WitxUmh-YWACEaUhmzrcPaRnMRRTv1YUJSfhthUyYCD9NzEEUgPyRoqNPSMelIhgi_0yCwmpxdq6gbdcliebqU9JavmumxQi6-b44tl9E08jcDaXA6-9cOIVQq5rB9h23790EhnUwnSK9OQhwVGtY-hpSfWJPCQvFXAjXyApLLqCwOofgD2yp8qIIBSnl6C9aE664W5PI_p1777HEZdf11pbaDfSBqsyF7GdjenGEoxanCW6AOT5ECuVUFgymuwSBmEsgLWlFxjstwaCHrchg9yzUPpml4_S6OlN5llj1C54PSztwoKUZz-y5gx565J0tJvtWuwHkdqVhHVRhIIHeuK0PJWHv2rrsg-IMboGoO3fTfDGT3YqQfYKKsM4-Ea07O7vRuoU6jbmej0ue1NWikdwyrldP7MNvMQI6k2MkFSlH" height="200" width="auto" /><br><br>Eyjafjallajökull Ice Cap, in South Iceland, where some of the snow scenes and battles on the surface of Starkiller Base ice planet were filmed.]]></description>
+        <styleUrl>#starwars</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AOq6mzp43_a3YeHyANMVzZQnskXZPO_PBtDdAsnyRyLkFxZVXv9mjKHMSgWDW9mNBk5KB4gdYmNvlwBjLUUUi9_wV0T4-YF5ZYjSIyAlcquYiA6pXagJUL7h0j2vs6XB-JLJWpXf9yZcRfinx9zN4eJcW0j6JqgemaHiqm059m96ckYtWOtdhtQVPew5SW5u4IRzeuXB8akVmYpa-UIh8ofp_8AOU8DdPAqGR-cnBEk--jdrcyrkIywJ45M78CDesEoeabZn6xMToyYoQW1V4QtiQoGBagj-xuykclTZtzLUrstnktUS8kPzwEiUgxsYwEkBCJpGgiK7sr3vJ90HEGmu606aVMC9GCGM8RFAH3GQ9OmhVOxa17hFR63KJOi4Tlu4Ty21TRwHgT3NZnjCx7cdx7HX4FV1apZle2HLDJHtUgNhBHd-VK-WitxUmh-YWACEaUhmzrcPaRnMRRTv1YUJSfhthUyYCD9NzEEUgPyRoqNPSMelIhgi_0yCwmpxdq6gbdcliebqU9JavmumxQi6-b44tl9E08jcDaXA6-9cOIVQq5rB9h23790EhnUwnSK9OQhwVGtY-hpSfWJPCQvFXAjXyApLLqCwOofgD2yp8qIIBSnl6C9aE664W5PI_p1777HEZdf11pbaDfSBqsyF7GdjenGEoxanCW6AOT5ECuVUFgymuwSBmEsgLWlFxjstwaCHrchg9yzUPpml4_S6OlN5llj1C54PSztwoKUZz-y5gx565J0tJvtWuwHkdqVhHVRhIIHeuK0PJWHv2rrsg-IMboGoO3fTfDGT3YqQfYKKsM4-Ea07O7vRuoU6jbmej0ue1NWikdwyrldP7MNvMQI6k2MkFSlH</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -19.608322,63.631413,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Endor [Return of the Jedi]</name>
+        <description><![CDATA[In Episode VI: Return of the Jedi, our heroes find themselves on planet Endor. Giant trees with thick trunks surrounded by ferns and foliage fly past as Leia and Luke try to dodge stormtroopers. <br><br>Redwood trees rise like skyscrapers with thick trunks that depict their thousand years of existence.<br><br>Amidst these mammoth trees, we see an epic battle erupt between storm troopers, Ewoks, and Jedi. We learn of the wrath and adorableness of the furry Ewok species in this part of the movie.<br><br>While you are not likely to find Ewoks here any longer, the scenes of Endor were filmed in northern California. The Grizzly Creek Redwoods State Park is now part of the Star Wars film locations pilgrimage. <br><br>Things to bring: <br>Camping gear <br>Water <br>Sunscreen <br>Bug repellant <br>Comfortable waterproof shoes]]></description>
+        <styleUrl>#starwars</styleUrl>
+        <Point>
+          <coordinates>
+            -123.905092,40.486746,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Luke Skywalker's Home [A New Hope]]]></name>
+        <description><![CDATA[Hotel Sidi Idriss is otherwise known as Luke Skywalkers home on the desert planet of Tatooine. In real life, you can see the Meditteranean Sea instead of the desert wasteland depicted in Episode IV: A New Hope. <br><br>Hotel Sidi Idriss is essentially an underground structure. It is a traditional Berber house where the entrance looks like a crater in the Earth, and the house is built into the surrounding ground. <br><br>You can sleep at Hotel Sidi Driss, even in Luke Skywalker’s childhood bedroom, while touring other Star Wars filming locations in Tunisia. <br><br>Things to bring: <br>Water <br>Sunscreen and hat <br>Modest clothing]]></description>
+        <styleUrl>#starwars</styleUrl>
+        <Point>
+          <coordinates>
+            9.967335,33.542751,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mustafar Landscape [Revenge of the Sith]</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AOq6mzrLPBghQORAT2MQ2U9pYvFpezJh3vI_G-ljgtY4hNK7xxqn8YQ2XMwpYfXLIBAByfslGVF6gJ4wl5vCGUmPbdv_5Wd4yWD5B0OCc6LYay5LbNwq6RrNaGq6FHBwvMUZr9aST1gX7DNRtuqxAeXinE3c2_H0pMh8_pd47Jch5lq-UWLSwFQsBvP9dFEHhszoK79qsSg98gUSNBv8-caN9AjFUz96KQ3lKyqFo9vBZyMaAIwbQJNaA-MXLzDCdTEKTxp1t1sdbLCNDqRO4Kpv8JGnOdQqB1OhSCR-GtQsbLzR9hUN5F8azjkPKuwQPa6iHxqPD7x3w3pG6f4FLkujIw-DHK_zkdElVRvuGKLJhK86h-ONsswFTWjKIGvTyGfs7nRZ7C-Fgx_zzAbzZVzovlZ3IQu6OeuRUqMQrkYCp8qbh4RkC8rlSkAcLs_MT6cLilfTZ9-kZznzj9qQsPu9hU0R7twwdln0ZyeORHiPJ3Nxt02Fyvn5azv2RCimw4U9c44yXezwfcHxuLyTmMoT04Lb6xXp_WD-OZj4OpnbY83Wv-pvIiOiDwwjIosKhZeftxjRnIj70j_b8P2j5QZPQVPZhfUqP0yenKsy1mi9p8QVqZaBJPOBBnVgZx_QODt0oaX8MgMcfNDyOGGZxmz4ZltbV_eKdd_A4K9INZgiQTEOsYlxjbS_C7XQux7NeZpLczcU5G_j5EDaPRqoi0Y1E6owVaDpp9nnn1f5j0JD2ax6RmuzQ8ZIto2PQ8P1Ppec-IyxdzJh-x3-_RtMxlTVeML-W77sV1-DREIjV9KUeUgg3glMF90TVv_TEzGW-1RpZr2SZ4gJ40bqsmqAHP_ysCuRE58dMfaW" height="200" width="auto" /><br><br>Mt Etna was used as the backdrop to the final duel between Darth Vader and Obi Wan on Mustafar.]]></description>
+        <styleUrl>#starwars</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AOq6mzrLPBghQORAT2MQ2U9pYvFpezJh3vI_G-ljgtY4hNK7xxqn8YQ2XMwpYfXLIBAByfslGVF6gJ4wl5vCGUmPbdv_5Wd4yWD5B0OCc6LYay5LbNwq6RrNaGq6FHBwvMUZr9aST1gX7DNRtuqxAeXinE3c2_H0pMh8_pd47Jch5lq-UWLSwFQsBvP9dFEHhszoK79qsSg98gUSNBv8-caN9AjFUz96KQ3lKyqFo9vBZyMaAIwbQJNaA-MXLzDCdTEKTxp1t1sdbLCNDqRO4Kpv8JGnOdQqB1OhSCR-GtQsbLzR9hUN5F8azjkPKuwQPa6iHxqPD7x3w3pG6f4FLkujIw-DHK_zkdElVRvuGKLJhK86h-ONsswFTWjKIGvTyGfs7nRZ7C-Fgx_zzAbzZVzovlZ3IQu6OeuRUqMQrkYCp8qbh4RkC8rlSkAcLs_MT6cLilfTZ9-kZznzj9qQsPu9hU0R7twwdln0ZyeORHiPJ3Nxt02Fyvn5azv2RCimw4U9c44yXezwfcHxuLyTmMoT04Lb6xXp_WD-OZj4OpnbY83Wv-pvIiOiDwwjIosKhZeftxjRnIj70j_b8P2j5QZPQVPZhfUqP0yenKsy1mi9p8QVqZaBJPOBBnVgZx_QODt0oaX8MgMcfNDyOGGZxmz4ZltbV_eKdd_A4K9INZgiQTEOsYlxjbS_C7XQux7NeZpLczcU5G_j5EDaPRqoi0Y1E6owVaDpp9nnn1f5j0JD2ax6RmuzQ8ZIto2PQ8P1Ppec-IyxdzJh-x3-_RtMxlTVeML-W77sV1-DREIjV9KUeUgg3glMF90TVv_TEzGW-1RpZr2SZ4gJ40bqsmqAHP_ysCuRE58dMfaW</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            14.993435,37.751005,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jedha [Rogue One]</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AOq6mzqEcTmLfQUeNFggrLwm2Fj7qmKNLxJDivLjamPydcbIIvAM1QLD2vN5ChjbsmCVxS58sj1IQeWlIX9E6_f1u8UIFO8SUpfFwp3w8BMYYC6ZeF4kfn0wPMY8PWvEhJI0FkDzkEEVtWxL9CSaMRWchjkfPYTGPDnuPlNph3Yhcan57AKKpipC3kIgmOv6fbYonQSS5xA4xc7bX9mD9OJrfm2Yk5XMqbO75U_ldepL8puHxuPd3kcH0acsR9spfkPJ0fgHXrpCOMgWMlF1Z81MvaZODgDP0w6klJnh4Rou9QEwWrE2zM2n8jnWVnpIaS-VbgKJvKEkng38TfyM3oYzYUzX6KO9WQXSwYrenIpkGZl1nDd6LFKrQzX91cQsscKZffPItPskK1Kvhivf9DuYbmZdPxzOG6YNTkKCkTuoF5_649WlZs917nOWoNUOGKUYBkJXzQa8yYMyL0g69TfiPKtyo2Rv6u0hDTJy8n0yh3We3tmgKAgzoX7vqGw8dWf9Fas5uJ9PbNDPEdy3xbaJMtoC62RTm6SyOw5nOi-iAg7pDGYbQ4_6dVXt0_p4OB2EWA3OpODh6WnzPbgzDo2MxjuADQWpdkhlAK3Pfw70aURaF3-LEcrK1YOi-wGzeHm05OL3OOC8Y3OB33410g4GyftWa_f3td9dPBRwMGHRb0Vkxxp3M1sj7Kcra7VsKdEUxa3nw3Wqa7TPYfOl4yxAiYWt4PyPyvjoHSV5WSnW5jzREZZUgstS51RLNml9qjve7nF1Pn9PObqDA60AVvDjwhJ8pCed2Swixovc6Y-R9hfMSs1MJnLtfRnGUdZ5YwZQZ2wYzk0oKimoivNzFLdFYbYkN9l0yv3D" height="200" width="auto" /><br><br>The planet Jedha where Saw Gerrara is located and the Death Star tests it weapon.]]></description>
+        <styleUrl>#starwars</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AOq6mzqEcTmLfQUeNFggrLwm2Fj7qmKNLxJDivLjamPydcbIIvAM1QLD2vN5ChjbsmCVxS58sj1IQeWlIX9E6_f1u8UIFO8SUpfFwp3w8BMYYC6ZeF4kfn0wPMY8PWvEhJI0FkDzkEEVtWxL9CSaMRWchjkfPYTGPDnuPlNph3Yhcan57AKKpipC3kIgmOv6fbYonQSS5xA4xc7bX9mD9OJrfm2Yk5XMqbO75U_ldepL8puHxuPd3kcH0acsR9spfkPJ0fgHXrpCOMgWMlF1Z81MvaZODgDP0w6klJnh4Rou9QEwWrE2zM2n8jnWVnpIaS-VbgKJvKEkng38TfyM3oYzYUzX6KO9WQXSwYrenIpkGZl1nDd6LFKrQzX91cQsscKZffPItPskK1Kvhivf9DuYbmZdPxzOG6YNTkKCkTuoF5_649WlZs917nOWoNUOGKUYBkJXzQa8yYMyL0g69TfiPKtyo2Rv6u0hDTJy8n0yh3We3tmgKAgzoX7vqGw8dWf9Fas5uJ9PbNDPEdy3xbaJMtoC62RTm6SyOw5nOi-iAg7pDGYbQ4_6dVXt0_p4OB2EWA3OpODh6WnzPbgzDo2MxjuADQWpdkhlAK3Pfw70aURaF3-LEcrK1YOi-wGzeHm05OL3OOC8Y3OB33410g4GyftWa_f3td9dPBRwMGHRb0Vkxxp3M1sj7Kcra7VsKdEUxa3nw3Wqa7TPYfOl4yxAiYWt4PyPyvjoHSV5WSnW5jzREZZUgstS51RLNml9qjve7nF1Pn9PObqDA60AVvDjwhJ8pCed2Swixovc6Y-R9hfMSs1MJnLtfRnGUdZ5YwZQZ2wYzk0oKimoivNzFLdFYbYkN9l0yv3D</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.37533,29.742376,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pasaana [Rise of Skywalker]</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AOq6mzonOZcmt6e_thWfcS9N_3bA4O-QZewgWJy8a_R_dvmVZMCpxHYowybjcegee6G3PtI9xPFCDTfOo7KBAYjUdcVyhW-RSMdYMwDfvAj85wg-qXpj7T0yQZcBubC5lzjhniP2c4Jf2CEu4IAUdADe7URkGxpkdTuBOBzMexR2u271ATwGMx2DADUzIyFGzdqPWVPMAbEp0Q0M-COhGkR8w7HaLcbRkUHOZiyeox3nTIz-SNEF8TSuFqAs3eikyJ5Byk6r_u-vgJtdstnCIU9BS4ftOBGsvvp1_-2yGZns-Zd_SoPUrp_X08XuizJORMQU_IEwJDk2slBgC9gB3Fk0LXijcJG5thpHitwYdSLbC903P7CzXSs_4LDsp2f7T6UrpPHmeao0nk0iDmIVdvEoafopEvxglCr4nRYedYYQFGFH1pVVat6sp_kOtzCLXdCrjtJVKloy5HdlXRVhhgkzcHi0pfY1XaJ2wPpKyNnxua5h3cI8Y5hHTS4IR3W_6HT6bu_NvI5FH34ohU1vGmntGYWxebSDcVdMTjUHiHTraOZw7dD0h83DDt0Lxv-Xbr9IsfXYjWLxL2qBZLfgz4cFkWMdy6H2ZQBbsrVMUtZs7NVgRqEWvDf-Uips_kE1-TrtKW8W6JpsYPtC-UPqmZ2iVZJUzYjCmFY_3XNK2w44wa61IBOriV8cy_cJ1cs8EhnS-NdAMbPaIJMOQeivdiCseB-_JDTnbW2lXqJSapMS0asftZu7KlQ7r7AH7t_mz0nSi_geEi9bR7hnjG_APCyFuXDLahzb4CnUdDHaiFAy8BpG_YP_KmM3Z9AFzqQ2wTJhcp9zUpKme328B0tHOmVXsWdxDIjzHYSy" height="200" width="auto" /><br><br>Rey and the crew arrive on Pasaana.]]></description>
+        <styleUrl>#starwars</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AOq6mzonOZcmt6e_thWfcS9N_3bA4O-QZewgWJy8a_R_dvmVZMCpxHYowybjcegee6G3PtI9xPFCDTfOo7KBAYjUdcVyhW-RSMdYMwDfvAj85wg-qXpj7T0yQZcBubC5lzjhniP2c4Jf2CEu4IAUdADe7URkGxpkdTuBOBzMexR2u271ATwGMx2DADUzIyFGzdqPWVPMAbEp0Q0M-COhGkR8w7HaLcbRkUHOZiyeox3nTIz-SNEF8TSuFqAs3eikyJ5Byk6r_u-vgJtdstnCIU9BS4ftOBGsvvp1_-2yGZns-Zd_SoPUrp_X08XuizJORMQU_IEwJDk2slBgC9gB3Fk0LXijcJG5thpHitwYdSLbC903P7CzXSs_4LDsp2f7T6UrpPHmeao0nk0iDmIVdvEoafopEvxglCr4nRYedYYQFGFH1pVVat6sp_kOtzCLXdCrjtJVKloy5HdlXRVhhgkzcHi0pfY1XaJ2wPpKyNnxua5h3cI8Y5hHTS4IR3W_6HT6bu_NvI5FH34ohU1vGmntGYWxebSDcVdMTjUHiHTraOZw7dD0h83DDt0Lxv-Xbr9IsfXYjWLxL2qBZLfgz4cFkWMdy6H2ZQBbsrVMUtZs7NVgRqEWvDf-Uips_kE1-TrtKW8W6JpsYPtC-UPqmZ2iVZJUzYjCmFY_3XNK2w44wa61IBOriV8cy_cJ1cs8EhnS-NdAMbPaIJMOQeivdiCseB-_JDTnbW2lXqJSapMS0asftZu7KlQ7r7AH7t_mz0nSi_geEi9bR7hnjG_APCyFuXDLahzb4CnUdDHaiFAy8BpG_YP_KmM3Z9AFzqQ2wTJhcp9zUpKme328B0tHOmVXsWdxDIjzHYSy</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.370983,29.783505,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Padme's Family Home [Attack of The Clones]]]></name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AOq6mzqPRffrZs2fjJ9k4T5fnl3CO0w55pXfI97oSMACxVzlMycRQzo-J_mG0I3aTWbqQh3t2nLbbPJrWE7WMrSuxYa36NXe7OmnNmRlaCLEAWwlbDUXh_OSTqn4JzRhfUCHPAz6QgqCqzyQkQknONx_2cFPLJ7NS-KGMAJsxMtNbDieAMKJYFctLdniLrJTPwYKLMMa9WX8jEcNFchxQP7fdsqIBbYzq7Zg_7Udz4FrBx7O7PfB5N61nlnvi2tzssuSr9brk5TKQeMo-t8ui4jg3cX9Lt7N0uPiyDbY23xQEoOg84Aadhf3TRBDZpFnrh-d5l76qE75TVTIbPO51014KE3JRjRdGcYcbBkD62mAmAJusA3gE0D1nUgGgghD7YaZehGCJPC58MYPb-zXpYLW5kwR9DSWN99VsCFabwxzRA-o37TmJrVPQPC2_lV1YKHAWZx0bOn_cYrUDPbYdlFt5XebHwjhSyGf7Vn_C6QqI1Zh2hcaki8o07vgH5E5LxdCVkfXmg6j2Zk-U40gEG3ScDHIkpAEONO8wY3Z3EZYvx2uSbMhGzzZK5QWDAmdZKN14HXG3P3OOf3RUF4ZzBcqWjbtASy0FE1EOX8I9b08gxVYIkAdOqOcCM8AKbtGSqJGCn1SJOv0PHisxZTr7MJBHVlkdtCK-iYSuB1eQRfCvU5Eg0OlEMBxbfJxkrQ9GF9YVTwPbmqTqV2wwxv-Rp3pfgbRkQOcSLrcl3Hix0APulUCGl0jzAN9ARmpdzSEwPX-BrEZznErCkXfEIN-JbQ_9M1-1Hgb82BpkvsRAqNM2eZ83iawVPUMnV0KmNjsPM-iHuu_ejnfF2FOoxhSPxL_PKKevCLv4BRQsA" height="200" width="auto" /><br><br>Anakin and Padme marry at the Naboo Retreat (Villa del Balbianello, Lake Como).]]></description>
+        <styleUrl>#starwars</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AOq6mzqPRffrZs2fjJ9k4T5fnl3CO0w55pXfI97oSMACxVzlMycRQzo-J_mG0I3aTWbqQh3t2nLbbPJrWE7WMrSuxYa36NXe7OmnNmRlaCLEAWwlbDUXh_OSTqn4JzRhfUCHPAz6QgqCqzyQkQknONx_2cFPLJ7NS-KGMAJsxMtNbDieAMKJYFctLdniLrJTPwYKLMMa9WX8jEcNFchxQP7fdsqIBbYzq7Zg_7Udz4FrBx7O7PfB5N61nlnvi2tzssuSr9brk5TKQeMo-t8ui4jg3cX9Lt7N0uPiyDbY23xQEoOg84Aadhf3TRBDZpFnrh-d5l76qE75TVTIbPO51014KE3JRjRdGcYcbBkD62mAmAJusA3gE0D1nUgGgghD7YaZehGCJPC58MYPb-zXpYLW5kwR9DSWN99VsCFabwxzRA-o37TmJrVPQPC2_lV1YKHAWZx0bOn_cYrUDPbYdlFt5XebHwjhSyGf7Vn_C6QqI1Zh2hcaki8o07vgH5E5LxdCVkfXmg6j2Zk-U40gEG3ScDHIkpAEONO8wY3Z3EZYvx2uSbMhGzzZK5QWDAmdZKN14HXG3P3OOf3RUF4ZzBcqWjbtASy0FE1EOX8I9b08gxVYIkAdOqOcCM8AKbtGSqJGCn1SJOv0PHisxZTr7MJBHVlkdtCK-iYSuB1eQRfCvU5Eg0OlEMBxbfJxkrQ9GF9YVTwPbmqTqV2wwxv-Rp3pfgbRkQOcSLrcl3Hix0APulUCGl0jzAN9ARmpdzSEwPX-BrEZznErCkXfEIN-JbQ_9M1-1Hgb82BpkvsRAqNM2eZ83iawVPUMnV0KmNjsPM-iHuu_ejnfF2FOoxhSPxL_PKKevCLv4BRQsA</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            9.202492,45.965253,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Alderaan </name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AOq6mzrE0hrSO3VkBQj2y0N3sexusqWWeJCfgoRkbrRFQmbuI84Lh7Syijx5V1XMRbp2t6OutBTI0D93u4o61v_WH-E7OqTDld7D8gffobDfbL_bTk1PcPMBL4kKDxWJTOCAVT82XlzxK2SgG1N_XSxTopQ6-g2tITf_JrpimKR8AYUPPz-2HRzcCJ5KMlxsHFcKsiH3RW5rk9latFe6nw9oCYylFaS5uv3lb8BQE90Ocz6kH9HhLtMaX_ntkdxlZTvO2Tjk7cfafrUKpuiQtPc7VHS2IGRZzEw9_Djdg5O59bDPgRCryFlmzkk5mq5zZVwVZXQ-XMPFyi7QfhlXKMwg5ErmETSNDAsbl0jAwRBGfckexePCkYuG-cOWyOx51R6h_xjsHiINnpHedIh8LdjuCKZTFRu8qQdnEs6t6waKWO7Z7Cb7IxNHbrHCcguyE153qOgHTRomDwqaePNdouffi0nqZAsQXpLIOlu7h5zJOu4LnPuDUmqy7JW6IbrUxyZYYMoAj2doC6SDq2yLVVDsqFcmeApG16LhOVTLBJezwUME3cctVnr_P390t9oSfM_-ARisQQXl830qz5XRwPcMj-6N4fa8dH74zXUl2IiLE62ScWvCxAlnOeGG4B7O36ka9M4k6mNCWwJP1v24Y_JUBOBMXEQ1TkWRBLOMmQwwFySyNg_gc8a19LDGEC0DWUTujHls_HdRO4JM-_IMMjfP5rgPX-gQXN6IETgjrzpmOgJq4xNG0yN1yifv1JJ4iYCWh8PwR-G6O4ne0MryxAfak5vJju8R9GdjQKzCaK3MfT4F92wCiRzOcQkOLvOFEaGC2KS_rc8_36UPpvWErJl0gg6_z62WaJ4DzA" height="200" width="auto" /><br><br>This beautiful town’s surroundings are used as the backdrop in Obi Wan Kenobi series and Revenge of the Sith]]></description>
+        <styleUrl>#starwars</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AOq6mzrE0hrSO3VkBQj2y0N3sexusqWWeJCfgoRkbrRFQmbuI84Lh7Syijx5V1XMRbp2t6OutBTI0D93u4o61v_WH-E7OqTDld7D8gffobDfbL_bTk1PcPMBL4kKDxWJTOCAVT82XlzxK2SgG1N_XSxTopQ6-g2tITf_JrpimKR8AYUPPz-2HRzcCJ5KMlxsHFcKsiH3RW5rk9latFe6nw9oCYylFaS5uv3lb8BQE90Ocz6kH9HhLtMaX_ntkdxlZTvO2Tjk7cfafrUKpuiQtPc7VHS2IGRZzEw9_Djdg5O59bDPgRCryFlmzkk5mq5zZVwVZXQ-XMPFyi7QfhlXKMwg5ErmETSNDAsbl0jAwRBGfckexePCkYuG-cOWyOx51R6h_xjsHiINnpHedIh8LdjuCKZTFRu8qQdnEs6t6waKWO7Z7Cb7IxNHbrHCcguyE153qOgHTRomDwqaePNdouffi0nqZAsQXpLIOlu7h5zJOu4LnPuDUmqy7JW6IbrUxyZYYMoAj2doC6SDq2yLVVDsqFcmeApG16LhOVTLBJezwUME3cctVnr_P390t9oSfM_-ARisQQXl830qz5XRwPcMj-6N4fa8dH74zXUl2IiLE62ScWvCxAlnOeGG4B7O36ka9M4k6mNCWwJP1v24Y_JUBOBMXEQ1TkWRBLOMmQwwFySyNg_gc8a19LDGEC0DWUTujHls_HdRO4JM-_IMMjfP5rgPX-gQXN6IETgjrzpmOgJq4xNG0yN1yifv1JJ4iYCWh8PwR-G6O4ne0MryxAfak5vJju8R9GdjQKzCaK3MfT4F92wCiRzOcQkOLvOFEaGC2KS_rc8_36UPpvWErJl0gg6_z62WaJ4DzA</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            8.041396,46.624164,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tython [The Mandalorian]</name>
+        <description>Djin takes Grogu to the Jedi Seeing Stone on Tython then meets Boba Fett.</description>
+        <styleUrl>#starwars</styleUrl>
+        <Point>
+          <coordinates>
+            -118.643148,34.314461,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Erso's Farm]]></name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AOq6mzo3ZdZ5NNBFvN05_dYL0bTjFvK1q02N07rGpDnSejGQelF2kZz-2TosnnSu76dvuUunftYbAJ7M6mWn-dFrV4EyjfTp02bssA6ToV0WDLii4WUNXeLeMHNKT7y_VOBgxJrx5onxK46Xs_ZHOgTZ92KHD8zcGPT1RZn0bk6bMbd6hxS-NWJpiivF5RKuJIeMgjYLvubxc63p3NjM6Lw0jV-fPYBO1a_fJwNgV3k" height="200" width="auto" /><br><br>https://www.youtube.com/embed/FkPUUvAa-4Q]]></description>
+        <styleUrl>#starwars</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AOq6mzo3ZdZ5NNBFvN05_dYL0bTjFvK1q02N07rGpDnSejGQelF2kZz-2TosnnSu76dvuUunftYbAJ7M6mWn-dFrV4EyjfTp02bssA6ToV0WDLii4WUNXeLeMHNKT7y_VOBgxJrx5onxK46Xs_ZHOgTZ92KHD8zcGPT1RZn0bk6bMbd6hxS-NWJpiivF5RKuJIeMgjYLvubxc63p3NjM6Lw0jV-fPYBO1a_fJwNgV3k</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -19.063446,63.405285,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
