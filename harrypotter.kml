@@ -11,7 +11,7 @@
         </Pair>
         <Pair>
           <key>highlight</key>
-          <styleUrl>#default-highlight</styleUrl>
+          <styleUrl>#harrypotter-highlight</styleUrl>
         </Pair>
       </StyleMap>
       <Style id="default-normal">
