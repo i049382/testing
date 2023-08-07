@@ -179,7 +179,8 @@
         </LabelStyle>
       </Style>
 
- <Folder>
+
+<Folder>
       <name>Netflix</name>
       <Placemark>
         <name>Sodden Castle (The Witcher)</name>
@@ -343,5 +344,8 @@
             -106.587516,35.165153,0
           </coordinates>
         </Point>
+      </Placemark>
+    </Folder>
+
 </Document>
 </kml>
