@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>CineMapper</name>
+    <description/>
+
+      <StyleMap id="default">
+        <Pair>
+          <key>normal</key>
+          <styleUrl>#default-normal</styleUrl>
+        </Pair>
+        <Pair>
+          <key>highlight</key>
+          <styleUrl>#default-highlight</styleUrl>
+        </Pair>
+      </StyleMap>
+      <Style id="default-normal">
+        <IconStyle>
+          <color>ffb73a67</color>
+          <scale></scale>
+          <Icon>
+            <href>https://ik.imagekit.io/slink/CineMapper/CineMapper_a5BvTcXYh.png?updatedAt=1691326155823</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Style id="default-highlight">
+        <IconStyle>
+          <color>ffb73a67</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://ik.imagekit.io/slink/CineMapper/CineMapper_a5BvTcXYh.png?updatedAt=1691326155823</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+
+      <StyleMap id="starwars">
+        <Pair>
+          <key>normal</key>
+          <styleUrl>#starwars-normal</styleUrl>
+        </Pair>
+        <Pair>
+          <key>highlight</key>
+          <styleUrl>#starwars-highlight</styleUrl>
+        </Pair>
+      </StyleMap>
+      <Style id="starwars-normal">
+        <IconStyle>
+          <color>ffb73a67</color>
+          <scale>30</scale>
+          <Icon>
+            <href>https://ik.imagekit.io/slink/CineMapper/Starwars_LI149jc3Q.png?updatedAt=1691352990383</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <scale>30</scale>
+        </LabelStyle>
+      </Style>
+      <Style id="starwars-highlight">
+        <IconStyle>
+          <color>ffb73a67</color>
+          <scale>30</scale>
+          <Icon>
+            <href>https://ik.imagekit.io/slink/CineMapper/Starwars_LI149jc3Q.png?updatedAt=1691352990383</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <scale>2</scale>
+        </LabelStyle>
+      </Style>
+
+      <StyleMap id="marvel">
+        <Pair>
+          <key>normal</key>
+          <styleUrl>#marvel-normal</styleUrl>
+        </Pair>
+        <Pair>
+          <key>highlight</key>
+          <styleUrl>#marvel-highlight</styleUrl>
+        </Pair>
+      </StyleMap>
+      <Style id="marvel-normal">
+        <IconStyle>
+          <color>ffb73a67</color>
+          <scale></scale>
+          <Icon>
+            <href>https://ik.imagekit.io/slink/CineMapper/CineMapperMarvel_T36MtcVfv.png?updatedAt=1691350353337</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Style id="marvel-highlight">
+        <IconStyle>
+          <color>ffb73a67</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://ik.imagekit.io/slink/CineMapper/CineMapperMarvel_T36MtcVfv.png?updatedAt=1691350353337</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+
+      <StyleMap id="transformers">
+        <Pair>
+          <key>normal</key>
+          <styleUrl>#transformers-normal</styleUrl>
+        </Pair>
+        <Pair>
+          <key>highlight</key>
+          <styleUrl>#transformers-highlight</styleUrl>
+        </Pair>
+      </StyleMap>
+      <Style id="transformers-normal">
+        <IconStyle>
+          <color>ffb73a67</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://ik.imagekit.io/slink/CineMapper/Transformers_WVfHs6oN0.png?updatedAt=1691354329225</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Style id="transformers-highlight">
+        <IconStyle>
+          <color>ffb73a67</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://ik.imagekit.io/slink/CineMapper/Transformers_WVfHs6oN0.png?updatedAt=1691354329225</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+
+      <StyleMap id="harrypotter">
+        <Pair>
+          <key>normal</key>
+          <styleUrl>#harrypotter-normal</styleUrl>
+        </Pair>
+        <Pair>
+          <key>highlight</key>
+          <styleUrl>#harrypotter-highlight</styleUrl>
+        </Pair>
+      </StyleMap>
+      <Style id="harrypotter-normal">
+        <IconStyle>
+          <color>ffb73a67</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://ik.imagekit.io/slink/CineMapper/Harry%20Potter_4bUheL84k.png?updatedAt=1691367626777</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Style id="harrypotter-highlight">
+        <IconStyle>
+          <color>ffb73a67</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://ik.imagekit.io/slink/CineMapper/Harry%20Potter_4bUheL84k.png?updatedAt=1691367626777</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+
+
+
+
+
+
+
+
+    
+    <Folder id="marvel">
+      <name>Marvel Cinematic Universe</name>
+
+      <Placemark>
+        <name>New Asgard</name>
+        <description><![CDATA[{
+            "film": "Avengers: End Game",
+            "photo": "https://static1.moviewebimages.com/wordpress/wp-content/uploads/article/OWEnAFuTOdC3fBwLROGET7uNA9Mvp5.jpg",
+            "studio": "marvel",
+            "description": "Rocket and Hulk visit Thor in New Asgard.",
+            "youtube": ""
+          }]]>
+        </description>
+        <styleUrl>#marvel</styleUrl>
+        <Point>
+          <coordinates>
+            -2.138515,55.898921,0
+          </coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>Great Scotland Yard [Doctor Strange]</name>
+        <description><![CDATA[{
+            "film": "Doctor Strange",
+            "photo": "",
+            "studio": "marvel",
+            "description": "The Ancient One fights Kaecilius near the London Sanctum.",
+            "youtube": ""
+          }]]>
+        </description>
+        <styleUrl>#marvel</styleUrl>
+        <Point>
+          <coordinates>
+            -0.12498,51.506846,0
+          </coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>Warrior Falls</name>
+        <description><![CDATA[{
+            "film": "Black Panther",
+            "photo": "https://ik.imagekit.io/slink/CineMapper/Marvel/16black-panther-lighting7-articleLarge_ZnK-alJqc.webp?updatedAt=1691232966896",
+            "studio": "marvel",
+            "description": "If you want to be the next king of Wakanda, you have to challenge the current king to ritual combat at Warrior Falls. While close-ups and action footage of Black Panther’s Warrior Falls were filmed on a soundstage in Atlanta, Georgia, establishing and wide shots were filmed at Iguazu Falls, a water system on the border of Argentina and Brazil in South America.",
+            "youtube": ""
+          }]]>
+        </description>
+        <styleUrl>#marvel</styleUrl>
+        <Point>
+          <coordinates>
+            -54.436666,-25.695259,0
+          </coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>Avengers Headquarters</name>
+        <description><![CDATA[{
+            "film": "Black Panther",
+            "photo": "https://www.retrozap.com/wp-content/uploads/2019/07/Avengers4_029-Avengers-HQ.jpg",
+            "studio": "marvel",
+            "description": "As seen as the end of Avengers: Age of Ultron and in AntMan.",
+            "youtube": "https://www.youtube.com/embed/a0_gdHxFHkI"
+          }]]>
+        </description>
+        <styleUrl>#marvel</styleUrl>
+        <Point>
+          <coordinates>
+            1.23471,52.620382,0
+          </coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>1940s New York</name>
+        <description><![CDATA[{
+            "film": "Captain America: The First Avenger",
+            "photo": "https://ik.imagekit.io/slink/CineMapper/Marvel/unnamed%20(2)_if7evPvaj.png?updatedAt=1691362669663",
+            "studio": "marvel",
+            "description": "Steve Rodgers chases down a Hydra agent to the docks.",
+            "youtube": "https://www.youtube.com/embed/a0_gdHxFHkI"
+          }]]>
+        </description>
+        <styleUrl>#marvel</styleUrl>
+        <Point>
+          <coordinates>
+            -2.996785,53.421507,0
+          </coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>Hydra Base, Germany</name>
+        <description><![CDATA[{
+          "film": "Captain America: The First Avenger",
+          "photo": "https://firebasestorage.googleapis.com/v0/b/slink-64a53.appspot.com/o/userContent%2F-NaBwc3brLvzF2VsHzIm%2Flocations%2Funnamed%20(1).jpg?alt=media&token=7cd0abf9-6b6c-4cbe-b212-ade258f1f4ec",
+          "studio": "marvel",
+          "description": "",
+          "youtube": "https://www.youtube.com/embed/ajNwoS3Nsas"
+        }]]></description>
+        <styleUrl>#marvel</styleUrl>
+        <Point>
+          <coordinates>
+            -0.771164,51.192702,0
+          </coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>1940s New York</name>
+        <description><![CDATA[{
+          "film": "Captain America: The First Avenger",
+          "photo": "https://ik.imagekit.io/slink/CineMapper/Marvel/unnamed%20(2)_-zqimmaCk.jpg?updatedAt=1691363022526",
+          "studio": "marvel",
+          "description": "Steve Rodgers gets his super serum and gives chase to the Hydra Agent that killed Dr Erskine.",
+          "youtube": "https://www.youtube.com/embed/TjPzNc_PY2Q"
+        }]]></description>
+        <styleUrl>#marvel</styleUrl>
+        <Point>
+          <coordinates>
+            -2.233222,53.481223,0
+          </coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>Old Royal Naval College</name>
+        <description><![CDATA[{
+          "film": "Thor 2: Dark World",
+          "photo": "https://www.newsshopper.co.uk/resources/images/4940154/?type=og-image",
+          "studio": "marvel",
+          "description": "",
+          "youtube": ""
+        }]]></description>
+        <styleUrl>#marvel</styleUrl>
+        <Point>
+          <coordinates>
+            -0.005915,51.483206,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kebab Shop</name>
+          <description><![CDATA[{
+            "film": "Infinity War",
+            "photo": "https://firebasestorage.googleapis.com/v0/b/slink-64a53.appspot.com/o/userContent%2F-NaBwc3brLvzF2VsHzIm%2Flocations%2Fkebab.png?alt=media&token=97f29bd8-4b89-42a6-9be5-d9d4b4af2de2",
+            "studio": "marvel",
+            "description": "Wanda & Vision chat outside the \"we'll deep fry your kebab\" shop and watch the news",
+            "youtube": ""
+          }]]>
+        </description>
+        <styleUrl>#marvel</styleUrl>
+        <Point>
+          <coordinates>
+            -3.188797,55.95066,0
+          </coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>Asgard (Avengers: Endgame)</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AOq6mzq_KXEeR01xgl4HjtvyPHf-MjU87MTlDDSPqVVyBny-uJhkZZMKZTB-gKJVnS1wm7za05zxJVzOEHHV-i548hACBM77tXfmuedcxZ-ZE2qsq5ipKBQT7oDkvHSLnkIvmL0YZyUaeTR5kn6t0QGPVY0CtUAuwzPnuGcWynSPrZBvFKyYGXpizStq988nvgYhZJWicKjh9FHPS_pJOcWLnwamRg7Vf79nEe4dcLjza_kDCYOx8KtkiRoYuHouCsmCvrbL7KRVrWtnW_dcf5VeZ-LLeIi1KfTzuGSo2b31z4mRkDF18P95CS8OTqg9Vc_w9NGe_zhdq-VprHqGjkaQVf6dstQwchTs0IOC-2BhCSNXn3IQfhZRcQ-DuGTX3J_r3dYVZQQbTKGYaNjNjJ25OjetrqLBAFqqzEwE8-q0qpMbesVlipksmOnJ5TvL_2JzK5JPb_ABK3vYaWpHL2UENnNu1tQmSp8waWq515V0nBb3PU4BSso3Iaa6FGa5wDc-oIanHXp_sxxwgDxtjBbDoZxUReolS2i0-KqA9TbU1yOGiNm4VTpLb--5OZiszEEBmg70YzV18C8alJ1UbnTtQDtbDzPuOq0OBeG7R7K7O0N9qK3jyYukcQQf2P_ByoJVyJm3FWWg4WLpSp3e5xhAK0_YIPLsqJhIVqvptBr3wWeZZkf9ptwnnhNpiyeWhh_Spdcq4YyagYcBFjglOkaA3hcwcH2cNzx_qqChrOZxr17WhHzL-0oum73jkvI5rXN7HW6zafq-7ZnESO09abWSdhpLPnfG8AavFBa80jMUY1ZnlNWi1BWFTn72FhISLXKBTzPNLE36laPWC8liPk6wsiMgv5xtmMyy" height="200" width="auto" /><br><br>Thor and Rocket jump back in time to 2013 Asgard to retrieve the Reality Stone.]]></description>
+        <styleUrl>#marvel</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AOq6mzq_KXEeR01xgl4HjtvyPHf-MjU87MTlDDSPqVVyBny-uJhkZZMKZTB-gKJVnS1wm7za05zxJVzOEHHV-i548hACBM77tXfmuedcxZ-ZE2qsq5ipKBQT7oDkvHSLnkIvmL0YZyUaeTR5kn6t0QGPVY0CtUAuwzPnuGcWynSPrZBvFKyYGXpizStq988nvgYhZJWicKjh9FHPS_pJOcWLnwamRg7Vf79nEe4dcLjza_kDCYOx8KtkiRoYuHouCsmCvrbL7KRVrWtnW_dcf5VeZ-LLeIi1KfTzuGSo2b31z4mRkDF18P95CS8OTqg9Vc_w9NGe_zhdq-VprHqGjkaQVf6dstQwchTs0IOC-2BhCSNXn3IQfhZRcQ-DuGTX3J_r3dYVZQQbTKGYaNjNjJ25OjetrqLBAFqqzEwE8-q0qpMbesVlipksmOnJ5TvL_2JzK5JPb_ABK3vYaWpHL2UENnNu1tQmSp8waWq515V0nBb3PU4BSso3Iaa6FGa5wDc-oIanHXp_sxxwgDxtjBbDoZxUReolS2i0-KqA9TbU1yOGiNm4VTpLb--5OZiszEEBmg70YzV18C8alJ1UbnTtQDtbDzPuOq0OBeG7R7K7O0N9qK3jyYukcQQf2P_ByoJVyJm3FWWg4WLpSp3e5xhAK0_YIPLsqJhIVqvptBr3wWeZZkf9ptwnnhNpiyeWhh_Spdcq4YyagYcBFjglOkaA3hcwcH2cNzx_qqChrOZxr17WhHzL-0oum73jkvI5rXN7HW6zafq-7ZnESO09abWSdhpLPnfG8AavFBa80jMUY1ZnlNWi1BWFTn72FhISLXKBTzPNLE36laPWC8liPk6wsiMgv5xtmMyy</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.577288,54.773318,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Xander Field [Guardians of the Galaxy]</name>
+        <description><![CDATA[Yondu fights off Ronan's soldiers with his arrow after his ship crashes]]></description>
+        <styleUrl>#marvel</styleUrl>
+        <Point>
+          <coordinates>
+            -0.540787,51.15215,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Clint Barton’s Home</name>
+        <description><![CDATA[{
+            "film": "Age of Ultron",
+            "photo": "https://firebasestorage.googleapis.com/v0/b/slink-64a53.appspot.com/o/userContent%2F-NaBwc3brLvzF2VsHzIm%2Flocations%2FAvengers_27s_Home%2529.webp?alt=media&token=7ecd4ed1-9a88-4dbf-8020-d664e3e2d3de",
+            "studio": "marvel",
+            "description": "",
+            "youtube": "https://www.youtube.com/watch?v=x2vtdNncOUE"
+          }]]>
+        </description>
+        <styleUrl>#marvel</styleUrl>
+        <ExtendedData>
+<Data name="film">
+    <displayName>Film</displayName> 
+    <value>Age of Ultron</value>
+  </Data>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AOq6mzp1W6qDZqrS38AIuOez7xbN4wPiUkZsiPivJQuo6-VTaGT_PGGUhzENWMgcqjAPbsdWWTTzM-ysosDvkinUZ6t9LJqH64Dlg9cZcWMf0kPtHjOzDU-LrV8Cs83TjLLv2dNprfgmbIkYDdR9pYRLPFBtSCrBQgTF5hUVy7Ea6otLtRmWaZGqC2UEv1Yvxh4XDKv3JvdXO9hYCjG0JWfAAu3weRwFa1n-XroWWzuAZ_gjskec8zwyCT8WP9avHa7ua_XdLdQ_N-unALSGTP071yKauULHhe-xmgUUww1UZOhHj0eo8y9R0HiCsgJSfbsHs3dfB0CC4EScBuSZvOU2qius_0S5EDRt0OF0yrEsnsOx4cESt-7fWYVx5EMjYjxNNl8zXToW0MFnXslLpdhwHaw-G7zMgiKhWTJI52MPnEkAf2BEf2-HgQNGvlncB7rIp6edryalEtQw-niuMWTvN8k9qqAlNsF1phJxukbNPZq2ckuCNJleH80CdZoLju1JoVHZu5SqNm0glAIS6UhdZR4r4KqEFOUW6Xp7-LsOBrAvfl8gWLvH1G8is5Yc0ThS5YZ65BfTS_vZ_p1SYQDZo0btMMDcbkxQvZuxg_B2VSXCFjhR2F5_P0hyxHNrq9F4MHcdOVRVeO2hLDen4Ur794mZda635wTxbpi6lJHB-rhcWCE8tST-Wt_GoTonLqrbZUNjPf-NnRMD7Jlhexhd-S_rGdtmBzWmNwOo2R7MpFgd9oJJQyML0yzukdeqO79KhSR_eqWOcys_icUAiPn6G1w9fKZtXDSl7UC7GSvSC1yi7UyFmBywipPwXhFCbs3XvMS9O1JdulghXvMp50LLgXkPNlVQnTB4 https://lh3.googleusercontent.com/umsh/AOq6mzrdSiMu0yCzrVhNtApKbBZleIECn40oMvRiX0eYloUM8Ypw_dhO34JqEzkOoCaE9ia0z7BMa6qfb9CuLW5BNGzaIMk_eCGc1LIShysoUmKNlof9HSrxbR5qm8piKUAva02BHL0mSnVg0WZwaQk2D1BKoXdU9eTUJWJT7GgJ6HHoMt0HjEoaJ8v9hKGiEpOQcgjAjGxWTumZDyWgrfIyFd8goEvBUBD_ddimtu0o</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.986849,51.349691,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Hydra Agent Rampages [Falcon & The Winter Soldier]]]></name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AOq6mzrEXlXtd9e9uZtCV76IFGzYPFTLko7_BAdTVZm5TwJMMpqeDXjnu3K9vknNPqxp63zVIQEPiP7ZMQe4czpV-bFZROGq1xgxT6i_Mws8YTHFTcWr5ZWTn_tAVSoBo-uVYyaVMes0gc08GmYVQQ5bZU91PKbqm06S_94rY_KQiDM-vs4zmfN5e9VQFA2bUKbLyiUhEosZkZW8L3XjkQ9-sDQGN3mGYW1lJ2EujHTSY8v3tRi94TgPheTKlLXFb6hc-3vVUNKZMMnT3ea_Atzk9b0b3HZsgbQ4CFFEYcgngBvrzx2w3NWAvCfZf8RQqRd8L1utOggDTnvCJVBtm_57847o-q8IPDrSab9C1BYYf9Untd16Nv9kJNF8GQ2MtwjR1Q6G6fE-bo_nlGq22j-Qlyz-mXjz0GmrUCj-UtnQpitJI0afPI_FTolFq0ElJmAs2YIe1ITPrZjILlwt3xje2fWQaul9KeCGBnQ8cIVZzA0aV_O_Bg7PQVWDeqte7paZWVjJVO_9ijAlLjg1K7IEIrsb1j6m7wZ3TLgh3RIzPDdJ8wvwDgXQxme0SuT50EeRqNVlVZNVUPjZHPSg0XBR0SDTI0PfZg8FwQon4kww6o1h1KcMQ9XcBLT76VweaikF5Y95qd0l2-6kLlGGBRE8yM_54uS0enL4OYBt9477LMx7tCQ1tm2gX1CKxLuLik8vyVUgzsrgtxjwUHpkfn6HnirbVaMYBL4VZN1rqvghAermujSmUdawOWUllqAeAMPs7lpoHGBMDq-b0l04tpplhLxkkZ4zcKS2HpQwWsIsJydnNQ94cdKMZMmBKTcrLVq3YcRgAFojORcrjWCfZKGFXIj6jklyDN_Y" height="200" width="auto" /><br><br>Wyatt Russell's Captain America goes on a rampage with his shield.]]></description>
+        <styleUrl>#marvel</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AOq6mzrEXlXtd9e9uZtCV76IFGzYPFTLko7_BAdTVZm5TwJMMpqeDXjnu3K9vknNPqxp63zVIQEPiP7ZMQe4czpV-bFZROGq1xgxT6i_Mws8YTHFTcWr5ZWTn_tAVSoBo-uVYyaVMes0gc08GmYVQQ5bZU91PKbqm06S_94rY_KQiDM-vs4zmfN5e9VQFA2bUKbLyiUhEosZkZW8L3XjkQ9-sDQGN3mGYW1lJ2EujHTSY8v3tRi94TgPheTKlLXFb6hc-3vVUNKZMMnT3ea_Atzk9b0b3HZsgbQ4CFFEYcgngBvrzx2w3NWAvCfZf8RQqRd8L1utOggDTnvCJVBtm_57847o-q8IPDrSab9C1BYYf9Untd16Nv9kJNF8GQ2MtwjR1Q6G6fE-bo_nlGq22j-Qlyz-mXjz0GmrUCj-UtnQpitJI0afPI_FTolFq0ElJmAs2YIe1ITPrZjILlwt3xje2fWQaul9KeCGBnQ8cIVZzA0aV_O_Bg7PQVWDeqte7paZWVjJVO_9ijAlLjg1K7IEIrsb1j6m7wZ3TLgh3RIzPDdJ8wvwDgXQxme0SuT50EeRqNVlVZNVUPjZHPSg0XBR0SDTI0PfZg8FwQon4kww6o1h1KcMQ9XcBLT76VweaikF5Y95qd0l2-6kLlGGBRE8yM_54uS0enL4OYBt9477LMx7tCQ1tm2gX1CKxLuLik8vyVUgzsrgtxjwUHpkfn6HnirbVaMYBL4VZN1rqvghAermujSmUdawOWUllqAeAMPs7lpoHGBMDq-b0l04tpplhLxkkZ4zcKS2HpQwWsIsJydnNQ94cdKMZMmBKTcrLVq3YcRgAFojORcrjWCfZKGFXIj6jklyDN_Y</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            14.414749,50.082792,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Team Cap Vs Team Iron Man [Civil War]</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AOq6mzraPumDGBshT8PZ_nmsrnd9Y2dT22ZnfUezOu897IBjJMDEnLDuWYiSyXOVKSdVC3-k0ewi2ymrFQJDlS7bnqiD5WE_VFjMH_8-LWt0i5nEL7FIt-NacUSKCBEFdAe2ZfVRuu1kFSO4jmpfuDTWVGDk3lsp1Ew17_nWaKLw6RB_AmvzU_2l15z4BsUlI900qSPhauDbcBfd7gmtzbr91txIFdKHsMtmlaZCBygs8IBRQjtl48oyfkZPjTnitklg82ZKmfsEfIxrAFnC5zFQwyG1Ao5XcrlebYbzfXY0COKWLPC1sBdOFtSTCP3VLpQiCf3grLynweDBcDRbQM8j1ztyMaS6yX7UQKHxX9v4BQBAMf6zCoZvx6TP9hKq9WJVFQ9anovdtQ3sathWjXaaMOdGs7yLWSnmPcShorqJ_XtPmSHcCLCJYSgmwudqKVgxRvkZ89He8OWLe0wvEoViKt58xPmSOmUVdGyIItiVvlUFEYwODET_ISSjhhFyZEye33sb-_KnhgKq3YOPnr9_YCEPI64AiFMIKQZcMA-trhd0pZejg6d1IciNYm6aXq88eFGRjKeC8WfUGXqqKS-3welI1eGYKs3KYw7u5Uh1CaNqD3tCwlp3WES3N1bPLZBp-8gNdQl8Ur1RjAJHhzf9fJUkByUwYrgukUA3y7wMH5oiN3XTI-4rMseLhukcoKA9TzUrHy64eifPFgoG_Bw8N-zL3ZMveQZUmEcpxJ7Lj61uVX3gvvUO3pwxaHVx8a2fcmjl2PYuGntF1o8C3s0DQxVpJR8F2g8JwIhVdaIFwOm1gOMHdHPvf6qF3FC4ZDkauPktpSPCtKQhByxSXN4h37kaKGLICFQ" height="200" width="auto" /><br><br>The Leipzig-Halle Airport is an international airport in Schkeuditz, Saxony. The Clash of the Avengers took place in the airport following its evacuation, which resulted in a physical brawl between Iron Man's faction and Captain America's faction.]]></description>
+        <styleUrl>#marvel</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AOq6mzraPumDGBshT8PZ_nmsrnd9Y2dT22ZnfUezOu897IBjJMDEnLDuWYiSyXOVKSdVC3-k0ewi2ymrFQJDlS7bnqiD5WE_VFjMH_8-LWt0i5nEL7FIt-NacUSKCBEFdAe2ZfVRuu1kFSO4jmpfuDTWVGDk3lsp1Ew17_nWaKLw6RB_AmvzU_2l15z4BsUlI900qSPhauDbcBfd7gmtzbr91txIFdKHsMtmlaZCBygs8IBRQjtl48oyfkZPjTnitklg82ZKmfsEfIxrAFnC5zFQwyG1Ao5XcrlebYbzfXY0COKWLPC1sBdOFtSTCP3VLpQiCf3grLynweDBcDRbQM8j1ztyMaS6yX7UQKHxX9v4BQBAMf6zCoZvx6TP9hKq9WJVFQ9anovdtQ3sathWjXaaMOdGs7yLWSnmPcShorqJ_XtPmSHcCLCJYSgmwudqKVgxRvkZ89He8OWLe0wvEoViKt58xPmSOmUVdGyIItiVvlUFEYwODET_ISSjhhFyZEye33sb-_KnhgKq3YOPnr9_YCEPI64AiFMIKQZcMA-trhd0pZejg6d1IciNYm6aXq88eFGRjKeC8WfUGXqqKS-3welI1eGYKs3KYw7u5Uh1CaNqD3tCwlp3WES3N1bPLZBp-8gNdQl8Ur1RjAJHhzf9fJUkByUwYrgukUA3y7wMH5oiN3XTI-4rMseLhukcoKA9TzUrHy64eifPFgoG_Bw8N-zL3ZMveQZUmEcpxJ7Lj61uVX3gvvUO3pwxaHVx8a2fcmjl2PYuGntF1o8C3s0DQxVpJR8F2g8JwIhVdaIFwOm1gOMHdHPvf6qF3FC4ZDkauPktpSPCtKQhByxSXN4h37kaKGLICFQ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.23404,51.418571,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The TVA Building</name>
+        <description><![CDATA[{
+            "film": "Loki Disney+ Series",
+            "photo": "",
+            "studio": "Atlanta Marriot Hotel",
+            "description": "",
+            "youtube": ""
+          }]]>
+        </description>
+        <styleUrl>#marvel</styleUrl>
+        <Point>
+          <coordinates>
+            -84.385944,33.761595,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stark Industries [Iron Man]</name>
+        <description>After three months of being held captive by a terrorist group in Iron Man, Tony Stark (Robert Downey Jr.) returns to the United States and gives a press conference about his ordeal at Stark Industries HQ in Los Angeles. However, the press conference scene was filmed on location at the headquarters for Masimo, a medical technologies company based in the city of Irvine. The company’s offices have also been featured in Transformers (2007) and Dodgeball (2004).</description>
+        <styleUrl>#marvel</styleUrl>
+        <Point>
+          <coordinates>
+            -117.756673,33.662619,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Randy's Donuts Sign [Iron Man 2]]]></name>
+        <description>In Iron Man 2, Tony Stark—in full Iron Man armor—lounges inside the large, iconic donut on top of Randy’s Donuts when Nick Fury (Samuel L. Jackson) meets him to talk about the Avengers Initiative. The exterior of the real Randy’s Donuts location in Inglewood, California, was used for filming, while the interior of the scene was filmed at Yum Yum Donuts in Playa del Rey, about 20 miles away.</description>
+        <styleUrl>#marvel</styleUrl>
+        <Point>
+          <coordinates>
+            -118.370358,33.961851,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Loki's Platform [The Avengers]]]></name>
+        <description>In The Avengers, Loki (Tom Hiddleston) is in Germany when he delivers a rousing speech about humanity. In real life, the scene was filmed just outside of Tower City Center on Cleveland, Ohio’s, Public Square. (You can actually see the city’s iconic Terminal Tower in the background.)</description>
+        <styleUrl>#marvel</styleUrl>
+        <Point>
+          <coordinates>
+            -81.694045,41.497215,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Xandar Plaza [Guardians of the Galaxy]</name>
+        <description>While Guardians of the Galaxy takes place on the cosmic side of the Marvel Cinematic Universe, a few real-life landmarks and buildings were used during filming. Most notably, the Liége-Guillemins Railway Station in Liège, Belgium, was used for the centerpiece of Xandar Plaza, where the group of alien misfits are arrested at the beginning of Guardians of the Galaxy.</description>
+        <styleUrl>#marvel</styleUrl>
+        <Point>
+          <coordinates>
+            5.566708,50.624434,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hydra Castle [Avengers: Age of Ultron]</name>
+        <description><![CDATA[At the beginning of Avengers: Age of Ultron, the titular superhero team fights their way through a forest in the fictional country of Sokovia. Their goal is to retrieve a Chitauri Scepter and the Mind Infinity Stone from inside a castle-like HYDRA research base, which was filmed at Fort Bard (or Forte di Bard) in Bard, Aosta Valley, Italy. The old fort was used as an outpost to protect the valley from Napoleon Bonaparte during the 19th century. Fort Bard is currently the location of the Museum of the Alps.<br><br>While Fort Bard was used to film the exterior, England’s Dover Castle was used to film the interior of the HYDRA research facility.]]></description>
+        <styleUrl>#marvel</styleUrl>
+        <Point>
+          <coordinates>
+            7.744766,45.608356,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Book of Cagliostro [Doctor Strange]</name>
+        <description>When the villain Kaecilius (Mads Mikkelsen) conjures a dark and mysterious spell from the Book of Cagliostro in Doctor Strange, he contacts Dormammu of the Dark Dimension. He recites it inside the chapel at Exeter College in Oxford, England, to seek revenge on the Ancient One (Tilda Swinton).</description>
+        <styleUrl>#marvel</styleUrl>
+        <Point>
+          <coordinates>
+            -1.256074,51.753683,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Forests of Asgard [Thor: Ragnarok]</name>
+        <description>In Thor: Ragnarok, Heimdall (Idris Elba) leads a large group of refugees through the forests of Asgard to find sanctuary in the mountains. A majority of the superhero movie was filmed on sound stages in Australia, while Tamborine National Park and Cedar Creek Falls in South East Queensland were used for Asgardian forests and waterfalls.</description>
+        <styleUrl>#marvel</styleUrl>
+        <Point>
+          <coordinates>
+            153.180086,-27.897368,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Midtown High [Spiderman: Homecoming]</name>
+        <description>Peter Parker (Tom Holland) attends Midtown High School in Forest Hills, Queens. The production team for Spider-Man: Homecoming used Franklin K. Lane High School in Brooklyn, New York, as the exterior for the fictional high school, while Henry W. Grady High School in Atlanta, Georgia, was used for its interior.</description>
+        <styleUrl>#marvel</styleUrl>
+        <Point>
+          <coordinates>
+            -84.371421,33.780552,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jordan [Moon Knight]</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AOq6mzq8bICS5qAid_0-KwyU33X8GEJD5nh0K2Em1nVeUuqxhB1CVsgfHfvNTMqBw87c6djoE2ZFvt9LjO1dPLlLfiG2sEmLyCGGn5PPmcc7goDVSfin_5FmgvcUb9g314QBnS3aZGBc6_9ms3VTPzxYpsvnY48AT1XeBGa-qfqqsPhLBy3i1cyMePm6Kb3ZcArDFRoKS3xAAXj7VW_7XSgs3KVL_DPDz3v3xx90ZBWoixovPjKaq9NOw2fcodq_c_6iaB26_RAVwin3dx3tEEG1hErMkhqhpuDTo-wluCaXJuj9y8_ddfxkdgUHurzecZbbU8lMS1pQwaHlo3cvYFYJ6J3Z3k84pyBDNP_96xsoTWck-E9vSnCbc5BXPAHUqVDxe-rb0CLm2zweNBFxdUXBUdWuOVQjuW9ez8qG228ur0axEsrsdugAh7fn76NH6hcOt-3dIb6118Ns-7sTP0BUGz1LkiEpfjr1vp23InexkmoMh4OpgwxSJzGdZTK_Y_fDpxisKt5dSUX0tCT1S0w2AZ77g-_yfnCPpO44ynFA7vXPSgt1ScwdRM83Kiyf0Rl7YNXHWli_0PKGqP1hu3ABdQMIpOGLyzzWLF62tVYGmEDqmLA6LeaLb6sJAmAdXtXjgef5c9nUY0u23bRYjG7l3lQKRvtJNd07ZkkKcVhAhrEa_nl4jo_4oVmiPv9KZfCr1BdFfRI-cRK9j9JtsKgM7_JmoqK86W8rrc9jbUrV_cnSkvYIBYfhwGfQuaWK5EraK-FpaykQ1mKcNw0f_oJX2oFYmkYG-sbrc-n2vtcjsC9Gfz9VIs7yCQwfGjNJLyQLX0uFzxu2RB1bKsfVU5e9WgVbvYMuOQ4" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#marvel</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AOq6mzq8bICS5qAid_0-KwyU33X8GEJD5nh0K2Em1nVeUuqxhB1CVsgfHfvNTMqBw87c6djoE2ZFvt9LjO1dPLlLfiG2sEmLyCGGn5PPmcc7goDVSfin_5FmgvcUb9g314QBnS3aZGBc6_9ms3VTPzxYpsvnY48AT1XeBGa-qfqqsPhLBy3i1cyMePm6Kb3ZcArDFRoKS3xAAXj7VW_7XSgs3KVL_DPDz3v3xx90ZBWoixovPjKaq9NOw2fcodq_c_6iaB26_RAVwin3dx3tEEG1hErMkhqhpuDTo-wluCaXJuj9y8_ddfxkdgUHurzecZbbU8lMS1pQwaHlo3cvYFYJ6J3Z3k84pyBDNP_96xsoTWck-E9vSnCbc5BXPAHUqVDxe-rb0CLm2zweNBFxdUXBUdWuOVQjuW9ez8qG228ur0axEsrsdugAh7fn76NH6hcOt-3dIb6118Ns-7sTP0BUGz1LkiEpfjr1vp23InexkmoMh4OpgwxSJzGdZTK_Y_fDpxisKt5dSUX0tCT1S0w2AZ77g-_yfnCPpO44ynFA7vXPSgt1ScwdRM83Kiyf0Rl7YNXHWli_0PKGqP1hu3ABdQMIpOGLyzzWLF62tVYGmEDqmLA6LeaLb6sJAmAdXtXjgef5c9nUY0u23bRYjG7l3lQKRvtJNd07ZkkKcVhAhrEa_nl4jo_4oVmiPv9KZfCr1BdFfRI-cRK9j9JtsKgM7_JmoqK86W8rrc9jbUrV_cnSkvYIBYfhwGfQuaWK5EraK-FpaykQ1mKcNw0f_oJX2oFYmkYG-sbrc-n2vtcjsC9Gfz9VIs7yCQwfGjNJLyQLX0uFzxu2RB1bKsfVU5e9WgVbvYMuOQ4</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.45338,29.759664,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shawarma Place [Avengers Assemble]</name>
+        <description><![CDATA[{
+            "film": "Avengers Assemble",
+            "photo": "https://ik.imagekit.io/slink/CineMapper/Marvel/Avengers-Shawarma-social-cd68d_1620467354257_1620467361527_B_5A-p0V9.webp?updatedAt=1691232480025",
+            "studio": "marvel",
+            "description": "Tony Stark takes the Avengers for shawarma in the post credit scene.",
+            "youtube": ""
+          }]]>
+        </description>
+        <styleUrl>#marvel</styleUrl>
+        <Point>
+          <coordinates>
+            -118.394067,34.054895,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+      </Document>
+</kml>
