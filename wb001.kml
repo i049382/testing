@@ -19,7 +19,7 @@
           <color>ffb73a67</color>
           <scale></scale>
           <Icon>
-            <href>https://ik.imagekit.io/slink/CineMapper/wb_Se_RIJZBx.png?updatedAt=1691439160465</href>
+            <href>https://ik.imagekit.io/slink/CineMapper/warnerbros_6atLPNw4m.png</href>
           </Icon>
         </IconStyle>
         <LabelStyle>
@@ -31,7 +31,7 @@
           <color>ffb73a67</color>
           <scale>1</scale>
           <Icon>
-            <href>https://ik.imagekit.io/slink/CineMapper/wb_Se_RIJZBx.png?updatedAt=1691439160465</href>
+            <href>https://ik.imagekit.io/slink/CineMapper/wb_Se_RIJZBx.png</href>
           </Icon>
         </IconStyle>
         <LabelStyle>
@@ -39,145 +39,7 @@
         </LabelStyle>
       </Style>
 
-      <StyleMap id="starwars">
-        <Pair>
-          <key>normal</key>
-          <styleUrl>#starwars-normal</styleUrl>
-        </Pair>
-        <Pair>
-          <key>highlight</key>
-          <styleUrl>#starwars-highlight</styleUrl>
-        </Pair>
-      </StyleMap>
-      <Style id="starwars-normal">
-        <IconStyle>
-          <color>ffb73a67</color>
-          <scale>30</scale>
-          <Icon>
-            <href>https://ik.imagekit.io/slink/CineMapper/Starwars_LI149jc3Q.png?updatedAt=1691352990383</href>
-          </Icon>
-        </IconStyle>
-        <LabelStyle>
-          <scale>30</scale>
-        </LabelStyle>
-      </Style>
-      <Style id="starwars-highlight">
-        <IconStyle>
-          <color>ffb73a67</color>
-          <scale>30</scale>
-          <Icon>
-            <href>https://ik.imagekit.io/slink/CineMapper/Starwars_LI149jc3Q.png?updatedAt=1691352990383</href>
-          </Icon>
-        </IconStyle>
-        <LabelStyle>
-          <scale>2</scale>
-        </LabelStyle>
-      </Style>
-
-      <StyleMap id="marvel">
-        <Pair>
-          <key>normal</key>
-          <styleUrl>#marvel-normal</styleUrl>
-        </Pair>
-        <Pair>
-          <key>highlight</key>
-          <styleUrl>#marvel-highlight</styleUrl>
-        </Pair>
-      </StyleMap>
-      <Style id="marvel-normal">
-        <IconStyle>
-          <color>ffb73a67</color>
-          <scale></scale>
-          <Icon>
-            <href>https://ik.imagekit.io/slink/CineMapper/CineMapperMarvel_T36MtcVfv.png?updatedAt=1691350353337</href>
-          </Icon>
-        </IconStyle>
-        <LabelStyle>
-          <scale>1</scale>
-        </LabelStyle>
-      </Style>
-      <Style id="marvel-highlight">
-        <IconStyle>
-          <color>ffb73a67</color>
-          <scale>1</scale>
-          <Icon>
-            <href>https://ik.imagekit.io/slink/CineMapper/CineMapperMarvel_T36MtcVfv.png?updatedAt=1691350353337</href>
-          </Icon>
-        </IconStyle>
-        <LabelStyle>
-          <scale>1</scale>
-        </LabelStyle>
-      </Style>
-
-      <StyleMap id="transformers">
-        <Pair>
-          <key>normal</key>
-          <styleUrl>#transformers-normal</styleUrl>
-        </Pair>
-        <Pair>
-          <key>highlight</key>
-          <styleUrl>#transformers-highlight</styleUrl>
-        </Pair>
-      </StyleMap>
-      <Style id="transformers-normal">
-        <IconStyle>
-          <color>ffb73a67</color>
-          <scale>1</scale>
-          <Icon>
-            <href>https://ik.imagekit.io/slink/CineMapper/Transformers_WVfHs6oN0.png?updatedAt=1691354329225</href>
-          </Icon>
-        </IconStyle>
-        <LabelStyle>
-          <scale>1</scale>
-        </LabelStyle>
-      </Style>
-      <Style id="transformers-highlight">
-        <IconStyle>
-          <color>ffb73a67</color>
-          <scale>1</scale>
-          <Icon>
-            <href>https://ik.imagekit.io/slink/CineMapper/Transformers_WVfHs6oN0.png?updatedAt=1691354329225</href>
-          </Icon>
-        </IconStyle>
-        <LabelStyle>
-          <scale>1</scale>
-        </LabelStyle>
-      </Style>
-
-      <StyleMap id="harrypotter">
-        <Pair>
-          <key>normal</key>
-          <styleUrl>#harrypotter-normal</styleUrl>
-        </Pair>
-        <Pair>
-          <key>highlight</key>
-          <styleUrl>#harrypotter-highlight</styleUrl>
-        </Pair>
-      </StyleMap>
-      <Style id="harrypotter-normal">
-        <IconStyle>
-          <color>ffb73a67</color>
-          <scale>1</scale>
-          <Icon>
-            <href>https://ik.imagekit.io/slink/CineMapper/Harry%20Potter_4bUheL84k.png?updatedAt=1691367626777</href>
-          </Icon>
-        </IconStyle>
-        <LabelStyle>
-          <scale>1</scale>
-        </LabelStyle>
-      </Style>
-      <Style id="harrypotter-highlight">
-        <IconStyle>
-          <color>ffb73a67</color>
-          <scale>1</scale>
-          <Icon>
-            <href>https://ik.imagekit.io/slink/CineMapper/Harry%20Potter_4bUheL84k.png?updatedAt=1691367626777</href>
-          </Icon>
-        </IconStyle>
-        <LabelStyle>
-          <scale>1</scale>
-        </LabelStyle>
-      </Style>
+  
 
 
 
