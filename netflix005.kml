@@ -65,7 +65,15 @@
       </Placemark>
 
       <Placemark>
-        <name><![CDATA["Royal Mint of Spain" [Money Heist]]]></name>
+        <name>Royal Mint of Spain</name>
+<description><![CDATA[{
+            "film": "Money Heist",
+            "photo": "",
+            "studio": "netflix",
+            "description": "",
+            "youtube": ""
+          }]]>
+        </description>
         <styleUrl>#default</styleUrl>
         <Point>
           <coordinates>
@@ -73,6 +81,7 @@
           </coordinates>
         </Point>
       </Placemark>
+
       <Placemark>
         <name>[Money Heist Part 5]</name>
         <styleUrl>#default</styleUrl>
