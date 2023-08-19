@@ -39,151 +39,23 @@
         </LabelStyle>
       </Style>
 
-      <StyleMap id="starwars">
-        <Pair>
-          <key>normal</key>
-          <styleUrl>#starwars-normal</styleUrl>
-        </Pair>
-        <Pair>
-          <key>highlight</key>
-          <styleUrl>#starwars-highlight</styleUrl>
-        </Pair>
-      </StyleMap>
-      <Style id="starwars-normal">
-        <IconStyle>
-          <color>ffb73a67</color>
-          <scale>30</scale>
-          <Icon>
-            <href>https://ik.imagekit.io/slink/CineMapper/Starwars_LI149jc3Q.png?updatedAt=1691352990383</href>
-          </Icon>
-        </IconStyle>
-        <LabelStyle>
-          <scale>30</scale>
-        </LabelStyle>
-      </Style>
-      <Style id="starwars-highlight">
-        <IconStyle>
-          <color>ffb73a67</color>
-          <scale>30</scale>
-          <Icon>
-            <href>https://ik.imagekit.io/slink/CineMapper/Starwars_LI149jc3Q.png?updatedAt=1691352990383</href>
-          </Icon>
-        </IconStyle>
-        <LabelStyle>
-          <scale>2</scale>
-        </LabelStyle>
-      </Style>
-
-      <StyleMap id="marvel">
-        <Pair>
-          <key>normal</key>
-          <styleUrl>#marvel-normal</styleUrl>
-        </Pair>
-        <Pair>
-          <key>highlight</key>
-          <styleUrl>#marvel-highlight</styleUrl>
-        </Pair>
-      </StyleMap>
-      <Style id="marvel-normal">
-        <IconStyle>
-          <color>ffb73a67</color>
-          <scale></scale>
-          <Icon>
-            <href>https://ik.imagekit.io/slink/CineMapper/CineMapperMarvel_T36MtcVfv.png?updatedAt=1691350353337</href>
-          </Icon>
-        </IconStyle>
-        <LabelStyle>
-          <scale>1</scale>
-        </LabelStyle>
-      </Style>
-      <Style id="marvel-highlight">
-        <IconStyle>
-          <color>ffb73a67</color>
-          <scale>1</scale>
-          <Icon>
-            <href>https://ik.imagekit.io/slink/CineMapper/CineMapperMarvel_T36MtcVfv.png?updatedAt=1691350353337</href>
-          </Icon>
-        </IconStyle>
-        <LabelStyle>
-          <scale>1</scale>
-        </LabelStyle>
-      </Style>
-
-      <StyleMap id="transformers">
-        <Pair>
-          <key>normal</key>
-          <styleUrl>#transformers-normal</styleUrl>
-        </Pair>
-        <Pair>
-          <key>highlight</key>
-          <styleUrl>#transformers-highlight</styleUrl>
-        </Pair>
-      </StyleMap>
-      <Style id="transformers-normal">
-        <IconStyle>
-          <color>ffb73a67</color>
-          <scale>1</scale>
-          <Icon>
-            <href>https://ik.imagekit.io/slink/CineMapper/Transformers_WVfHs6oN0.png?updatedAt=1691354329225</href>
-          </Icon>
-        </IconStyle>
-        <LabelStyle>
-          <scale>1</scale>
-        </LabelStyle>
-      </Style>
-      <Style id="transformers-highlight">
-        <IconStyle>
-          <color>ffb73a67</color>
-          <scale>1</scale>
-          <Icon>
-            <href>https://ik.imagekit.io/slink/CineMapper/Transformers_WVfHs6oN0.png?updatedAt=1691354329225</href>
-          </Icon>
-        </IconStyle>
-        <LabelStyle>
-          <scale>1</scale>
-        </LabelStyle>
-      </Style>
-
-      <StyleMap id="harrypotter">
-        <Pair>
-          <key>normal</key>
-          <styleUrl>#harrypotter-normal</styleUrl>
-        </Pair>
-        <Pair>
-          <key>highlight</key>
-          <styleUrl>#harrypotter-highlight</styleUrl>
-        </Pair>
-      </StyleMap>
-      <Style id="harrypotter-normal">
-        <IconStyle>
-          <color>ffb73a67</color>
-          <scale>1</scale>
-          <Icon>
-            <href>https://ik.imagekit.io/slink/CineMapper/Harry%20Potter_4bUheL84k.png?updatedAt=1691367626777</href>
-          </Icon>
-        </IconStyle>
-        <LabelStyle>
-          <scale>1</scale>
-        </LabelStyle>
-      </Style>
-      <Style id="harrypotter-highlight">
-        <IconStyle>
-          <color>ffb73a67</color>
-          <scale>1</scale>
-          <Icon>
-            <href>https://ik.imagekit.io/slink/CineMapper/Harry%20Potter_4bUheL84k.png?updatedAt=1691367626777</href>
-          </Icon>
-        </IconStyle>
-        <LabelStyle>
-          <scale>1</scale>
-        </LabelStyle>
-      </Style>
+    
+  
+    
 
 
 <Folder>
       <name>Netflix</name>
       <Placemark>
-        <name>Sodden Castle (The Witcher)</name>
+        <name>Sodden Castle</name>
+<description><![CDATA[{
+            "film": "The Witcher",
+            "photo": "https://ik.imagekit.io/slink/CineMapper/Marvel/16black-panther-lighting7-articleLarge_ZnK-alJqc.webp?updatedAt=1691232966896",
+            "studio": "marvel",
+            "description": "If you want to be the next king of Wakanda, you have to challenge the current king to ritual combat at Warrior Falls. While close-ups and action footage of Black Panther’s Warrior Falls were filmed on a soundstage in Atlanta, Georgia, establishing and wide shots were filmed at Iguazu Falls, a water system on the border of Argentina and Brazil in South America.",
+            "youtube": ""
+          }]]>
+        </description>
         <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AOq6mzoE8An_w8fAVpaWDxJ5XqJB3jAZuYSMXyPuarmgO1HS1QCXWD3wckrKp_vHU7ZScvtAAxHIT5U2tEQ3__sJ3iSdypOYNLCs3byzFLRWjmKJEAZQWVwHdkhCwJAxWQXUsv2jmEU9smGt3V5A6W_yjeS5ihlrt9_O_w6Vs67GLY1t46VYuiLWpM2HsS5epr0ZYRt7qbchSuzBvTQ5Qr6eOCbVHOTc2Ym_uXf8oecvsZIfftVwhwcQ8aMYCpekwl5a6F2hnGDRIWDYJxE9KuYT8BPLpJfSJlrM38S_B-SFJaq2UW26JhjTXk4X6fq993_vCfqBxgDqMaXhXLhblDBZnxCVvpe06WpA7eLWzx2zF1XWhGx7m3Q7o8kgkOoXe4yAFcLIT-Qzcfhqm1d1kyRLmlbMPYcwvzgJoEq48R4EvIAUhlxPh9hfVm19KoeL73x66K1_R9zshamgElDMmGMMZP2QOHo_4UbmbPkYE-9tzACRO7FIFHE-MP8Q-Zci2Fq_MWIi5i6toc45-HC9cyLMXRmry00_vDMnQ0pKEA4jiti1aS_AXWiJDTpAYe6RoxkdLpPs5_h_o1_ESRW6op-eH5Tv6R13FTvhFKFi-u8VOXr4G3xFM2Xi20NVrf9AUdVbTmsq-gLI8cC04kmDHs1gLZdVkKgc_gqnFhfqwNPm-aB4GFYmZQQC5YFDfi69QebZQU5cRIta4dlJrPUDGTTQYis5g_GD1kpgUp_MBAwCZ9RCU0ictj4BJMKyzAK5MuAug6DvVkSkmGX2RYme1wIS6_YccvpOw-s1JzBr2oQWh2RUvVXCW19SNKC9v1RRoU3H90oR55bz-2RwPCmKfrV5FVbwP4RT2Gip" height="200" width="auto" /><br><br>The castle near the battle of Sodden Hill in the region of Sodden.]]></description>
         <styleUrl>#default</styleUrl>
         <ExtendedData>
