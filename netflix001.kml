@@ -51,24 +51,19 @@
 <description><![CDATA[{
             "film": "The Witcher",
             "photo": "https://ik.imagekit.io/slink/CineMapper/Marvel/16black-panther-lighting7-articleLarge_ZnK-alJqc.webp?updatedAt=1691232966896",
-            "studio": "marvel",
-            "description": "If you want to be the next king of Wakanda, you have to challenge the current king to ritual combat at Warrior Falls. While close-ups and action footage of Black Panther’s Warrior Falls were filmed on a soundstage in Atlanta, Georgia, establishing and wide shots were filmed at Iguazu Falls, a water system on the border of Argentina and Brazil in South America.",
+            "studio": "netflix",
+            "description": "The castle near the battle of Sodden Hill in the region of Sodden",
             "youtube": ""
           }]]>
         </description>
-        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AOq6mzoE8An_w8fAVpaWDxJ5XqJB3jAZuYSMXyPuarmgO1HS1QCXWD3wckrKp_vHU7ZScvtAAxHIT5U2tEQ3__sJ3iSdypOYNLCs3byzFLRWjmKJEAZQWVwHdkhCwJAxWQXUsv2jmEU9smGt3V5A6W_yjeS5ihlrt9_O_w6Vs67GLY1t46VYuiLWpM2HsS5epr0ZYRt7qbchSuzBvTQ5Qr6eOCbVHOTc2Ym_uXf8oecvsZIfftVwhwcQ8aMYCpekwl5a6F2hnGDRIWDYJxE9KuYT8BPLpJfSJlrM38S_B-SFJaq2UW26JhjTXk4X6fq993_vCfqBxgDqMaXhXLhblDBZnxCVvpe06WpA7eLWzx2zF1XWhGx7m3Q7o8kgkOoXe4yAFcLIT-Qzcfhqm1d1kyRLmlbMPYcwvzgJoEq48R4EvIAUhlxPh9hfVm19KoeL73x66K1_R9zshamgElDMmGMMZP2QOHo_4UbmbPkYE-9tzACRO7FIFHE-MP8Q-Zci2Fq_MWIi5i6toc45-HC9cyLMXRmry00_vDMnQ0pKEA4jiti1aS_AXWiJDTpAYe6RoxkdLpPs5_h_o1_ESRW6op-eH5Tv6R13FTvhFKFi-u8VOXr4G3xFM2Xi20NVrf9AUdVbTmsq-gLI8cC04kmDHs1gLZdVkKgc_gqnFhfqwNPm-aB4GFYmZQQC5YFDfi69QebZQU5cRIta4dlJrPUDGTTQYis5g_GD1kpgUp_MBAwCZ9RCU0ictj4BJMKyzAK5MuAug6DvVkSkmGX2RYme1wIS6_YccvpOw-s1JzBr2oQWh2RUvVXCW19SNKC9v1RRoU3H90oR55bz-2RwPCmKfrV5FVbwP4RT2Gip" height="200" width="auto" /><br><br>The castle near the battle of Sodden Hill in the region of Sodden.]]></description>
         <styleUrl>#default</styleUrl>
-        <ExtendedData>
-          <Data name="gx_media_links">
-            <value>https://lh3.googleusercontent.com/umsh/AOq6mzoE8An_w8fAVpaWDxJ5XqJB3jAZuYSMXyPuarmgO1HS1QCXWD3wckrKp_vHU7ZScvtAAxHIT5U2tEQ3__sJ3iSdypOYNLCs3byzFLRWjmKJEAZQWVwHdkhCwJAxWQXUsv2jmEU9smGt3V5A6W_yjeS5ihlrt9_O_w6Vs67GLY1t46VYuiLWpM2HsS5epr0ZYRt7qbchSuzBvTQ5Qr6eOCbVHOTc2Ym_uXf8oecvsZIfftVwhwcQ8aMYCpekwl5a6F2hnGDRIWDYJxE9KuYT8BPLpJfSJlrM38S_B-SFJaq2UW26JhjTXk4X6fq993_vCfqBxgDqMaXhXLhblDBZnxCVvpe06WpA7eLWzx2zF1XWhGx7m3Q7o8kgkOoXe4yAFcLIT-Qzcfhqm1d1kyRLmlbMPYcwvzgJoEq48R4EvIAUhlxPh9hfVm19KoeL73x66K1_R9zshamgElDMmGMMZP2QOHo_4UbmbPkYE-9tzACRO7FIFHE-MP8Q-Zci2Fq_MWIi5i6toc45-HC9cyLMXRmry00_vDMnQ0pKEA4jiti1aS_AXWiJDTpAYe6RoxkdLpPs5_h_o1_ESRW6op-eH5Tv6R13FTvhFKFi-u8VOXr4G3xFM2Xi20NVrf9AUdVbTmsq-gLI8cC04kmDHs1gLZdVkKgc_gqnFhfqwNPm-aB4GFYmZQQC5YFDfi69QebZQU5cRIta4dlJrPUDGTTQYis5g_GD1kpgUp_MBAwCZ9RCU0ictj4BJMKyzAK5MuAug6DvVkSkmGX2RYme1wIS6_YccvpOw-s1JzBr2oQWh2RUvVXCW19SNKC9v1RRoU3H90oR55bz-2RwPCmKfrV5FVbwP4RT2Gip</value>
-          </Data>
-        </ExtendedData>
         <Point>
           <coordinates>
             19.552094,50.453113,0
           </coordinates>
         </Point>
       </Placemark>
+
       <Placemark>
         <name><![CDATA["Royal Mint of Spain" [Money Heist]]]></name>
         <styleUrl>#default</styleUrl>
