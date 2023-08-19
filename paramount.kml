@@ -11,7 +11,7 @@
         </Pair>
         <Pair>
           <key>highlight</key>
-          <styleUrl>#harrypotter-highlight</styleUrl>
+          <styleUrl>#default-highlight</styleUrl>
         </Pair>
       </StyleMap>
       <Style id="default-normal">
@@ -40,7 +40,142 @@
       </Style>
 
     
-  
+    <Folder>
+      <name>Paramount Pictures</name>
+      <Placemark>
+        <name>Alnwick Castle</name>
+        <description><![CDATA[{
+            "film": "The Last Knight",
+            "photo": "https://firebasestorage.googleapis.com/v0/b/slink-64a53.appspot.com/o/userContent%2F-NaBwc3brLvzF2VsHzIm%2Flocations%2Falnwick.jpg?alt=media&token=27f6f690-99b6-428f-88d2-2c1248076b33",
+            "studio": "transformers",
+            "description": ""
+          }]]>
+        </description>
+        <styleUrl>#transformers</styleUrl>
+        <Point>
+          <coordinates>
+            -1.70592,55.415583,0
+          </coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>The Dark Hedges</name>
+        <description><![CDATA[{
+            "film": "The Last Knight",
+            "photo": "https://firebasestorage.googleapis.com/v0/b/slink-64a53.appspot.com/o/userContent%2F-NaBwc3brLvzF2VsHzIm%2Flocations%2F2e4e0e3c-9960-11ed-beec-0210609a3fe2.jpg?alt=media&token=499a89d1-9411-40d4-b622-15cdf9124b85",
+            "studio": "transformers",
+            "description": ""
+          }]]>
+        </description>
+        <styleUrl>#transformers</styleUrl>
+        <Point>
+          <coordinates>
+            -6.380822,55.134693,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Alexandretta [Last Crusade]</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AOq6mzpqh1Aywv73JOhIi956XnN4iDeP4NRw8sCrgNFJLctakHcyRMSbdLkkJvssIuc-hR0tr5NNET0NqjkspRO8R-FfKeNI8p1TFmyUOrUUzeATmqcI-kosyPzIfEjZqwMvNnlHV3YVb0XCKOoWu8l-E91LCYKIGbg-qD9cAIEyunoKppBe5WopAK7Tedf0A5ngkMcVitZ5EcDSlWFEQjYEMl3cVjr_tPBItrCqk3JHHrBWbaBO2m0w-HqT0oQ9nyjvUYwgW0AJNOroQfm-gkpS5oj7GyW2D8tEFIZsihavAiuL5gDKLVVWJqlklmq6LcM7-2Im_A8_Cluip6Kg8zvY8XR75ZOPu99Tr_5k9JIH62Btc_jQvY2PSLMi5J14mw8rRsx-TzrUq0K79mz0frp2eUsGMjJ2i8p7PsF-0WbQsWNujKX9c87SZ6uY60NYDpEnZNYPrniaKgjd93WRjwylmDr_wuFPd1hazNweB6lwilaM810iAy4_u5_2YzgoUZvVTzgFVP1THy24UiEUNzswRFZe6GiUVq2DRK__We9fHFKb2sbYCyBp9XttEIotwbjl4BMMBgd-MGftMPSYytVjmm1WeObYZCulehSE9LjHdw1OB4Jzi8zpBACT7ndTJEMPF9FVHTLZdC50ZpNGJQ0AVkPehoxgOqQ1aZACvvOwkpX8cUejlPiAhSzxgZBp1uEWYv5IMBkios_We6U6wdAW_3bf9DRLf1WvcYK2owGazLyATXimzN6ylk1ujKqUT6DnQOurxvqIFOX41B0HJ3hDgjf4g6Dvg2T_Tf_3Ug7mXKMcSwEHo5lbVLLs4FJ1D26_iwO7b6sok9IOY7Cw6jWq-hhAujXCMOgc" height="200" width="auto" /><br><br>Indiana tracks down the holy grail to where the Templars kept it safe.]]></description>
+        <styleUrl>#default</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AOq6mzpqh1Aywv73JOhIi956XnN4iDeP4NRw8sCrgNFJLctakHcyRMSbdLkkJvssIuc-hR0tr5NNET0NqjkspRO8R-FfKeNI8p1TFmyUOrUUzeATmqcI-kosyPzIfEjZqwMvNnlHV3YVb0XCKOoWu8l-E91LCYKIGbg-qD9cAIEyunoKppBe5WopAK7Tedf0A5ngkMcVitZ5EcDSlWFEQjYEMl3cVjr_tPBItrCqk3JHHrBWbaBO2m0w-HqT0oQ9nyjvUYwgW0AJNOroQfm-gkpS5oj7GyW2D8tEFIZsihavAiuL5gDKLVVWJqlklmq6LcM7-2Im_A8_Cluip6Kg8zvY8XR75ZOPu99Tr_5k9JIH62Btc_jQvY2PSLMi5J14mw8rRsx-TzrUq0K79mz0frp2eUsGMjJ2i8p7PsF-0WbQsWNujKX9c87SZ6uY60NYDpEnZNYPrniaKgjd93WRjwylmDr_wuFPd1hazNweB6lwilaM810iAy4_u5_2YzgoUZvVTzgFVP1THy24UiEUNzswRFZe6GiUVq2DRK__We9fHFKb2sbYCyBp9XttEIotwbjl4BMMBgd-MGftMPSYytVjmm1WeObYZCulehSE9LjHdw1OB4Jzi8zpBACT7ndTJEMPF9FVHTLZdC50ZpNGJQ0AVkPehoxgOqQ1aZACvvOwkpX8cUejlPiAhSzxgZBp1uEWYv5IMBkios_We6U6wdAW_3bf9DRLf1WvcYK2owGazLyATXimzN6ylk1ujKqUT6DnQOurxvqIFOX41B0HJ3hDgjf4g6Dvg2T_Tf_3Ug7mXKMcSwEHo5lbVLLs4FJ1D26_iwO7b6sok9IOY7Cw6jWq-hhAujXCMOgc</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.444362,30.328454,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Barnett College [Indiana Jones and The Raiders of The Lost Ark/The Last Crusade]</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AOq6mzrwNPJ2abSgVfbfjaJ7K3LlSOX2Df6nqFgEfEXcpVf0gJGc7JqftV3ItemslVEdEIzWzBa-yO8ywSWmd9LD3V2Y6MGzBu1MHg5wwqJ_cpXS-uMnqdNJZePveX81qf0EOAsWG4BVq3SBbiLM-xowR_k_EwPeW6ctehmkOHnA9oBPU6aXtVJiR54AEDfyrqffK2Inj6hQGyU_s6LhLs3hZpk_Tk6onONwp1dcdYqX0BEgvua30AIpLWN72RpllGqDKBjw-pqyZo_Q9uvRcy89Au3WJkcQGAWiO1hMG4zu_50xhCiPV4MJeOZyxXb422RBHFzd9vZwJ2VQusjcxtKJfUJclqMCbkN0l0Dcn8Phg19DJtL_JgTdy5ex78N4KK7K7LPIBbfi5Be5EHuDZC4wELBYe8j6yFYCE8x2qY0_URUKB9fG6eoiBZpw51p1OJ5prtOCiYfus5T2Dz8foIUFK1yqtw0sTWFO-tzauGA4HjcYQu-rPx30s4-hT8Iqr_ZFL03rgu5MZEYxeyP4Zc2ej4lvOequA3iKHSzk5_xI7e46kkkSujTJbFsjLDeJtI4UMUWlKnWHtKlA-wj6VFoZmnrYue8Mngf5N-FM9fkLXlPCPJwvhkUFKcDeSRa31uj8O__UXkwRYXlsULQFEtCw66dlgyHHF_mC_mMIALWZpLodBfwUuk3wrEE-uKH4gQOcJ5ZPVxRO1J5MQKtL7PU3BSjt2uv1zs27TZ974dBxVCB05qnAi7kqFrH56A78GNoj3oyKf0lvbq4VqG0P8I2w4emEnDCbIkPkclmZ1XyInMwSsaO9z6cDGYGs55yzJ_WyIY9SO0mbX4PiYNnjjuYSQQKVIN9X_3FCzQ" height="200" width="auto" /><br><br>The Royal Masonic School for Girls interiors were used to show where Dr Jones teaches]]></description>
+        <styleUrl>#default</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AOq6mzrwNPJ2abSgVfbfjaJ7K3LlSOX2Df6nqFgEfEXcpVf0gJGc7JqftV3ItemslVEdEIzWzBa-yO8ywSWmd9LD3V2Y6MGzBu1MHg5wwqJ_cpXS-uMnqdNJZePveX81qf0EOAsWG4BVq3SBbiLM-xowR_k_EwPeW6ctehmkOHnA9oBPU6aXtVJiR54AEDfyrqffK2Inj6hQGyU_s6LhLs3hZpk_Tk6onONwp1dcdYqX0BEgvua30AIpLWN72RpllGqDKBjw-pqyZo_Q9uvRcy89Au3WJkcQGAWiO1hMG4zu_50xhCiPV4MJeOZyxXb422RBHFzd9vZwJ2VQusjcxtKJfUJclqMCbkN0l0Dcn8Phg19DJtL_JgTdy5ex78N4KK7K7LPIBbfi5Be5EHuDZC4wELBYe8j6yFYCE8x2qY0_URUKB9fG6eoiBZpw51p1OJ5prtOCiYfus5T2Dz8foIUFK1yqtw0sTWFO-tzauGA4HjcYQu-rPx30s4-hT8Iqr_ZFL03rgu5MZEYxeyP4Zc2ej4lvOequA3iKHSzk5_xI7e46kkkSujTJbFsjLDeJtI4UMUWlKnWHtKlA-wj6VFoZmnrYue8Mngf5N-FM9fkLXlPCPJwvhkUFKcDeSRa31uj8O__UXkwRYXlsULQFEtCw66dlgyHHF_mC_mMIALWZpLodBfwUuk3wrEE-uKH4gQOcJ5ZPVxRO1J5MQKtL7PU3BSjt2uv1zs27TZ974dBxVCB05qnAi7kqFrH56A78GNoj3oyKf0lvbq4VqG0P8I2w4emEnDCbIkPkclmZ1XyInMwSsaO9z6cDGYGs55yzJ_WyIY9SO0mbX4PiYNnjjuYSQQKVIN9X_3FCzQ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.47504,51.647733,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Venice Library [Indiana Jones and The Last Crusade]</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AOq6mzqTAzSl7EktkU2m69PLnxWh_b0L9PGnoHVXAsY_QoEzBYc2VW7HZdV1j1gD7myaeqOe8K2cCLR4-s_Uz2kYFB2KNaQap04Qe3S37UpZFETbRV6MBN69AQ73PrEt3GgwYaYoIeRivGm3ejO1fUx_Q0y7Baz8mLTNXjPaOO1OraOGE0CJTp9zlYfWHttYD4rQNaGtjBZW2UOq6QrY3borqHwCO-muVFtvSpmpa8n_sE2mxJkWnnaH32I7qlI1edkZwnppsepSXFP59gdvrBy0lqHoxyLpHCpx0DLK4HxciyP6pcIUuUUi3FsdbpdYW3AMK7TYKBNfxEbh7ZKz_onYd-brwdI8bCzdjeF-28A6GJZnD41psl4Od_JHTx5bLkbwAVbBqj-FfOLPvJeBab5xX-CWPTrJVhcdXYMhvXss-Ff1bInJcYKl9Gq4tUu2O95RhHAjVrA9KIqml-AwcpDCvL5XQ450y8uPf1-btLM-GALlQncawCC2H-3gZN0bjVNu_fQZco78Qet-c39ghmbqgNL7fDwyWs66iNq1qnI066JOZraH3H4iRXjyT1P6ILYTtSfBky-rwSNiQn5u2LEQwZ8E66nJXBTdCbTIwMAJJjOvtHJWYbBttO0OxH_jKcphLkOahSdQ8jUWyRO7kNL3gsjrwd5z-wShhe81IGTRYzZETvgdlyFUtWWlsXpcY3Sj3UEDnxR5EhklAoud8XHx2xGmeLnZqNsCb5ujXt_qsd_643LUerH2wZIK6FKWL1OadWoETWuY4r9PhLBaYRbxNesahf7RBJLw_39ExdT9YTkPPPQH9ANM9rvMwP2gdsbghUrT9idGXDBSKZTrMNK0rnr97D3O4SvY" height="200" width="auto" /><br><br>Where Indy tries to find 'x' marks to spot that leads them to the templar tomb.]]></description>
+        <styleUrl>#default</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AOq6mzqTAzSl7EktkU2m69PLnxWh_b0L9PGnoHVXAsY_QoEzBYc2VW7HZdV1j1gD7myaeqOe8K2cCLR4-s_Uz2kYFB2KNaQap04Qe3S37UpZFETbRV6MBN69AQ73PrEt3GgwYaYoIeRivGm3ejO1fUx_Q0y7Baz8mLTNXjPaOO1OraOGE0CJTp9zlYfWHttYD4rQNaGtjBZW2UOq6QrY3borqHwCO-muVFtvSpmpa8n_sE2mxJkWnnaH32I7qlI1edkZwnppsepSXFP59gdvrBy0lqHoxyLpHCpx0DLK4HxciyP6pcIUuUUi3FsdbpdYW3AMK7TYKBNfxEbh7ZKz_onYd-brwdI8bCzdjeF-28A6GJZnD41psl4Od_JHTx5bLkbwAVbBqj-FfOLPvJeBab5xX-CWPTrJVhcdXYMhvXss-Ff1bInJcYKl9Gq4tUu2O95RhHAjVrA9KIqml-AwcpDCvL5XQ450y8uPf1-btLM-GALlQncawCC2H-3gZN0bjVNu_fQZco78Qet-c39ghmbqgNL7fDwyWs66iNq1qnI066JOZraH3H4iRXjyT1P6ILYTtSfBky-rwSNiQn5u2LEQwZ8E66nJXBTdCbTIwMAJJjOvtHJWYbBttO0OxH_jKcphLkOahSdQ8jUWyRO7kNL3gsjrwd5z-wShhe81IGTRYzZETvgdlyFUtWWlsXpcY3Sj3UEDnxR5EhklAoud8XHx2xGmeLnZqNsCb5ujXt_qsd_643LUerH2wZIK6FKWL1OadWoETWuY4r9PhLBaYRbxNesahf7RBJLw_39ExdT9YTkPPPQH9ANM9rvMwP2gdsbghUrT9idGXDBSKZTrMNK0rnr97D3O4SvY</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            12.325236,45.433033,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Seagulls Vs Plane [Indiana Jones and The Last Crusade]</name>
+        <description>Jones Senior takes down a plan with an umbrella.</description>
+        <styleUrl>#default</styleUrl>
+        <Point>
+          <coordinates>
+            -2.145512,36.730765,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>D Day Landings [Saving Private Ryan]</name>
+        <description>When Steven Spielberg was filming his 1998 WWII epic film Saving Private Ryan, he ran into a conundrum: how to recreate the D-Day landings at Normandy. He and his crew found the perfect spot in Ireland, at Ballinesker Beach, Curracloe Strand in County Wexford. For two months and a budget of $12 million, Ballinesker became Omaha Beach. What’s more, nearly 2,500 members of the Irish Defence Force’s Army Reserves and Naval Service Reserves worked as extras, even participating in a 10-day boot camp alongside stars Tom Hanks, Ed Burns, Vin Diesel, Adam Goldberg, and more.</description>
+        <styleUrl>#default</styleUrl>
+        <Point>
+          <coordinates>
+            -6.357798,52.399417,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Robert The Bruce's Castle [Braveheart]]]></name>
+        <styleUrl>#default</styleUrl>
+        <Point>
+          <coordinates>
+            -6.318219,53.426895,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[River Chase Scene [Hitman's Bodyguard]]]></name>
+        <description>f you love comedy, action and shots of Amsterdam, we’ve got the perfect movie for you. The Hitman’s Bodyguard stars the hilarious Ryan Reynolds, Samuel L. Jackson and Salma Hayek, and keeps you on your toes with gunfights and high-speed chases. But instead of the usual fast cars, you’ll get boats racing through the stunning canals of the Dutch capital. You’ll even spot the iconic Rijksmuseum.</description>
+        <styleUrl>#default</styleUrl>
+        <Point>
+          <coordinates>
+            4.885697,52.361097,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jordan</name>
+        <description><![CDATA[{
+            "film": "Revenge of the Fallen",
+            "photo": "https://i.ytimg.com/vi/MVN7UoRD7pQ/maxresdefault.jpg",
+            "studio": "transformers",
+            "description": "The group finds the Matrix, whom the Primes that punished the Fallen sacrificed themselves to hide, in Petra, but it disintegrates into dust."
+          }]]>
+        </description>
+        <styleUrl>#transformers</styleUrl>
+        <Point>
+          <coordinates>
+            35.476726,29.698845,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
     
 
 
