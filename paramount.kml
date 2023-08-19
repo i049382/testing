@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>CineMapper</name>
+    <description/>
+
+      <StyleMap id="default">
+        <Pair>
+          <key>normal</key>
+          <styleUrl>#default-normal</styleUrl>
+        </Pair>
+        <Pair>
+          <key>highlight</key>
+          <styleUrl>#harrypotter-highlight</styleUrl>
+        </Pair>
+      </StyleMap>
+      <Style id="default-normal">
+        <IconStyle>
+          <color>ffb73a67</color>
+          <scale></scale>
+          <Icon>
+            <href>https://ik.imagekit.io/slink/CineMapper/Netflix_QCpqFm6io.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Style id="default-highlight">
+        <IconStyle>
+          <color>ffb73a67</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://ik.imagekit.io/slink/CineMapper/Netflix_QCpqFm6io.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+
+    
+  
+    
+
+
+
+
+</Document>
+</kml>
