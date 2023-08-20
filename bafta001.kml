@@ -42,19 +42,20 @@
     
     <Folder>
       <name>Bafta</name>
-      <Placemark>
-        <nameThe White Cliffs of Dover</name>
+     <Placemark>
+        <name>New Asgard</name>
         <description><![CDATA[{
-            "film": "After Love",
-            "photo": "https://resizing.flixster.com/6Z-k-1R-FW7fiicxEsUjQDdG1VI=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzJmZWI2Nzk3LWIzNDItNGY0Yy05ZDVlLTExMWUyY2JiN2Y5Yy5qcGc=",
-            "studio": "bafta",
-            "description": "Mary Hussain overlooks the Port of Dover as she contemplates travelling over sea."
+            "film": "Avengers: End Game",
+            "photo": "https://static1.moviewebimages.com/wordpress/wp-content/uploads/article/OWEnAFuTOdC3fBwLROGET7uNA9Mvp5.jpg",
+            "studio": "marvel",
+            "description": "Rocket and Hulk visit Thor in New Asgard.",
+            "youtube": ""
           }]]>
         </description>
-        <styleUrl>#default</styleUrl>
+        <styleUrl>#marvel</styleUrl>
         <Point>
           <coordinates>
-            51.137959, 1.368850
+            -2.138515,55.898921,0
           </coordinates>
         </Point>
       </Placemark>
