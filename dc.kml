@@ -1,1 +1,72 @@
 
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>CineMapper</name>
+    <description/>
+
+      <StyleMap id="default">
+        <Pair>
+          <key>normal</key>
+          <styleUrl>#default-normal</styleUrl>
+        </Pair>
+        <Pair>
+          <key>highlight</key>
+          <styleUrl>#default-highlight</styleUrl>
+        </Pair>
+      </StyleMap>
+      <Style id="default-normal">
+        <IconStyle>
+          <color>ffb73a67</color>
+          <scale></scale>
+          <Icon>
+            <href>https://ik.imagekit.io/slink/CineMapper/Bafta_t4oXbFXS8.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Style id="default-highlight">
+        <IconStyle>
+          <color>ffb73a67</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://ik.imagekit.io/slink/CineMapper/Bafta_t4oXbFXS8.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+
+    
+    <Folder>
+      <name>DC</name>
+     <Placemark>
+        <name>The White Cliffs of Dover</name>
+        <description><![CDATA[{
+            "film": "After Love",
+            "photo": "https://firebasestorage.googleapis.com/v0/b/slink-64a53.appspot.com/o/userContent%2F-NaBwc3brLvzF2VsHzIm%2Flocations%2Fafterlove.jpg?alt=media&token=5fa8e337-ad2a-4171-ba1f-9d6d951f8a8b",
+            "studio": "bafta",
+            "description": "Mary Hussain overlooks the Port of Dover as she contemplates travelling over sea.",
+            "youtube": ""
+          }]]>
+        </description>
+        <styleUrl>#default</styleUrl>
+        <Point>
+          <coordinates>
+            1.3063388,51.1200393,0
+          </coordinates>
+        </Point>
+      </Placemark>
+
+      
+    </Folder>
+    
+
+
+
+
+</Document>
+</kml>
