@@ -44,12 +44,12 @@
     <Folder>
       <name>DC</name>
      <Placemark>
-        <name>The White Cliffs of Dover</name>
+        <name>Castillo San Felipe del Morro</name>
         <description><![CDATA[{
-            "film": "After Love",
-            "photo": "https://firebasestorage.googleapis.com/v0/b/slink-64a53.appspot.com/o/userContent%2F-NaBwc3brLvzF2VsHzIm%2Flocations%2Fafterlove.jpg?alt=media&token=5fa8e337-ad2a-4171-ba1f-9d6d951f8a8b",
-            "studio": "bafta",
-            "description": "Mary Hussain overlooks the Port of Dover as she contemplates travelling over sea.",
+            "film": "Blue Beetle",
+            "photo": "https://image.tmdb.org/t/p/w1920_and_h800_multi_faces/H6j5smdpRqP9a8UnhWp6zfl0SC.jpg",
+            "studio": "dc",
+            "description": "After failing to save the Reyes family's house from Victoria Kord's army, Jenny Kord takes the Reyes family to the original Blue Beetle's headquarters while Victoria takes Jaime Reyes to her own base of operations, located in a far-off fortress. Kord's fortress is actually the Castillo San Felipe del Morro in Old San Juan, Puerto Rico.",
             "youtube": ""
           }]]>
         </description>
