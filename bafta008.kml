@@ -52,6 +52,11 @@
             "youtube": ""
           }]]>
         </description>
+<ExtendedData>
+      <Data name="photo">
+        <value>https://firebasestorage.googleapis.com/v0/b/slink-64a53.appspot.com/o/userContent%2F-NaBwc3brLvzF2VsHzIm%2Flocations%2Fafterlove.jpg?alt=media&token=5fa8e337-ad2a-4171-ba1f-9d6d951f8a8b</value>
+      </Data>
+    </ExtendedData>
         <styleUrl>#default</styleUrl>
         <Point>
           <coordinates>
