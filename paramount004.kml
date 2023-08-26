@@ -176,7 +176,7 @@
         </Point>
       </Placemark>
 
-<Placemark><name>Tate Modern</name><description><![CDATA[{"film":"Mission Impossible M:I6","photo":"https://www.sceen-it.com/Service/sceenit/sceen/medium/25901.jpg/nos/.jpg","studio":"Paramount Pictures","description":"Ethan chases August Walker who finally escapes with a helicopter leaving Ethan on the roof."}]]>  </description><styleUrl>#default</styleUrl><Point><coordinates>-0.0993589982390404,51.5079078674316,0</coordinates></Point></Placemark>
+<Placemark><name>Tate Modern</name><description><![CDATA[{"film":"Mission Impossible M:I6","photo":"https://www.sceen-it.com/Service/sceenit/sceen/medium/25901.jpg","studio":"Paramount Pictures","description":"Ethan chases August Walker who finally escapes with a helicopter leaving Ethan on the roof."}]]>  </description><styleUrl>#default</styleUrl><Point><coordinates>-0.0993589982390404,51.5079078674316,0</coordinates></Point></Placemark>
     </Folder>
     
 
