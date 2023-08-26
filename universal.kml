@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>CineMapper</name>
+    <description/>
+
+      <StyleMap id="default">
+        <Pair>
+          <key>normal</key>
+          <styleUrl>#default-normal</styleUrl>
+        </Pair>
+        <Pair>
+          <key>highlight</key>
+          <styleUrl>#default-highlight</styleUrl>
+        </Pair>
+      </StyleMap>
+      <Style id="default-normal">
+        <IconStyle>
+          <color>ffb73a67</color>
+          <scale></scale>
+          <Icon>
+            <href>https://ik.imagekit.io/slink/CineMapper/Universal_z4S2BcX-f.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Style id="default-highlight">
+        <IconStyle>
+          <color>ffb73a67</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://ik.imagekit.io/slink/CineMapper/Universal_z4S2BcX-f.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+
+    
+    <Folder>
+      <name>Universal</name>
+<Placemark><name>Einstein Pond</name><description><![CDATA[{"film":"Oppenheimer ","photo":"https://www.sceen-it.com/Service/sceenit/sceen/Thumb/97008/w/400/h/200/crop/true/webp/true/nos/.webp","studio":"Universal Studios ","description":"Oppenheimer talks to Einstein at Princeton Institute Pond"}]]>  </description><styleUrl>#default</styleUrl><Point><coordinates>-74.6680374145508,40.3301620483398,0</coordinates></Point></Placemark>
+
+    </Folder>
+    
+
+
+
+
+</Document>
+</kml>
