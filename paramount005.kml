@@ -176,8 +176,12 @@
         </Point>
       </Placemark>
 
-<Placemark><name>Tate Modern</name><description><![CDATA[{"film":"Mission Impossible M:I6","photo":"https://www.sceen-it.com/Service/sceenit/sceen/medium/25901.jpg","studio":"Paramount Pictures","description":"Ethan chases August Walker who finally escapes with a helicopter leaving Ethan on the roof."}]]>  </description><styleUrl>#default</styleUrl><Point><coordinates>-0.0993589982390404,51.5079078674316,0</coordinates></Point></Placemark>
-    </Folder>
+<Placemark><name>Tate Modern</name><description><![CDATA[{"film":"Mission: Impossible Fallout","photo":"https://www.sceen-it.com/Service/sceenit/sceen/medium/25901.jpg","studio":"Paramount Pictures","description":"Ethan chases August Walker who finally escapes with a helicopter leaving Ethan on the roof."}]]>  </description><styleUrl>#default</styleUrl><Point><coordinates>-0.0993589982390404,51.5079078674316,0</coordinates></Point></Placemark>
+<Placemark><name>Powder Tower</name><description><![CDATA[{"film":"Mission: Impossible","photo":"https://www.recenzent.org.ua/wp-content/uploads/2022/02/mission-impossible-max-exterior-5.jpg","studio":"Paramount Pictures","description":"Max and her bodyguards take Ethan with them because the CIA has found out about their meeting place."}]]>  </description><styleUrl>#default</styleUrl><Point><coordinates>14.4278221130371,50.0873756408691,0</coordinates></Point></Placemark>
+
+
+
+</Folder>
     
 
 
