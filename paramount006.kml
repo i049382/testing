@@ -39,6 +39,43 @@
         </LabelStyle>
       </Style>
 
+
+<StyleMap id="transformers">
+        <Pair>
+          <key>normal</key>
+          <styleUrl>#transformers-normal</styleUrl>
+        </Pair>
+        <Pair>
+          <key>highlight</key>
+          <styleUrl>#transformers-highlight</styleUrl>
+        </Pair>
+      </StyleMap>
+      <Style id="default-normal">
+        <IconStyle>
+          <color>ffb73a67</color>
+          <scale></scale>
+          <Icon>
+            <href>https://ik.imagekit.io/slink/CineMapper/Transformers_WVfHs6oN0.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Style id="default-highlight">
+        <IconStyle>
+          <color>ffb73a67</color>
+          <scale>1</scale>
+          <Icon>
+            <href>https://ik.imagekit.io/slink/CineMapper/Transformers_WVfHs6oN0.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+
+
     
     <Folder>
       <name>Paramount Pictures</name>
