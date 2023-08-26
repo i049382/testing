@@ -50,7 +50,7 @@
           <styleUrl>#transformers-highlight</styleUrl>
         </Pair>
       </StyleMap>
-      <Style id="default-normal">
+      <Style id="transformers-normal">
         <IconStyle>
           <color>ffb73a67</color>
           <scale></scale>
@@ -62,7 +62,7 @@
           <scale>1</scale>
         </LabelStyle>
       </Style>
-      <Style id="default-highlight">
+      <Style id="transformers-highlight">
         <IconStyle>
           <color>ffb73a67</color>
           <scale>1</scale>
