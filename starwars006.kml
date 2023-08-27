@@ -17,10 +17,10 @@
       <Style id="default-normal">
         <IconStyle>
           <color>ffb73a67</color>
-          <scale></scale>
+          <scale>2</scale>
           <Icon>
             <href>https://ik.imagekit.io/slink/CineMapper/va_60f4N9niW.WEBP</href>
-            <scale>1.0</scale>
+            <scale>2.0</scale>
           </Icon>
         </IconStyle>
         <LabelStyle>
@@ -30,10 +30,10 @@
       <Style id="default-highlight">
         <IconStyle>
           <color>ffb73a67</color>
-          <scale>1</scale>
+          <scale>2</scale>
           <Icon>
             <href>https://ik.imagekit.io/slink/CineMapper/va_60f4N9niW.WEBP</href>
-<scale>1.0</scale>
+<scale>2.0</scale>
           </Icon>
         </IconStyle>
         <LabelStyle>
@@ -54,10 +54,10 @@
       <Style id="starwars-normal">
         <IconStyle>
           <color>ffb73a67</color>
-          <scale>30</scale>
+          <scale>2</scale>
           <Icon>
             <href>https://ik.imagekit.io/slink/CineMapper/va_60f4N9niW.WEBP</href>
-<scale>1.0</scale>
+<scale>2.0</scale>
           </Icon>
         </IconStyle>
         <LabelStyle>
@@ -70,7 +70,7 @@
           <scale>30</scale>
           <Icon>
             <href>https://ik.imagekit.io/slink/CineMapper/va_60f4N9niW.WEBP</href>
-<scale>1.0</scale>
+<scale>2.0</scale>
           </Icon>
         </IconStyle>
         <LabelStyle>
