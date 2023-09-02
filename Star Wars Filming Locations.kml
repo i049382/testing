@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Star Wars Filming Locations</name>
+    <description><![CDATA[Information & photos from:  http://www.losapos.com/starwarstunisia<br>---<br>I stumbled across these coordinates at losapos.com.  I decided to compile them all on one map, along with the verbiage & photos for convenience.<br>---<br>When you say Star Wars, most people think of galaxies far far away. But all these exotic planets from the movies were filmed on earth. Four of the Star Wars movies were partially filmed in southern Tunisia (the planet Tatooine in the movies) and the good thing is that many of the locations are still in relative good state.<br><br>You can stay in Luke Skywalker's home (now a hotel) and wander around the desert bumping into moisture vaporators and other Star Wars stuff around the Mos Espa set.]]></description>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Untitled layer</name>
+      <Placemark>
+        <name><![CDATA[Obi-Wan Kenobi's House]]></name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AOq6mzqTSb6_YAu1qlSL1yJJ84krQHhC5u4fQp66XUsZ_KZrI5KWPPeUnh1ey10lQJmrAOl94isCiBzWYJpJyANk6I_gWaqEWh9gm5pJGBwor-c8r8shFjN53ld45kYRpxslpGGqBBvZjuQsSdg" height="200" width="auto" /><br><br>This little house is actually used by fishermen as a storage. In Episode IV it can be seen as the house of Obi-Wan Kenobi.<br><br><img src="https://lh3.googleusercontent.com/umsh/AOq6mzpgvvKld0431PU1q4HUJY14sOU5ojPHLXpjGJRvA7FgL-F-d2FGfQ6Vx7oAKVmSj6mpbhRjFfM4JrbqBu3se76IIrFL9E3ho6r6rbIX4s6h5elBUpXdJpIMEw" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AOq6mzqTSb6_YAu1qlSL1yJJ84krQHhC5u4fQp66XUsZ_KZrI5KWPPeUnh1ey10lQJmrAOl94isCiBzWYJpJyANk6I_gWaqEWh9gm5pJGBwor-c8r8shFjN53ld45kYRpxslpGGqBBvZjuQsSdg https://lh3.googleusercontent.com/umsh/AOq6mzpgvvKld0431PU1q4HUJY14sOU5ojPHLXpjGJRvA7FgL-F-d2FGfQ6Vx7oAKVmSj6mpbhRjFfM4JrbqBu3se76IIrFL9E3ho6r6rbIX4s6h5elBUpXdJpIMEw</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.734922,33.740855,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Toshi Station</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AOq6mzoTZO6aACkeia80xWUhlh2vFKQcXJ8Id57yqNRollCK81FJZ1qfu3-OcNDTdK7Nj-U2ktGJNpiiNrKGcT_-BgCPqqgfrcFZnrXDGOYO5zL-pq2LyMj0gtOLVo6IE1WummO5bD8" height="200" width="auto" /><br><br>Sidi Jemour is a temple, located some miles north of Ben’s house. It was seen in the movie as Toshi Station in Anchorhead, in a shot where the landspeeder rushes into Anchorhead on its way to Mos Eisley.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AOq6mzoTZO6aACkeia80xWUhlh2vFKQcXJ8Id57yqNRollCK81FJZ1qfu3-OcNDTdK7Nj-U2ktGJNpiiNrKGcT_-BgCPqqgfrcFZnrXDGOYO5zL-pq2LyMj0gtOLVo6IE1WummO5bD8</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.748127,33.831438,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lars (Skywalker) Homestead Exterior</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AOq6mzpehVFvi5qMwZC7gOdTUbKLZJl-EccFOyqIjOMeixWdSure56D_mkVIwvmEKVK8gjG9DJ4VFpkhQP61M2b533rIaiKRn14AmF39otz0uyDQ8eDfAdXq1QB4HQJqx6veZnXPrdD4rw" height="200" width="auto" /><br><br>Luke's home is located 35km out of Tozeur at Chott El Jerid. Chott El Jerid is part of the vast dry salt lake flats that cover 5,000 sq km on the West side of central/southern Tunisia near Algeria. The little igloo is standing here in the middle of nowhere. Because the Lars Homestead interior scenes were shot somewhere else, the crew had to dig some craters next to it, to make you believe there's actually an underground structure in the movie. <br> <br><br><br> <br><br><br> The igloo was taken apart after the shooting of the first trilogy but was rebuilt for Attack of the Clones and Revenge of the Sith. Some memorable scenes were shot here, including Shmi Skywalker's funeral in Attack of the Clones, and the final shot of Revenge of the Sith. It's a good idea to visit this location near the evening. When the sun sets in the middle of the desert and with the little igloo as the only structure nearby, you'll get a spectacular view.<br><br><img src="https://lh3.googleusercontent.com/umsh/AOq6mzrz3NEDRXDGM1Y_--8rsVlz12Jsjy-NHF3Y-2pxA4CuwRQOQEcamsRkCrLA78319ax1axkx7XX_O9yd9_l7on2ZLQ9dXUEf7XdJ4eG7KpT9_sVpOzAXekxpgw" height="200" width="auto" /><br><br><img src="https://lh3.googleusercontent.com/umsh/AOq6mzreK8fgbkYHO-8Uj1pKSiL0kh_U2Zxa1aV5VNFEU-GPWjhHnNV7ScZac691MduAteD55pgDg2_9L4D201nxekyuR4vamGqdDZz5ptGvdWt7kKehcxMwG6UNX9CxnazQtYjQhLjSLg" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AOq6mzpehVFvi5qMwZC7gOdTUbKLZJl-EccFOyqIjOMeixWdSure56D_mkVIwvmEKVK8gjG9DJ4VFpkhQP61M2b533rIaiKRn14AmF39otz0uyDQ8eDfAdXq1QB4HQJqx6veZnXPrdD4rw https://lh3.googleusercontent.com/umsh/AOq6mzrz3NEDRXDGM1Y_--8rsVlz12Jsjy-NHF3Y-2pxA4CuwRQOQEcamsRkCrLA78319ax1axkx7XX_O9yd9_l7on2ZLQ9dXUEf7XdJ4eG7KpT9_sVpOzAXekxpgw https://lh3.googleusercontent.com/umsh/AOq6mzreK8fgbkYHO-8Uj1pKSiL0kh_U2Zxa1aV5VNFEU-GPWjhHnNV7ScZac691MduAteD55pgDg2_9L4D201nxekyuR4vamGqdDZz5ptGvdWt7kKehcxMwG6UNX9CxnazQtYjQhLjSLg</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            7.779034,33.84282,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mos Espa</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AOq6mzrdj7zUkvyAGjAXGNmwDYW3fyxfHGPhAQmKnDaL0Pi4OXc8GI_8axkIUrNueA9KVSD-D5HQoSqjGkfPs8i909pgfKWDGb0lSAHiDcFQqeafyUXqu-NrMipN6aAW0KtP2A" height="200" width="auto" /><br><br>This set was built from nothing in the middle of the desert, and still stands. This is not a typical studio tour. Most Tunisians haven't even seen the Star War's movies, but they recognize that there's more value in just leaving the props alone and keep them in good state, than removing them. <br><br> <br><br><br> You can see the whole town: the gates of Mos Espa; the Pod-racing arena; the gallery and the Mos Espa streets with Watto''s shop, the market and Sebulba's Café. Get there early in the morning and you could have the place to yourself.   <br><br><br><br><br> <br><br><br> <br><br><br> <br><br> <br>A few hundred meters away from the set you'll find the Yardangs: protruding bits of sandstone that look like shark fins peeping out of the desert. The Jedi duel between Qui-Gonn and Darth Maul in Episode I was shot here.<br><br><img src="https://lh3.googleusercontent.com/umsh/AOq6mzpMonw7IjtXVLphnXQ0WzwchSPANgQsHsNnrYZjHzb-TPBjwndjxsEIy1WPHPF15FFBa7JRb5wliYzrdEfXq0C3fYm-0c6FKNr8uWLtSPWNtXpgb0ujF3cwNVqZEcNX" height="200" width="auto" /><br><br><img src="https://lh3.googleusercontent.com/umsh/AOq6mzr1TUAVba4jPFwj7dyqlnWnXA-VeJ0No5l6HTF3_9n1DaTqSQb4ijfAldj7tUDharSB4piovgO7jDke8bHGtPmzpmkJr-58j6D1aYxz75FcfGA0_S6qx_-Ah1s" height="200" width="auto" /><br><br><img src="https://lh3.googleusercontent.com/umsh/AOq6mzr4f9hW7qYjtmMvbbxXCS-3ic2HItKJG4q_0yHKB1xagKjk-pOPiWA7mFT0n6m7zhvUDGv-pd9NCjTRfZZ3CKGv85tWubf2HuOWcJQhUN4WdIvhPQqh_O2foDs" height="200" width="auto" /><br><br><img src="https://lh3.googleusercontent.com/umsh/AOq6mzruz2uuoZ39ogj-P1Gg6dLsrratGX_zoFJb40xOrk6MgbaWfNTvq6xXBy8jK36x8z2FaDp6-BrPRjGuoW-qIXXq1B6T6iGWJ73qNk8MT1PIdguP0NJhoazTFIc" height="200" width="auto" /><br><br><img src="https://lh3.googleusercontent.com/umsh/AOq6mzoIwCtL9sWmtoY-xl73Hf7pNZHMelZaAqKwQ784s4aBopcOaRPTKylN-leqsb9V7tsYgSJVD5Icf7U0JYjpZUurTcXbRRdaXv-sWSWy5ksCO_C_QY1a7pGnjxUzznvNvpaT_MICjLU" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AOq6mzrdj7zUkvyAGjAXGNmwDYW3fyxfHGPhAQmKnDaL0Pi4OXc8GI_8axkIUrNueA9KVSD-D5HQoSqjGkfPs8i909pgfKWDGb0lSAHiDcFQqeafyUXqu-NrMipN6aAW0KtP2A https://lh3.googleusercontent.com/umsh/AOq6mzpMonw7IjtXVLphnXQ0WzwchSPANgQsHsNnrYZjHzb-TPBjwndjxsEIy1WPHPF15FFBa7JRb5wliYzrdEfXq0C3fYm-0c6FKNr8uWLtSPWNtXpgb0ujF3cwNVqZEcNX https://lh3.googleusercontent.com/umsh/AOq6mzr1TUAVba4jPFwj7dyqlnWnXA-VeJ0No5l6HTF3_9n1DaTqSQb4ijfAldj7tUDharSB4piovgO7jDke8bHGtPmzpmkJr-58j6D1aYxz75FcfGA0_S6qx_-Ah1s https://lh3.googleusercontent.com/umsh/AOq6mzr4f9hW7qYjtmMvbbxXCS-3ic2HItKJG4q_0yHKB1xagKjk-pOPiWA7mFT0n6m7zhvUDGv-pd9NCjTRfZZ3CKGv85tWubf2HuOWcJQhUN4WdIvhPQqh_O2foDs https://lh3.googleusercontent.com/umsh/AOq6mzruz2uuoZ39ogj-P1Gg6dLsrratGX_zoFJb40xOrk6MgbaWfNTvq6xXBy8jK36x8z2FaDp6-BrPRjGuoW-qIXXq1B6T6iGWJ73qNk8MT1PIdguP0NJhoazTFIc https://lh3.googleusercontent.com/umsh/AOq6mzoIwCtL9sWmtoY-xl73Hf7pNZHMelZaAqKwQ784s4aBopcOaRPTKylN-leqsb9V7tsYgSJVD5Icf7U0JYjpZUurTcXbRRdaXv-sWSWy5ksCO_C_QY1a7pGnjxUzznvNvpaT_MICjLU</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            7.842752,33.994091,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sith infiltrator landing site</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AOq6mzoEzv7xDKXkdW2nEZ9D3hlxoG23wot_S_MaFP80snryyMdrBnh2slzv6ecOtD_swceGm1aRJdxbhjvbdQmzLBeOSz1ij4F9tehBnprPfL5Zd7FCnUZMvP8B4UdKrP2v0oTRoRat_RZysnlkG9hezg" height="200" width="auto" /><br><br>About 6km East of the Mos Espa set lies Oung Jmel, better known as the camel head rock. This was the site were Darth Maul arrived on Tatooine and released the Sith Probes to search for Queen Amidala’s ship. The same location was used for Maul flying over the cliffs after having found Anakin and Qui-Gon.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AOq6mzoEzv7xDKXkdW2nEZ9D3hlxoG23wot_S_MaFP80snryyMdrBnh2slzv6ecOtD_swceGm1aRJdxbhjvbdQmzLBeOSz1ij4F9tehBnprPfL5Zd7FCnUZMvP8B4UdKrP2v0oTRoRat_RZysnlkG9hezg</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            7.911436,34.015339,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Juntland Wastes</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AOq6mzrSDVKgitKM398dSv45iI7dJN4wCBvoDo7WLwpqOx9Z918f7vyCYNXhZcsa4F4Xj0ADla1f0ckKo8ufItfGe-1i4E6weckDgzh3MLZ4e0ScTjiW0vyxPnh8kmLozfvTPYlO5Hyi0w" height="200" width="auto" /><br><br>23km North-East of Tozeur you can find Sidi Bouhel, better known as the Juntland Wastes in the movies. This canyon was used in 1976 for no less than 9 shots. Lucasfilm named it "Star Wars Canyon". Also the canyon was used in Raiders of the Lost Ark and in The English Patient.<br><br> <br><br><br> In front of the canyon entrance, you'll see the Sandcrawler parking lot. The inside is a narrow gorge walled by two hundred foot high cliffs and a wide, flat wadi that runs from Jebel Krefane down to the chott. In the gorge Luke was being attacked by Tusken Raiders, and met Obi-Wan Kenobi for the first time. Just outside the mouth of the gorge Imperial Stormtroopers attacked and massacred the Jawas who sold the droids on to Uncle Owen.<br><br><img src="https://lh3.googleusercontent.com/umsh/AOq6mzqwyC43BdiPpTr7st09h9cgYQbjVy0m_GHyXVItfYbWAtN53KYJhnmPhvRloMcUfKameRvkcY-hdcPCsQ7Ngcp-Xe5uhHgUJntKT4elMSpE52hdk2msB8nbbMHSsW3QhQ" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AOq6mzrSDVKgitKM398dSv45iI7dJN4wCBvoDo7WLwpqOx9Z918f7vyCYNXhZcsa4F4Xj0ADla1f0ckKo8ufItfGe-1i4E6weckDgzh3MLZ4e0ScTjiW0vyxPnh8kmLozfvTPYlO5Hyi0w https://lh3.googleusercontent.com/umsh/AOq6mzqwyC43BdiPpTr7st09h9cgYQbjVy0m_GHyXVItfYbWAtN53KYJhnmPhvRloMcUfKameRvkcY-hdcPCsQ7Ngcp-Xe5uhHgUJntKT4elMSpE52hdk2msB8nbbMHSsW3QhQ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            8.281889,34.033741,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tataouine - Ksar ouled soltane</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AOq6mzrHa5uqbzy_NJxmzufT6xwHFBijDsj_o6uULcETlUPRSZU4eTBEzEu-DkfCRx_192-BCYVHplHEfeu8mxL9CZBu7V6VYPUl2rce5_myicsS-RiQ8inIP-8uzehQUkaj3HBfBN0qkU-FFA" height="200" width="auto" /><br><br>Tataouine, located in the south of Medenine. The planet Tatooine got its name from this town, and that's about the town's only contribution to the movie. Most of the scenes were shot in the hills and villages surrounding the town. A little further south is located Ksar Ouled Soltane a beautyful ghorfa (grain storage facility) that was used to as a background for some of the Slave Quarters shots in Episode I.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AOq6mzrHa5uqbzy_NJxmzufT6xwHFBijDsj_o6uULcETlUPRSZU4eTBEzEu-DkfCRx_192-BCYVHplHEfeu8mxL9CZBu7V6VYPUl2rce5_myicsS-RiQ8inIP-8uzehQUkaj3HBfBN0qkU-FFA</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.514946,32.788406,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Anakin Skywalker's Home]]></name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AOq6mzr2UJXiiv6VxbtUINH6uuGXX3PyhewWDshxkzrjJyNvw6Vv7EjqNHUJv6lV4qgGg5E-wy6tIympzSfvVfNctxKc1tYKjQpxN11J-R-7hDGynwIZh2lDT6Yb_C9pLkKI0ANa6ZtXhGSh7kLG" height="200" width="auto" /><br><br>Medenine is the major town in southeastern Tunisia. The main attraction in Medenine is Ksar Medenine, an ancient Berber fortified granary. North of Ksar Medenine is the granary that acted as the slave quarters in Episode I. It was used as the exterior the Anakin Skywalker's home in many shots.<br><br><img src="https://lh3.googleusercontent.com/umsh/AOq6mzpfDJNfWa55kbqBPajMmPLGuuUIXsp-XIWwJ13Cuc5jMB00rV6_yBKKZh7dXtFplTgcikEvtafQGeb5NV-ewIb6OJu_x1laWjMz6oAwZ7z40zEImXderDbqrQYT" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AOq6mzr2UJXiiv6VxbtUINH6uuGXX3PyhewWDshxkzrjJyNvw6Vv7EjqNHUJv6lV4qgGg5E-wy6tIympzSfvVfNctxKc1tYKjQpxN11J-R-7hDGynwIZh2lDT6Yb_C9pLkKI0ANa6ZtXhGSh7kLG https://lh3.googleusercontent.com/umsh/AOq6mzpfDJNfWa55kbqBPajMmPLGuuUIXsp-XIWwJ13Cuc5jMB00rV6_yBKKZh7dXtFplTgcikEvtafQGeb5NV-ewIb6OJu_x1laWjMz6oAwZ7z40zEImXderDbqrQYT</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.492045,33.347278,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lars (Skywalker) Homestead Interior</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AOq6mzrEWI37FaJqhHCU51YTSPxqjuND-UH5Vg0ci_MPcfIPLZuEv7RZnq1Lh6IiK_06Nmgpem552bYx0p0-ijQgWcyZIw-_HG9aPjNxqkGkuEYeHUpCX5qCd6RtfriChOkSN_lPfMOc" height="200" width="auto" /><br><br>In Matmata you can actually sleep in Luke's home. The Hotel Sidi Driss served as the interior of the Lars homestead and is at a different location than the igloo exterior of Luke Skywalker's home.  Aunt Beru's kitchen is still there, but except for some fiberglass and wooden frames, and the fresco on the dining room ceiling, you won't find any props. Even so, it is easy to get excited when sitting in the very same dining room that the Lars family used. The hotel also has a well stocked bar with lots of Star Wars memorabilia and a Star wars inspired menu.<br><br> <br><br><br> <br>Skywalker Moisture Farm<br><br><img src="https://lh3.googleusercontent.com/umsh/AOq6mzpS9mJJbhjAsaZhWVrUzshLoe6ooNCwb4BeYn8vLLVyVsaxttryqIyMzahkewdTKF_KfITDvWWAJonQW2DejVaBmU22F0vWi0XGQjlcH-4c_VlUnK8GSuGYfzeW" height="200" width="auto" /><br><br><img src="https://lh3.googleusercontent.com/umsh/AOq6mzrrLtw8_MuBWQPJb0-DiDovsrgGrE6H2dcDlkG8BwLuRtagS81bSmdu2dOx8_ho3c6kUEC9VK4SxtX8cP56dN0RtMwkfDCKrvhmdD5JDPpDsv6VrmgIGNOOKXoQ" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AOq6mzrEWI37FaJqhHCU51YTSPxqjuND-UH5Vg0ci_MPcfIPLZuEv7RZnq1Lh6IiK_06Nmgpem552bYx0p0-ijQgWcyZIw-_HG9aPjNxqkGkuEYeHUpCX5qCd6RtfriChOkSN_lPfMOc https://lh3.googleusercontent.com/umsh/AOq6mzpS9mJJbhjAsaZhWVrUzshLoe6ooNCwb4BeYn8vLLVyVsaxttryqIyMzahkewdTKF_KfITDvWWAJonQW2DejVaBmU22F0vWi0XGQjlcH-4c_VlUnK8GSuGYfzeW https://lh3.googleusercontent.com/umsh/AOq6mzrrLtw8_MuBWQPJb0-DiDovsrgGrE6H2dcDlkG8BwLuRtagS81bSmdu2dOx8_ho3c6kUEC9VK4SxtX8cP56dN0RtMwkfDCKrvhmdD5JDPpDsv6VrmgIGNOOKXoQ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            9.967327,33.542577,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
