@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Film set locations around the UK</name>
+    <description><![CDATA[We've searched the UK for unusual filming locations for some of the most iconic cinema of the past 70 years. Here's a selection...]]></description>
+    <Style id="icon-89-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/89-movies.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-89-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/89-movies.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-89">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-89-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-89-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Untitled layer</name>
+      <Placemark>
+        <name>Anna Karenina (2012)</name>
+        <description><![CDATA[Didcot Railway has played host to a number of blockbuster productions through the ages, including Anna Karenina (2012) and Sherlock Holmes: A Game of Shadows (2011). <br><br>See the full list on the Centre's website http://www.didcotrailwaycentre.org.uk/filmandfunction/filmtv_credits.html#]]></description>
+        <styleUrl>#icon-89</styleUrl>
+        <Point>
+          <coordinates>
+            -1.242832,51.611275,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rush (2013)</name>
+        <description><![CDATA[Snetterton was one of many UK locations under the tyres of 2013's Rush, along with Cadwell Park in Lincolnshire, Brands Hatch in Kent and former WWII airfield Blackbushe in Hampshire.]]></description>
+        <styleUrl>#icon-89</styleUrl>
+        <Point>
+          <coordinates>
+            0.946626,52.465736,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Harry Brown (2009)</name>
+        <description><![CDATA[Walworth's mostly abandoned Heygate Estate was home to Michael Caine's 2009 vigilante Harry Brown.]]></description>
+        <styleUrl>#icon-89</styleUrl>
+        <Point>
+          <coordinates>
+            -0.092897,51.489876,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Final scenes from Get Carter (1971) and opening scenes from Alien 3 (1992)</name>
+        <description>Filmed at Blackhall Beach (http://en.wikipedia.org/wiki/Blackhall_Colliery#Blackhall_beach)</description>
+        <styleUrl>#icon-89</styleUrl>
+        <Point>
+          <coordinates>
+            -1.346769,54.853143,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Withnail & I (1987)]]></name>
+        <description><![CDATA[‘Crow Cragg’ (Sleddale Hall) South of Penrith, where Richard E Grant and Paul McGann stayed at Uncle Monty's holiday home.]]></description>
+        <styleUrl>#icon-89</styleUrl>
+        <Point>
+          <coordinates>
+            -2.703366,54.500328,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>This Is England (2006)</name>
+        <description>Wilsthorpe Business and Enterprise College in Long Eaton, Derbyshire, was used for the opening fight scenes.</description>
+        <styleUrl>#icon-89</styleUrl>
+        <Point>
+          <coordinates>
+            -1.494141,52.908902,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Harry Potter</name>
+        <description><![CDATA['Hogwarts' is actually Alnwick Castle (as well as the Bodleian Library in Oxford and Durham Cathedral).]]></description>
+        <styleUrl>#icon-89</styleUrl>
+        <Point>
+          <coordinates>
+            -1.708674,55.415046,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Full Monty (1997)</name>
+        <description><![CDATA[Shiregreen Working Mens Club, Sheffield, was where the final 'full monty' was revealed!]]></description>
+        <styleUrl>#icon-89</styleUrl>
+        <Point>
+          <coordinates>
+            -1.436806,53.421502,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lawrence of Arabia (1962)</name>
+        <description>Merthyr Mawr, now an ivy covered ruin, was once the largest sand dune complex in Britain and featured in parts of this Hollywood blockbuster.</description>
+        <styleUrl>#icon-89</styleUrl>
+        <Point>
+          <coordinates>
+            -3.608236,51.48614,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Atonement (2007)</name>
+        <description>A recreation of the Dunkirk evacuation was filmed in August 2006 on Redcar beach.</description>
+        <styleUrl>#icon-89</styleUrl>
+        <Point>
+          <coordinates>
+            -1.052756,54.616294,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Brief Encounter (1945)</name>
+        <description>David Lean filmed his romantic classic at Carnforth Station, chosen because it was remote and safe from attack. Filming took place at night between 10pm and 6am so as not to interfere with daytime train operations.</description>
+        <styleUrl>#icon-89</styleUrl>
+        <Point>
+          <coordinates>
+            -2.772846,54.129656,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Four Weddings and a Funeral (1994),  Elizabeth: The Golden Age (2007) </name>
+        <description>St Bartholomew the Great, West Smithfield, City of London – home to a these and many more titles including Shakespeare in Love (1998).</description>
+        <styleUrl>#icon-89</styleUrl>
+        <Point>
+          <coordinates>
+            -0.099735,51.519319,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[St. Trinian's (2007)]]></name>
+        <description>Park Place was used for the outside scenes.</description>
+        <styleUrl>#icon-89</styleUrl>
+        <Point>
+          <coordinates>
+            -0.886974,51.551832,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Patriot Games (1992)</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AOq6mzosfYTkvxFFhcYBUpL1laR3gHTEHOFsso6dtv-wf4RJwFbIOXrnFRGqR1XyZblgQveZWKJlbFvdatfK53dFpyIPHIvY31K-L23ZrjRpRunRpVGiy2wQ3Y1c47qyo5no20o5J7deHxCr4nwUeZeglt8byNpI0G6Lb6A" height="200" width="auto" /><br><br>Harrison Ford thriller Patriot Games <br><br>featured the naval buildings inGreenwich.]]></description>
+        <styleUrl>#icon-89</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AOq6mzosfYTkvxFFhcYBUpL1laR3gHTEHOFsso6dtv-wf4RJwFbIOXrnFRGqR1XyZblgQveZWKJlbFvdatfK53dFpyIPHIvY31K-L23ZrjRpRunRpVGiy2wQ3Y1c47qyo5no20o5J7deHxCr4nwUeZeglt8byNpI0G6Lb6A</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.007659,51.482577,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Straw Dogs (1971)</name>
+        <description>Sam Peckinpah’s original psychological thriller was shot on location in St Buryan.</description>
+        <styleUrl>#icon-89</styleUrl>
+        <Point>
+          <coordinates>
+            -5.626202,50.075651,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sleepy Hollow (1999)</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AOq6mzp38mpwpwBzYqQgyahDizWAdQLeZ6WKH7FJZlVw2oMjar6jo5Kh6Z-sfFVh1csUJF11IbJcqWkZNhWzn8gZr2LnU6UfltXUshdqQcbX7l5lybWTDbh7Vh0kKAZa7tAggwqEY0B_6zDKcKmaPqg0-vYrkjvN_XAybro" height="200" width="auto" /><br><br>https://www.somersethouse.org.uk/<br><br><br>Somerset House posed as New York in Sleepy Hollow starring Johnny Depp.]]></description>
+        <styleUrl>#icon-89</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AOq6mzp38mpwpwBzYqQgyahDizWAdQLeZ6WKH7FJZlVw2oMjar6jo5Kh6Z-sfFVh1csUJF11IbJcqWkZNhWzn8gZr2LnU6UfltXUshdqQcbX7l5lybWTDbh7Vh0kKAZa7tAggwqEY0B_6zDKcKmaPqg0-vYrkjvN_XAybro</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.116938,51.510732,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hot Fuzz (2007)</name>
+        <description>Wells, Somerset, played host to much of this recent UK production.</description>
+        <styleUrl>#icon-89</styleUrl>
+        <Point>
+          <coordinates>
+            -2.660065,51.210325,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kes (1969)</name>
+        <description>The Edward Sheerien School in Athersley, Barnsley, was the main school featured in this northern classic.</description>
+        <styleUrl>#icon-89</styleUrl>
+        <Point>
+          <coordinates>
+            -1.457834,53.578188,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A Clockwork Orange (1971)</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AOq6mzrEjeBLGtzZ57oSiy8ZPox1LF8M_WjREmOw4-h3XHaT1FR74Dlr7ImlhA2bxVwqPXUxrr48zexLzYE7Kx0EsGegpz0c9vSyPFCJxqMUiZtP0htN8yZZvg-ULgKbWiR51_NVqAjB8YU1WStT_K_x8orz7Wgg4gKTSOw" height="200" width="auto" /><br><br>Wandsworth Prison played host to Kubrick's A Clockwork Orange]]></description>
+        <styleUrl>#icon-89</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AOq6mzrEjeBLGtzZ57oSiy8ZPox1LF8M_WjREmOw4-h3XHaT1FR74Dlr7ImlhA2bxVwqPXUxrr48zexLzYE7Kx0EsGegpz0c9vSyPFCJxqMUiZtP0htN8yZZvg-ULgKbWiR51_NVqAjB8YU1WStT_K_x8orz7Wgg4gKTSOw</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.191526,51.44823,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>World War Z (2013)</name>
+        <description>Shooting for this zombie movie starred Brad Pitt in Glasgow.</description>
+        <styleUrl>#icon-89</styleUrl>
+        <Point>
+          <coordinates>
+            -4.276428,55.856817,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Dam Busters (1955)</name>
+        <description>Ladybower Reservoir, Derbyshire, (where the real dam busters trained) was used for the aerial shots.</description>
+        <styleUrl>#icon-89</styleUrl>
+        <Point>
+          <coordinates>
+            -1.72554,53.391519,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shakespeare in Love (1998)</name>
+        <description>Final scenes were shot on Holkham Bay sands (which is also a choice location for a number of music videos).</description>
+        <styleUrl>#icon-89</styleUrl>
+        <Point>
+          <coordinates>
+            0.789642,52.977072,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Five Minutes of Heaven (2009)</name>
+        <description>This award winning TV drama in the UK (and feature film in all other territories)  was shot in Lurgan and Newtownards, Belfast.</description>
+        <styleUrl>#icon-89</styleUrl>
+        <Point>
+          <coordinates>
+            -6.347351,54.471634,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Italian Job (1969)</name>
+        <description><![CDATA[Crystal Palace Park is where they 'blew the bloody doors off'.]]></description>
+        <styleUrl>#icon-89</styleUrl>
+        <Point>
+          <coordinates>
+            -0.068836,51.421691,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
