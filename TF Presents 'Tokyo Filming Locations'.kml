@@ -1,0 +1,704 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name><![CDATA[TF Presents 'Tokyo Filming Locations']]></name>
+    <description><![CDATA[Tokyo Fox gives you details of many, many filming locations in and around Tokyo ft You Only Live Twice, Lost In Translation, Babel, Kill Bill, The Wolverine, Godzilla, The Grudge, The Ramen Girl and many more.<br><br>Further details at http://tokyofox.wordpress.com <br><br>N.B. Some of these locations are not exact but with the directions given on 'Tokyo Fox' you should be able to locate it within a minute or two]]></description>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Untitled layer</name>
+      <Placemark>
+        <name>Hotel New Otani</name>
+        <description><![CDATA['YOU ONLY LIVE TWICE' (1967) - Osato Chemicals exterior]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.734318,35.680922,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kokugikan Sumo Arena</name>
+        <description><![CDATA['YOU ONLY LIVE TWICE' (1967) - Bond meets Aki]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.79354,35.697273,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Yoyogi National Gymnasium</name>
+        <description><![CDATA['YOU ONLY LIVE TWICE' (1967) & 'WALK DON'T RUN' (1966) - Bond and Aki drive by here & the Olympic walking race begins and ends here]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.700154,35.667776,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nakanoshinbashi Station</name>
+        <description><![CDATA['YOU ONLY LIVE TWICE' (1967) - Leading to the private transportation hub of Japanese secret service leader "Tiger" Tanaka]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.673997,35.692123,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Park Hyatt Tokyo</name>
+        <description><![CDATA['LOST IN TRANSLATION' (2003) - Bob & Charlotte's hotel]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.69062,35.685583,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Air Nightclub</name>
+        <description><![CDATA['LOST IN TRANSLATION' (2003) - Bob, Charlotte & friends party here]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7045,35.6533,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shibuya Crossing</name>
+        <description><![CDATA['LOST IN TRANSLATION' (2003), BABEL (2004), THE FAST & THE FURIOUS: TOKYO DRIFT (2006)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.700593,35.659058,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Karaoke-kan</name>
+        <description><![CDATA['LOST IN TRANSLATION' (2003) - Bob sings 'More Than This' by Roxy Music in rooms 601 and 602]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.698139,35.660831,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shabuzen</name>
+        <description><![CDATA['LOST IN TRANSLATION' (2003) - Bob & Charlotte go for yaki-niku]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.694702,35.663315,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rainbow Bridge</name>
+        <description><![CDATA['LOST IN TRANSLATION' (2003) & Kill Bill: Volume I (2004)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.763144,35.636564,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ichikan Sushi Restaurant</name>
+        <description><![CDATA['LOST IN TRANSLATION' (2003) - Bob & Charlotte have lunch]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.704787,35.651465,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ramen Museum</name>
+        <description><![CDATA['THE RAMEN GIRL' (2008) - date place]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.614572,35.509896,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Japan Sword</name>
+        <description><![CDATA['INTO THE SUN' (2005) - Seagal visits here]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.747663,35.666676,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gonpachi</name>
+        <description><![CDATA['KILL BILL: VOLUME I' (2003) - The inspiration for the 'House of Blue Leaves']]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.723509,35.66012,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tsukiji Fish Market</name>
+        <description><![CDATA['INTO THE SUN' (2005)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.774761,35.662387,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shinagawa Station</name>
+        <description><![CDATA['GODZILLA' (1956) - destroyed by Godzilla]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.74044,35.630152,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A.P.C. Underground clothing store</name>
+        <description><![CDATA['LOST IN TRANSLATION' (2003)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.707544,35.669713,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Yasukuni Dori</name>
+        <description><![CDATA['KILL BILL: VOLUME I' (2003), 'INTO THE SUN' (2005), 'THE WOLVERINE' (2013) - the classic neon Tokyo scenes whilst driving along this road]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.702032,35.693436,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ishioka City Centre Gymnasium</name>
+        <description><![CDATA['BABEL' (2004) - Chieko plays volleyball]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.290914,36.182954,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>J-Pop Cafe</name>
+        <description><![CDATA['BABEL' (2004) - Chieko shows a boy "the hairy monster"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.699108,35.659928,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tsuchiya Dental Surgery</name>
+        <description><![CDATA['BABEL' (2004) - Chieko tries to kiss the dentist]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.738591,35.682804,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Womb Nightclub</name>
+        <description><![CDATA['BABEL' (2004) - Chieko & friends party at this club]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.695026,35.6584,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Matsuzakaya Department store</name>
+        <description><![CDATA['GODZILLA' (1956) - Godzilla destroys it]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.764095,35.669881,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wako Department store</name>
+        <description><![CDATA['GODZILLA' (1956) & 'WASABI' (2000) - Godzilla destroys it]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.765022,35.671613,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>National Diet Building</name>
+        <description><![CDATA['GODZILLA' (1956) - Godzilla destroys it]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.744858,35.675888,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New Marion Building</name>
+        <description><![CDATA['GODZILLA' (1956) - Godzilla destroys it]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.697597,35.687146,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kachidoki Bridge</name>
+        <description><![CDATA['GODZILLA' (1956)  <br>Details at http://tokyofox.wordpress.com/2011/12/04/tokyo-filming-locations-pt-v-godzilla-updated/]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.775053,35.657299,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Godzilla Statue</name>
+        <description><![CDATA['GODZILLA' (1956)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.760536,35.673465,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Toho Studios</name>
+        <description><![CDATA['GODZILLA' (1956) - huge Godzilla statue outside the studios]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.605208,35.633407,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hotel Okura Tokyo</name>
+        <description><![CDATA['WALK DON"T RUN' (1966) - No room for Cary Grant!]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.744033,35.666937,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>British Embassy</name>
+        <description><![CDATA['WALK DON"T RUN' (1966)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.744054,35.686381,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Asakusa Senso-ji Temple</name>
+        <description><![CDATA['WALK DON"T RUN' (1966) - beginning scene montage]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.797408,35.715006,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Yokohama Chinatown</name>
+        <description><![CDATA['INTO THE SUN' (2005)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.642195,35.444045,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fusion</name>
+        <description><![CDATA['INTO THE SUN' (2005)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.729099,35.664784,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hamarikyu Gardens</name>
+        <description><![CDATA['INTO THE SUN' (2005) - Seagal proposes]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.763251,35.662576,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Zōjō-ji Temple</name>
+        <description><![CDATA['THE WOLVERINE' (2013) & 'INTO THE SUN' (2005) - funeral scene & meeting with bad guys!]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.748208,35.657424,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tenkappin Restaurant</name>
+        <description><![CDATA['MONSTER' (2009) - girls walk by here]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.69807,35.660719,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ministry of the Environment</name>
+        <description><![CDATA['MONSTER' (2009) - girls go here to interview someone]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.753188,35.673451,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Meiji Jingu Shrine</name>
+        <description><![CDATA['MONSTER' (2009) - doubles up as Shinjuku gyoen gardens]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.699362,35.676362,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Airport Terminal 2 Station</name>
+        <description><![CDATA['WASABI' (2000) & 'RAIN FALL' (2009) - Jean Reno arrives here]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            140.388305,35.773507,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Akihabara</name>
+        <description><![CDATA['WASABI' (2000)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.773697,35.697765,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Takashimaya Nihonbashi</name>
+        <description><![CDATA['WASABI' (2000)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.773525,35.680766,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Imperial Hotel</name>
+        <description><![CDATA['WASABI' (2000)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.75842,35.672511,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Harumi Passenger Terminal</name>
+        <description><![CDATA['WASABI' (2000)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.784922,35.659696,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1 Chome-2-2 Yanagibashi</name>
+        <description><![CDATA['THE GRUDGE' (2004)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.787199,35.695581,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Minamishinjuku Station</name>
+        <description><![CDATA['THE GRUDGE' (2004) - the road to the Grudge house]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.698517,35.683469,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Yoyogi Cemetry</name>
+        <description><![CDATA['THE GRUDGE' (2004)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.691565,35.684149,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nishishinjuku 1-9-2</name>
+        <description><![CDATA['THE GRUDGE' (2004) - Karen & Doug cross the road here]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.69762,35.688416,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1-12-1 Takaido-nishi</name>
+        <description><![CDATA['THE GRUDGE' (2004) - The "University of Tokyo" where Doug studies]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.609905,35.680386,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fungo Dining Nishishinjuku</name>
+        <description><![CDATA['THE GRUDGE' (2004) - Doug's workplace]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.687706,35.691462,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tokorozawa, Saitama Prefecture</name>
+        <description><![CDATA['JU-ON: THE GRUDGE II' (2003) - The Grudge house & the steps from the finale]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.46861,35.799671,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Yamashita Park</name>
+        <description><![CDATA['THE RAMEN GIRL' (2008) - date night finishes here]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.649555,35.445877,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jougan-ji Temple</name>
+        <description><![CDATA['LOST IN TRANSLATION' (2003) - Charlotte visits here in the rain]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.681643,35.693756,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tokyo Tower</name>
+        <description><![CDATA['THE TOXIC AVENGER PART II' (1989)  & 'INTO THE SUN' (2005)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.745433,35.65858,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sumiyoshi Jinja</name>
+        <description><![CDATA['THE TOXIC AVENGER PART II' (1989) - the fisherman's shrine]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.783333,35.668001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mori-inari jinja shrine</name>
+        <description><![CDATA['THE TOXIC AVENGER PART II' (1989) - Lots of slapstick fighting outside this shrine]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.782786,35.666554,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tenyasu Tsukudani</name>
+        <description><![CDATA['THE TOXIC AVENGER PART II' (1989)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.782272,35.667612,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nakagin Capsule Tower</name>
+        <description><![CDATA['THE WOLVERINE' (2013) - The "Hiroshima Love Hotel"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.762562,35.667955,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Big Apple Slot & Pachinko]]></name>
+        <description><![CDATA['THE WOLVERINE' (2013) - Pachinko Parlour where Logan & Mariko hide out]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.771454,35.697444,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ueno Station</name>
+        <description><![CDATA['THE WOLVERINE' (2013) - Logan & Mariko take a bullet train]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.777254,35.713768,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Imperial Palace East Garden</name>
+        <description><![CDATA['EMPEROR' (2013) -]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.759402,35.686243,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Adidas Futsal Park Shibuya</name>
+        <description><![CDATA['THE FAST & THE FURIOUS: TOKYO DRIFT (2006)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.70086,35.658708,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hachijō-kojima</name>
+        <description><![CDATA['BATTLE ROYALE' (2000)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.7,33.116667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Takadanobaba Station</name>
+        <description><![CDATA['THE SHINJUKU INCIDENT' (2009) & 'THE WOLVERINE' (2013)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.703782,35.712285,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Great Buddha</name>
+        <description><![CDATA['THE HOUSE OF BAMBOO' (1955)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.536154,35.3167,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tsuruoka Hachimangu Shrine</name>
+        <description><![CDATA['THE HOUSE OF BAMBOO' (1955)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            139.556425,35.32608,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
