@@ -486,16 +486,6 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Isengard Gardens</name>
-        <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
-<description>no description</description>
-        <Point>
-          <coordinates>
-            175.099945,-41.103027,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
         <name><![CDATA[Rivendell & Fords of Isen]]></name>
         <description><![CDATA[Rivendell is one of the few locations which has information about the site and sets. It's position is signposted from the entrance to the park and there is an interactive display which shows the construction process]]></description>
         <styleUrl>#icon-503-DB4436</styleUrl>
