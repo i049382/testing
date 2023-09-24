@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>CineMapper</name>
+    <description/>
+    <Style id="icon-1502-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1502-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+
+
+
+
+
+    <Folder>
+      <name>Other</name>
+      <Placemark>
+        <name>Spiš Castle [Dragonheart]</name>
+        <styleUrl>#icon-1630-FBC02D-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            20.767512,48.999471,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>[Chronicles of Narnia: Prince Caspian]</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AOq6mzovRZVTcQuPoHj5miO-uV_HaFXNqPubxb1BM1CLCEOxqsdIEhS3gTFAY4AwsxdmxeaoY6VaOa9tKGxznA0HV_4rQ5zhm8tUApS5Qeca6XEga7BLM1t2nWM6Nv4wPN9koQY3QJBM2t5XQ_A531ahg4mibMBrN1TdMLZsnr-grFileFAqIcX8b6K8PYcAah9yH_HS5qM1D8rRHjlyqSjre2E1Mf3P3qiCtQKeuk2-XaQa91JtLjKQ2v8-lGqdeLiBEJcPYLblhfjl71kcE0nI6P6f_9XP4Jrw5RcBa3XIQv7GAlm4ZJkhUdkJBEOUMsuFsQUouNCw3RudVB04KV5AQpy7arMTZ0mLDrygAUXc4Kn8zTNd1ZI4vJ3T3FG4OTov53YcE0ceDl6A0z6_lGdtvtxwY1ksjr3-DIWTQncS4646-Y7L4koVIJ2d-Tyq4jLutwC8W740vfwvAY_7Hx6iXyGPlEO2VrgHkdGfhLUA--k_cDHFtDAAKTbXrXnyjGblQXuAESD21sFGs7omVlXUtGj7oh7hEp14XKr-TB3yHH_qL2vnPtFznh3E_WoX9kg4994CWMUK1iSk0vUs-_SyCR8p2QNB5h6bqWTYFTWDjTH_L0Jmgl0Hoba5KroZsCq1PMk2ms6MGc5lviD6mRz0ep_CXqpu-KXJPanjkL9FwcCukPkQJNeYO5-S7eyvd4Dnju1-XiJCTDizKn7BF76Jpyrgf5IYa7w5Zd8-AG4bSFJTAp1XI-VNz7F9cjfJfyJBJKybQpmdSt1FCjopO52RyDouXv6zx2kycxCBUm6FsUPhvcF0DeJuem_2Dsr3gRS14mt0XCpoqU7UdpMKJ6z4e82ulquX09E" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-1822-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AOq6mzovRZVTcQuPoHj5miO-uV_HaFXNqPubxb1BM1CLCEOxqsdIEhS3gTFAY4AwsxdmxeaoY6VaOa9tKGxznA0HV_4rQ5zhm8tUApS5Qeca6XEga7BLM1t2nWM6Nv4wPN9koQY3QJBM2t5XQ_A531ahg4mibMBrN1TdMLZsnr-grFileFAqIcX8b6K8PYcAah9yH_HS5qM1D8rRHjlyqSjre2E1Mf3P3qiCtQKeuk2-XaQa91JtLjKQ2v8-lGqdeLiBEJcPYLblhfjl71kcE0nI6P6f_9XP4Jrw5RcBa3XIQv7GAlm4ZJkhUdkJBEOUMsuFsQUouNCw3RudVB04KV5AQpy7arMTZ0mLDrygAUXc4Kn8zTNd1ZI4vJ3T3FG4OTov53YcE0ceDl6A0z6_lGdtvtxwY1ksjr3-DIWTQncS4646-Y7L4koVIJ2d-Tyq4jLutwC8W740vfwvAY_7Hx6iXyGPlEO2VrgHkdGfhLUA--k_cDHFtDAAKTbXrXnyjGblQXuAESD21sFGs7omVlXUtGj7oh7hEp14XKr-TB3yHH_qL2vnPtFznh3E_WoX9kg4994CWMUK1iSk0vUs-_SyCR8p2QNB5h6bqWTYFTWDjTH_L0Jmgl0Hoba5KroZsCq1PMk2ms6MGc5lviD6mRz0ep_CXqpu-KXJPanjkL9FwcCukPkQJNeYO5-S7eyvd4Dnju1-XiJCTDizKn7BF76Jpyrgf5IYa7w5Zd8-AG4bSFJTAp1XI-VNz7F9cjfJfyJBJKybQpmdSt1FCjopO52RyDouXv6zx2kycxCBUm6FsUPhvcF0DeJuem_2Dsr3gRS14mt0XCpoqU7UdpMKJ6z4e82ulquX09E</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            16.289083,50.479352,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Flocking/Log [Jurassic Park 1]</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AOq6mzow5bNVVOKqOZfFCQ1Tde5O4wwTxWK6ptqS-CHkn9x9aw_DKinuJsdwPGcaLUOGskrh1wGMh5J1eoAAZFNhUnpWs1BUOwL3zFeEmUINANf0nS9Sg5z5X0OsimOhzG1D552-bLTavuNtg2Lt3aFd4s53U3XtHeuzIWF7-pbOBw8Uvsuq5EhoSYnU5TmlrItUDqaQtGZvy7YZOrUb_JYwU3STcq6zQmC-B1IJ3sXB9fHlpNncAByEAGFkdaOSzcd0xwHP2CijqSXekB2R-drlFhNs6L9n2LMuvi6Q0gg3YatOWxRmfsbjeieyqxEStpu_9QaOh8fNX8628Ic9FEznfWWodcMI-Q1QPENfT_I6yOVhECdjBHyQpxro0V0dqaIk6sfuH0XbQfTsaKVjb2F1edvZM3-0jS_wXm7qG2-9yv-Y-tVELo2PJGnec9fZB35EsP1XkNTvYirZiRqsog4ccGcbExQEFFCTg_sO8mRcwspiNmq2EGHBgc9sPHxERChzqcrz99aiqLicwVJo2sy43rizek4mGlVL_vciuoWBEjjoYFEnd9hC90fyxXIKDkZDmMLtNAEVtrMm7SKNq75zrVNeXir0IAP7J6b9VWZ4Qg952RXFy9HNSej8MxlUBUBN8j6nfz2pA5kK6PV-FlWtIyfohAAI_JcI534o_5q3xj4K4qDr-SBYQK7ziivA1PxZVZ2M6QjKMV7ze9YKcSMOz6P9mCLxPz-ol343PQJEV9D2NfyG4kXQlMkxfk3w6MZS_mwNFUIZz4kr6gnV8IT7rQnVRY2e2tzs-lZXNWPRTbHP3tmLoKeYvTwmOHU48p9EA_qHt3c_S2dYakreB_tLePn7yHP8bZAG" height="200" width="auto" /><br><br>In the Gallimimus flocking scene Alan Grant and the kids run into a flock of Gallimimus that are running away from the Tyrannosaurus rex.]]></description>
+        <styleUrl>#icon-1775-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AOq6mzow5bNVVOKqOZfFCQ1Tde5O4wwTxWK6ptqS-CHkn9x9aw_DKinuJsdwPGcaLUOGskrh1wGMh5J1eoAAZFNhUnpWs1BUOwL3zFeEmUINANf0nS9Sg5z5X0OsimOhzG1D552-bLTavuNtg2Lt3aFd4s53U3XtHeuzIWF7-pbOBw8Uvsuq5EhoSYnU5TmlrItUDqaQtGZvy7YZOrUb_JYwU3STcq6zQmC-B1IJ3sXB9fHlpNncAByEAGFkdaOSzcd0xwHP2CijqSXekB2R-drlFhNs6L9n2LMuvi6Q0gg3YatOWxRmfsbjeieyqxEStpu_9QaOh8fNX8628Ic9FEznfWWodcMI-Q1QPENfT_I6yOVhECdjBHyQpxro0V0dqaIk6sfuH0XbQfTsaKVjb2F1edvZM3-0jS_wXm7qG2-9yv-Y-tVELo2PJGnec9fZB35EsP1XkNTvYirZiRqsog4ccGcbExQEFFCTg_sO8mRcwspiNmq2EGHBgc9sPHxERChzqcrz99aiqLicwVJo2sy43rizek4mGlVL_vciuoWBEjjoYFEnd9hC90fyxXIKDkZDmMLtNAEVtrMm7SKNq75zrVNeXir0IAP7J6b9VWZ4Qg952RXFy9HNSej8MxlUBUBN8j6nfz2pA5kK6PV-FlWtIyfohAAI_JcI534o_5q3xj4K4qDr-SBYQK7ziivA1PxZVZ2M6QjKMV7ze9YKcSMOz6P9mCLxPz-ol343PQJEV9D2NfyG4kXQlMkxfk3w6MZS_mwNFUIZz4kr6gnV8IT7rQnVRY2e2tzs-lZXNWPRTbHP3tmLoKeYvTwmOHU48p9EA_qHt3c_S2dYakreB_tLePn7yHP8bZAG</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -157.855309,21.527938,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Whiterocks Beach (Artemis Fowl)</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AOq6mzqukYE2U7q3gkMH3XsSR6dRjj8iQvO7mwusVemlU2hsf6BYuE7jbXGEz9-EMGpoL_cFQAm0QdnJ3gNhuvv_qHDM-u0OD7aUvsyYNx4ejzp8CjCJ7L7UIqEYaSeHmzAWDXQg0D2YV0GbLixGLl9FCX25-WNFyD91a9Ca7_FzkskxeWF015Esl2D8zSNYLeR02M0DXhB7qyYBUMinRz21MtEtkkRk9nmo7qOZxg1z9SWcAJDlI3BU57HsTx-OH-I1IBoyiOhZ9n9sh7Uo12sGZUZNaNsCw0UewZ6IQ8hpAAvbBAkaINMU9StbvW2cfIrPnoKQWW4LTEYjGOAptwHOl8JB8D5sYjzKOOBli4z2jcg_ZXH4knVqENMHhed-GpSvTkeUmGmzA17n8NVgcUEgcPcrz63Ne1J5ewBhh2uHE9e0ksS1oG6BP1hNO9Pktk0ue-3OBE2Otuqb97quR2BrNZpCieWviGH-_IEE7YSVKpxjlQ8KfnnEkkL2nR5_cCAweZU-JcpLgp9zB67i4XIfjDeTmifS6csDhbbQuT81JDY8BHrtDZ3ScOhrgitl62icvliP7Wn2uXwXksr1_kzkxQ9H7pFO3hHzRZuNfnw48_5oDNjf9jCjHCAcji0gaQj3IaRCy5o3uO7itJKsgxJISXLgzXzZWYwF1YsRjs3e1jCfSEE7LeIIC7480LMBN5hbdFHrfRybJ9sMph6mynGM8gTr9mnmqgyPCDLrGd5iN1_lmW58jRVUUUb1i-H3Kq2pNV5NyM3Bwm4Otf3InqidaWf116DY95g9UN6moEIZC_ulerzW7ZVi0T0lyF5_QmMN4ruwsAARiazldJx9-RPslsBtYrP_xt_m" height="200" width="auto" /><br><br>Directed by Northern Ireland native Sir Kenneth Branagh and featuring an all-star cast, Disney’s Artemis Fowl is based on Irish author Eoin Colfer’s best-selling young adult book of the same name. Filmed on location along Northern Ireland’s Causeway Coast in the summer of 2018, you will notice some familiar natural beauty spots such as Whiterocks Beach, Portrush and Dunluce Castle. A great film to enjoy with the whole family, you will be inspired to find adventure in these stunning locations.]]></description>
+        <styleUrl>#icon-1594-795548</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AOq6mzqukYE2U7q3gkMH3XsSR6dRjj8iQvO7mwusVemlU2hsf6BYuE7jbXGEz9-EMGpoL_cFQAm0QdnJ3gNhuvv_qHDM-u0OD7aUvsyYNx4ejzp8CjCJ7L7UIqEYaSeHmzAWDXQg0D2YV0GbLixGLl9FCX25-WNFyD91a9Ca7_FzkskxeWF015Esl2D8zSNYLeR02M0DXhB7qyYBUMinRz21MtEtkkRk9nmo7qOZxg1z9SWcAJDlI3BU57HsTx-OH-I1IBoyiOhZ9n9sh7Uo12sGZUZNaNsCw0UewZ6IQ8hpAAvbBAkaINMU9StbvW2cfIrPnoKQWW4LTEYjGOAptwHOl8JB8D5sYjzKOOBli4z2jcg_ZXH4knVqENMHhed-GpSvTkeUmGmzA17n8NVgcUEgcPcrz63Ne1J5ewBhh2uHE9e0ksS1oG6BP1hNO9Pktk0ue-3OBE2Otuqb97quR2BrNZpCieWviGH-_IEE7YSVKpxjlQ8KfnnEkkL2nR5_cCAweZU-JcpLgp9zB67i4XIfjDeTmifS6csDhbbQuT81JDY8BHrtDZ3ScOhrgitl62icvliP7Wn2uXwXksr1_kzkxQ9H7pFO3hHzRZuNfnw48_5oDNjf9jCjHCAcji0gaQj3IaRCy5o3uO7itJKsgxJISXLgzXzZWYwF1YsRjs3e1jCfSEE7LeIIC7480LMBN5hbdFHrfRybJ9sMph6mynGM8gTr9mnmqgyPCDLrGd5iN1_lmW58jRVUUUb1i-H3Kq2pNV5NyM3Bwm4Otf3InqidaWf116DY95g9UN6moEIZC_ulerzW7ZVi0T0lyF5_QmMN4ruwsAARiazldJx9-RPslsBtYrP_xt_m</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -6.65875,55.2073,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wrocław [Bridge of Spies]</name>
+        <styleUrl>#icon-1680-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            17.038538,51.107885,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ryde City [Detective Pikachu]</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AOq6mzq7IIluMjGjcBe4mpUr2kKCLv5H8dN5dsZVctqaL9C3134YOPANb1ZytrG3VP7GcJIsTx4Za5HA8UwfULCsaZOkidBKRdyAMpuyR1NFuVBmJYz9Hm-Z5h_87zZlB7mD3faalaQ-jwa12ncWGOF-Qb2eu79TKGMbiSnE8n5jWCJyqdMF6rW9rnkSCzfEF2v1665v4bkvGXD5U1n5nrvJxMJJrLJIp8ql9c3bye17OohoQF6sSFdB5-VZ2fbSHBSLNovNF7eUYwYVWOq3GMag7kkbSX0JMed2u7TeDfaB07mAPZnPcvMftMbfX_ijk6enOQ3DpyWjRuBMxkSXZiJbMddT6ynY7BL6BmZtrnpUVgcU42dpJE_HUQq4xFbZCTar5J6SB4ZtGncJExLgcIg75UNq23iUZWD4uK6GC6Q_BqXx-KiYLWcC_E87WMMFHpWq4-CDLv4HNBHVp5gcNTKAs_ni3iIKnyPuAjaRUWx_qGg2MAEr__mwrMS_XY_UPew4QZSJTYXqn4M9DQq8Q4SasFdjzICq4ANPIsyXeUTciuKsAckUd0ZdGalUWZafkM9xPT7_-0tzqcdm38Yw0fpWsfHrSjbkBVkBejK23XcMNPE2hc0lJ3lWeRuvdYrFvMWGqg1gIuTfm7yKwQyhsylLqcG1A7qLT-MXe4ZqTYRo0rHohP2L_DbklNeyl1e2XdggVOY3rfkCncbF10--2SNfrS53iXaJWvHenQU4qwddUDzQLeYxoGHVlWxKLF1woTPgO-WMABDofarU4gelaCUmwTRl63FU8CXHeCeDu4Ty60d7EZIjwT7zOrcXlwSNxNvxWWHOrCr-MyzT6gafe6Q5sTjKgA_3vcRb" height="200" width="auto" /><br><br>Leadenhall Building and the surrounding area was used as the setting for Ryde City.]]></description>
+        <styleUrl>#icon-1679-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AOq6mzq7IIluMjGjcBe4mpUr2kKCLv5H8dN5dsZVctqaL9C3134YOPANb1ZytrG3VP7GcJIsTx4Za5HA8UwfULCsaZOkidBKRdyAMpuyR1NFuVBmJYz9Hm-Z5h_87zZlB7mD3faalaQ-jwa12ncWGOF-Qb2eu79TKGMbiSnE8n5jWCJyqdMF6rW9rnkSCzfEF2v1665v4bkvGXD5U1n5nrvJxMJJrLJIp8ql9c3bye17OohoQF6sSFdB5-VZ2fbSHBSLNovNF7eUYwYVWOq3GMag7kkbSX0JMed2u7TeDfaB07mAPZnPcvMftMbfX_ijk6enOQ3DpyWjRuBMxkSXZiJbMddT6ynY7BL6BmZtrnpUVgcU42dpJE_HUQq4xFbZCTar5J6SB4ZtGncJExLgcIg75UNq23iUZWD4uK6GC6Q_BqXx-KiYLWcC_E87WMMFHpWq4-CDLv4HNBHVp5gcNTKAs_ni3iIKnyPuAjaRUWx_qGg2MAEr__mwrMS_XY_UPew4QZSJTYXqn4M9DQq8Q4SasFdjzICq4ANPIsyXeUTciuKsAckUd0ZdGalUWZafkM9xPT7_-0tzqcdm38Yw0fpWsfHrSjbkBVkBejK23XcMNPE2hc0lJ3lWeRuvdYrFvMWGqg1gIuTfm7yKwQyhsylLqcG1A7qLT-MXe4ZqTYRo0rHohP2L_DbklNeyl1e2XdggVOY3rfkCncbF10--2SNfrS53iXaJWvHenQU4qwddUDzQLeYxoGHVlWxKLF1woTPgO-WMABDofarU4gelaCUmwTRl63FU8CXHeCeDu4Ty60d7EZIjwT7zOrcXlwSNxNvxWWHOrCr-MyzT6gafe6Q5sTjKgA_3vcRb</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.081796,51.513568,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mars Surface [The Martian]</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AOq6mzqbpc6I6kr-5MW7m10HPC5Ca7wlRZ8NipS7bvKepMU8m_aXY0X3LXrlqQKEc61jaW_xNilZj_M5P5RBtQHwd0oKUVMUdC1y8Ttp8qnb7W8bZiHAB_a6ELU-67VRbNLk8gdMyTmwSr71VXNsYdTQvyq8stC7KJrGTAOk2Clt-ae1u1rlCPEpgPO_KyjlBd9nKuOxMkE485DJkD_x6XQOl6O5KpwbCV-3ZG_EZEm6ng5rVyl9YqiGmQfIjHoaEyI6ZzkTFW3UeWE5-lhpLmrSHGYIegtkfpAY9rvTZj0KDTPUuOmWmXtWA5srLTqTaP0JtQKKb85LUEuIHmkhyWfvC0YiaRqsVt2MkUND7xNJFH1QMfo7j4XBzrco2Z-oAOJcF_vgXlbmcfp2uQzzVbLjTS3_QpRVTgxWOxChwKe9dFult5Nl3Nmwyf46aJrZtJNV5yHz_QIgcOs8R2OWQqJt9oHNsNG-HKUFsMq7aeKcNNLS_LszrP_gYiQH_0raGZsbGZ7MmpsrGxxv0UuqkYpCD9VnADhFvLf85XWr2cFXyFAl2Jp7EHjcB0siS6T0PgRGcfYEHHnzbCTFak_Jnkxat9ISQP1fSz35p22oQQWZXlrtoeCQTLy0MmG0EKlkLK6r6rUqsY9vbWRlvps6t8HUj7XBqCOqM0p9-7qquZi9KBBxItMwRW04oX8VH3J3AIJeDyaeirh16yOORPQnF1hj8hUj5Y2JThnNbezuc5dOXr1lOzrVANDLNX8716pUAbqwMdledfdtm_TuBWUcO6GuVQpV0ERraH3E8Y-MzJFHrqhJDVi2cEP3T9q-ejU4YgejZ4nxcxjnbB40e72S1V27MDKNyTtcA3M1" height="200" width="auto" /><br><br>Visit where Matt Damon made his poo red potatoes.]]></description>
+        <styleUrl>#icon-1631-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AOq6mzqbpc6I6kr-5MW7m10HPC5Ca7wlRZ8NipS7bvKepMU8m_aXY0X3LXrlqQKEc61jaW_xNilZj_M5P5RBtQHwd0oKUVMUdC1y8Ttp8qnb7W8bZiHAB_a6ELU-67VRbNLk8gdMyTmwSr71VXNsYdTQvyq8stC7KJrGTAOk2Clt-ae1u1rlCPEpgPO_KyjlBd9nKuOxMkE485DJkD_x6XQOl6O5KpwbCV-3ZG_EZEm6ng5rVyl9YqiGmQfIjHoaEyI6ZzkTFW3UeWE5-lhpLmrSHGYIegtkfpAY9rvTZj0KDTPUuOmWmXtWA5srLTqTaP0JtQKKb85LUEuIHmkhyWfvC0YiaRqsVt2MkUND7xNJFH1QMfo7j4XBzrco2Z-oAOJcF_vgXlbmcfp2uQzzVbLjTS3_QpRVTgxWOxChwKe9dFult5Nl3Nmwyf46aJrZtJNV5yHz_QIgcOs8R2OWQqJt9oHNsNG-HKUFsMq7aeKcNNLS_LszrP_gYiQH_0raGZsbGZ7MmpsrGxxv0UuqkYpCD9VnADhFvLf85XWr2cFXyFAl2Jp7EHjcB0siS6T0PgRGcfYEHHnzbCTFak_Jnkxat9ISQP1fSz35p22oQQWZXlrtoeCQTLy0MmG0EKlkLK6r6rUqsY9vbWRlvps6t8HUj7XBqCOqM0p9-7qquZi9KBBxItMwRW04oX8VH3J3AIJeDyaeirh16yOORPQnF1hj8hUj5Y2JThnNbezuc5dOXr1lOzrVANDLNX8716pUAbqwMdledfdtm_TuBWUcO6GuVQpV0ERraH3E8Y-MzJFHrqhJDVi2cEP3T9q-ejU4YgejZ4nxcxjnbB40e72S1V27MDKNyTtcA3M1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.43435,29.639184,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>[Doctor Zhivago]</name>
+        <description>The railway scenes were filmed in Finland, on the track laid during the 1940 Russian invasion, at the town of Joensuu, in eastern Finland, 100 miles from the real Russian border. The refugees’ trek was also filmed here, at Lake Pyhäselkä.</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            29.763572,62.601016,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Pierce & Pierce Offices [American Psycho]]]></name>
+        <description><![CDATA[The office of ‘Pierce & Pierce’, supposedly '358 Exchange Place', where Bateman works in ‘mergers and acquisitions’ (or, according to everybody's expensive but badly proofed business cards, "Mergers and Aquisitions') is the Toronto-Dominion Bank Tower, 66 Wellington Street West, part of the Dominion Centre, a couple of blocks north of Union Station, Downtown.<br><br>This is a reasonable enough substitute for Manhattan, since the complex was designed by architect Ludwig Mies van der Rohe, responsible for New York’s iconic Seagram Building.]]></description>
+        <styleUrl>#icon-1577-000000</styleUrl>
+        <Point>
+          <coordinates>
+            -79.381698,43.647708,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dry Cleaners [American Psycho]</name>
+        <description><![CDATA[We're immediately back in Toronto for the dry cleaners where Bateman explodes with fury at their inability to deal with – um – 'cranberry juice' stains on his expensive sheets. You can see the distinctive arched frontage of Valet Cleaners at 38 Church Street, just north of Wellington Street East.]]></description>
+        <styleUrl>#icon-1577-000000</styleUrl>
+        <Point>
+          <coordinates>
+            -79.374251,43.649138,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LV-223 [Prometheus]</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AOq6mzpwLddlqYT-3xOgRDvrguc1sZ1dt0KsGFOCQqfKUEQ903WueNNAKorB81udtnEdUaY8j2ytsIGpotqgMYhNQ6ZTVa68qxa-F6u24k1-5n8HvaGZT_P4kQFGlCjgHTJP5jQrRlw-pC0bS9nLpSITxCEnFHbGmvdxPTBGL_ezkJt7QLg-UWyMDD0JeSwZshgeaxHP8zDjC3ztKbSiJ0fybIYY6jzv36LbNG9pPAG6kKgym0bs7cN7b2mSvpEe8KZr9ZhMGhynELuY_365w724pTcC-7g_q8TliZhUSWlVxe7xl-iKfRY36AjNrS8iZmSJXpdkKj53--1vD_KYqFUtU_or3UGqpDFgy3tUOGJPNTwCkjBqKpp4wm5u3FTC59lxYu1iakKetQ8O3pNRmyrKrYrK0Tpz6fTi4IRrvjFNfiOABrFZmqGKeozXY4wazjE63HN_-Sc5TCYlDyZxo05QKvzFG1lOEZ5a5T30hcPnSgnf3G2jd_vXvWbuywLlzUwdlcSh6_GhNsHE_IxqN-i4BB-XgibxpmwnWCp-gP9-oTGvibW2CwdiZxT7_WEfwiicL4QQmSlkK3a7IHTc_DHByDgid7cof75azO0WRuYrINsxyliLtxWGjXDCYCU0KnN8RjGpy4ll88T68GxWfDUt477LDzreE2XW-hdmmn8CONIB7vVuvP91MGQ4f5I0Ipf0t2zjJNDmN2La0_8b0H2WBO_l6hkzkJtmYBxLFyWKSC81bld9wPKXBlv2tSlcDuBGROnHNgzo4hH3Ht2QM8rmNs-iANyJTDKUT5UmT52bs3k54q-stXBIf4OWuVCsg0xDnHj7otyIiH6TzyClRuiu4sllFc1EdPTZ" height="200" width="auto" /><br><br>The crew of the spaceship Prometheus follows a star map discovered among the artefacts of several ancient Earth cultures landing on planet LV-223]]></description>
+        <styleUrl>#icon-1751-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AOq6mzpwLddlqYT-3xOgRDvrguc1sZ1dt0KsGFOCQqfKUEQ903WueNNAKorB81udtnEdUaY8j2ytsIGpotqgMYhNQ6ZTVa68qxa-F6u24k1-5n8HvaGZT_P4kQFGlCjgHTJP5jQrRlw-pC0bS9nLpSITxCEnFHbGmvdxPTBGL_ezkJt7QLg-UWyMDD0JeSwZshgeaxHP8zDjC3ztKbSiJ0fybIYY6jzv36LbNG9pPAG6kKgym0bs7cN7b2mSvpEe8KZr9ZhMGhynELuY_365w724pTcC-7g_q8TliZhUSWlVxe7xl-iKfRY36AjNrS8iZmSJXpdkKj53--1vD_KYqFUtU_or3UGqpDFgy3tUOGJPNTwCkjBqKpp4wm5u3FTC59lxYu1iakKetQ8O3pNRmyrKrYrK0Tpz6fTi4IRrvjFNfiOABrFZmqGKeozXY4wazjE63HN_-Sc5TCYlDyZxo05QKvzFG1lOEZ5a5T30hcPnSgnf3G2jd_vXvWbuywLlzUwdlcSh6_GhNsHE_IxqN-i4BB-XgibxpmwnWCp-gP9-oTGvibW2CwdiZxT7_WEfwiicL4QQmSlkK3a7IHTc_DHByDgid7cof75azO0WRuYrINsxyliLtxWGjXDCYCU0KnN8RjGpy4ll88T68GxWfDUt477LDzreE2XW-hdmmn8CONIB7vVuvP91MGQ4f5I0Ipf0t2zjJNDmN2La0_8b0H2WBO_l6hkzkJtmYBxLFyWKSC81bld9wPKXBlv2tSlcDuBGROnHNgzo4hH3Ht2QM8rmNs-iANyJTDKUT5UmT52bs3k54q-stXBIf4OWuVCsg0xDnHj7otyIiH6TzyClRuiu4sllFc1EdPTZ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.470377,29.649176,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Arrakis [Dune 2021]</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AOq6mzqovCjuVGuWeGfx_eGORNRUGNggoWmmZbnphb-Wpswcj_A9Tirb8BfOL_fyI_dnqCem1Y63VfoEYAHE7JOf0sOhi8jhowsNued4GXOpTTuV0PfT4pomW9ErB6u43sSAPxyqeBNySL19zP_nSV47CjeX4wnCM62tST9GPg14-_qBWhKf2myzjxgGOcGSqjEkGWGhnRAWAymBnV_-pzHzWY-YBQWeDVHVm1G9rL5aP6V3p4m1uQsV71rn964x1xFmJ5OPP1nhOXF0RFW_X81F8N3MKP5g1pORFPGBVQ4wShElLXzrd1vYdpLBi-wKcpq01LT66vOOpGbqnwrfEHIl87_-scCLjqeRdE_Ipwl3iEsG3bBUjRRCry4jxqf6huVy_0A162Lwb9o7438hLi3EwtPYaz55LjpAx21Jl-NzMQAWj38EOKUITWtZgz6Edhv0K5bquHsOVGl2RDN9saw5I7CrUYVASP7YGENcwiMsXQn3JXWxNajH5vquVBoze55GHcHqAxeB5R7JALznCO2isdd2DhSVw5936rZP_Tfjc0Qt-h0DUVrcMWrBaXjhD9VxWOITN9W-d7m2kYfJXzQ5BbutAB7WkwDxBaMTEGxhudrfUKZU4D8imw8_yuJXKfMO88REbRPLZgkv48nzE164qvtJuKmKOgDQeVHnhZQXr4T7cyvRJmEml8FEbmQeu8VXJcVWilGKxmhzNL_-wWxXhfjv9Paxdi1uurZ8zt3JygeL2RHmPp-C6hqx21-lG_cQSj66KyX6MlnzsXx7F6RAMfKFNtB8nd0tRp3Mno7MiqzzDGcYqB7doiC9p3C5DzkDsPuf_M7k_8Neb5hASq4riINY31ZIcoNX" height="200" width="auto" /><br><br>Sand planet of Arrakis is here in Wadi Rum, Jordan.]]></description>
+        <styleUrl>#icon-1869-795548</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AOq6mzqovCjuVGuWeGfx_eGORNRUGNggoWmmZbnphb-Wpswcj_A9Tirb8BfOL_fyI_dnqCem1Y63VfoEYAHE7JOf0sOhi8jhowsNued4GXOpTTuV0PfT4pomW9ErB6u43sSAPxyqeBNySL19zP_nSV47CjeX4wnCM62tST9GPg14-_qBWhKf2myzjxgGOcGSqjEkGWGhnRAWAymBnV_-pzHzWY-YBQWeDVHVm1G9rL5aP6V3p4m1uQsV71rn964x1xFmJ5OPP1nhOXF0RFW_X81F8N3MKP5g1pORFPGBVQ4wShElLXzrd1vYdpLBi-wKcpq01LT66vOOpGbqnwrfEHIl87_-scCLjqeRdE_Ipwl3iEsG3bBUjRRCry4jxqf6huVy_0A162Lwb9o7438hLi3EwtPYaz55LjpAx21Jl-NzMQAWj38EOKUITWtZgz6Edhv0K5bquHsOVGl2RDN9saw5I7CrUYVASP7YGENcwiMsXQn3JXWxNajH5vquVBoze55GHcHqAxeB5R7JALznCO2isdd2DhSVw5936rZP_Tfjc0Qt-h0DUVrcMWrBaXjhD9VxWOITN9W-d7m2kYfJXzQ5BbutAB7WkwDxBaMTEGxhudrfUKZU4D8imw8_yuJXKfMO88REbRPLZgkv48nzE164qvtJuKmKOgDQeVHnhZQXr4T7cyvRJmEml8FEbmQeu8VXJcVWilGKxmhzNL_-wWxXhfjv9Paxdi1uurZ8zt3JygeL2RHmPp-C6hqx21-lG_cQSj66KyX6MlnzsXx7F6RAMfKFNtB8nd0tRp3Mno7MiqzzDGcYqB7doiC9p3C5DzkDsPuf_M7k_8Neb5hASq4riINY31ZIcoNX</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.424541,29.816076,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vought Tower [The Boys]</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AOq6mzp_kYeUP9F_StBYKLuWwzcjKcX85e6jirvpHnAqgK22hPGn033IH4t8guhmEjLMDiIZafT5Z6Y70o74r7LyJ5u9v7BnePNH7gv89mY0HYPYkXelQLb0PoQdSBTNhLEDVczvWmwPSCoAEFEK6cN_ujFj2OONnSfkgl9qZtnz0qbbwalbChL6tKm46fH7w5dc9vGx-g6ZxlgnG-23tsv1BMgaydGmH3Yv4n4GKYuk" height="200" width="auto" /><br><br>https://www.youtube.com/embed/4o3g_8WV0VI<br><br>Roy Thomson Hall had be extended via CGI to resemble a skyscraper.]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AOq6mzp_kYeUP9F_StBYKLuWwzcjKcX85e6jirvpHnAqgK22hPGn033IH4t8guhmEjLMDiIZafT5Z6Y70o74r7LyJ5u9v7BnePNH7gv89mY0HYPYkXelQLb0PoQdSBTNhLEDVczvWmwPSCoAEFEK6cN_ujFj2OONnSfkgl9qZtnz0qbbwalbChL6tKm46fH7w5dc9vGx-g6ZxlgnG-23tsv1BMgaydGmH3Yv4n4GKYuk</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.386407,43.646607,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Latest apartment for Hughie [The Boys]</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AOq6mzqixVPt25uOKW2NlCQMNiOjdCPhZdcKcsznt-A7dTRLXBgp-SAjGZUaWq90iBVWe-iJxDqYD49yNaoeOIoAGL-lCD-WV7Yqwy53N1H7RWSGwsR_nVBcTiNSAexzFeA5-F-c6oPk3NNoz3JliQHsN1Q1XwXTa_im0KYCWTOV1dSrJWG28IC6nBdACo242RLoPVdSkBvpBpn1jqxQhJgXfF7hjWjjaQ03p9qbrq7F7q6Tdg0qprcUQQ_-ojCcl4PicPNNek4BApZYhtU4CgVNtJyLzrj95BSAhriYQyqnuenDrycXby0IyoQbpuM9GTEMZ9mz8wxVeJWau7aInuH9lpXtBzd6yQgoBzD7k3itMq89_h-9WaxXn9-kjbdGFqkZ1fwGmu5RXsm__Q9c4I3nQk3_Y2U8Iab6MrqZir0neMi64knXVR08ryc-erUZ0OCrkrIrmdPdlLF5lP6cQuq702TIehuJN90TFqlU5pOBdXybuDzREsqY1QyHRsGqHi4bNT3lCm0LxeDR8mowHe_om6UjFhQIxdLQPLx5gjBkmNgg2u4nN_gG5D4EX8fpt30KbW6GEVyTsvbeZrtcXr27k4U8KydQdeisDzCFjLp6O8ZwPoLOz6cyngS185jRuOuCQ3wd3ZTYoBDzy4GL2clpZ77fao06THZGSu1MuD-rtuv9OPcR5LLwV7QCFK-PTymCeDj68GuY5e37AfFL8GWP2vvTPNBO3RPfA-VOZZKv3oXOwVAaiy2T7uJ7UxX-4jniYX7B7Mpc86oQd_kqUxSnYWn-nd0OOy_OGBnaEBx6f5mZ41DGtEBJTBq8Qqhp5kfr9cb89dMNh9EIGPskuyICgieN_xaU2gj1aQ" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AOq6mzqixVPt25uOKW2NlCQMNiOjdCPhZdcKcsznt-A7dTRLXBgp-SAjGZUaWq90iBVWe-iJxDqYD49yNaoeOIoAGL-lCD-WV7Yqwy53N1H7RWSGwsR_nVBcTiNSAexzFeA5-F-c6oPk3NNoz3JliQHsN1Q1XwXTa_im0KYCWTOV1dSrJWG28IC6nBdACo242RLoPVdSkBvpBpn1jqxQhJgXfF7hjWjjaQ03p9qbrq7F7q6Tdg0qprcUQQ_-ojCcl4PicPNNek4BApZYhtU4CgVNtJyLzrj95BSAhriYQyqnuenDrycXby0IyoQbpuM9GTEMZ9mz8wxVeJWau7aInuH9lpXtBzd6yQgoBzD7k3itMq89_h-9WaxXn9-kjbdGFqkZ1fwGmu5RXsm__Q9c4I3nQk3_Y2U8Iab6MrqZir0neMi64knXVR08ryc-erUZ0OCrkrIrmdPdlLF5lP6cQuq702TIehuJN90TFqlU5pOBdXybuDzREsqY1QyHRsGqHi4bNT3lCm0LxeDR8mowHe_om6UjFhQIxdLQPLx5gjBkmNgg2u4nN_gG5D4EX8fpt30KbW6GEVyTsvbeZrtcXr27k4U8KydQdeisDzCFjLp6O8ZwPoLOz6cyngS185jRuOuCQ3wd3ZTYoBDzy4GL2clpZ77fao06THZGSu1MuD-rtuv9OPcR5LLwV7QCFK-PTymCeDj68GuY5e37AfFL8GWP2vvTPNBO3RPfA-VOZZKv3oXOwVAaiy2T7uJ7UxX-4jniYX7B7Mpc86oQd_kqUxSnYWn-nd0OOy_OGBnaEBx6f5mZ41DGtEBJTBq8Qqhp5kfr9cb89dMNh9EIGPskuyICgieN_xaU2gj1aQ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.989699,40.74106,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+   
+   
+   
+   
+   
+   
+  </Document>
+</kml>
