@@ -1,754 +1,544 @@
 {
     "locations": [
         {
+            "category": "-NcytMPAiNmylG2iasw3",
             "approved": false,
-            "picture": "",
-            "description": "Various scenes from Apple’s 'Masters of the Air' series.",
-            "film": "Masters of the Air",
-            "name": "Hemel Old Town High Street",
-            "address": "Hemel Hempstead, UK",
-            "extraData": "Various actors, including details to be discussed later, Bovingdon Airfield Studios and Bovingdon Studios",
-            "position": {
-                "lat": 51.7568,
-                "lng": -0.4736
-            },
-            "category": "-NdA3jHkEtR8FNP8pILs",
-            "premiumCategory": "dacorum_uk"
-        },
-        {
-            "approved": false,
-            "picture": "",
-            "description": "Various scenes from BBC1’s 'Pie in the Sky' series, specifically at number 64.",
-            "film": "Pie in the Sky",
-            "name": "Hemel Old Town High Street",
-            "address": "Hemel Hempstead, UK",
-            "extraData": "Various actors",
-            "position": {
-                "lat": 51.7568,
-                "lng": -0.4736
-            },
-            "category": "-NeyYe-Y4kmzcu7INp9c",
-            "premiumCategory": "dacorum_uk"
-        },
-        {
-            "approved": false,
-            "picture": "",
-            "description": "Scenes from Netflix’s 'After Life' series, including Tony’s workplace and The Tea Tree café.",
+            "premiumCategory": "dacorum_uk",
+            "picture": "https://www.visitheritage.co.uk/wp-content/uploads/2018/06/High-Street-01.jpg",
+            "description": "In 'After Life,' Hemel Old Town High Street doubles as Tambury, featuring Tony's workplace and The Tea Tree café. Notable scenes include Tony and Sandy's coffee outing and the 'Hope is Everything' bench.",
             "film": "After Life",
             "name": "Hemel Old Town High Street",
-            "address": "Hemel Hempstead, UK",
-            "extraData": "Ricky Gervais, Gadebridge Park, Hope is Everything bench",
-            "position": {
-                "lat": 51.7568,
-                "lng": -0.4736
-            },
-            "category": "-NcytMPAiNmylG2iasw3",
-            "premiumCategory": "dacorum_uk"
+            "address": "High Street, Hemel Hempstead, UK",
+            "extraData": "Ricky Gervais, Tony, Tambury Gazette, The Tea Tree café, Netflix",
+            "position": {"lat": 51.7578, "lng": -0.4714}
         },
         {
+            "category": "-NeyYe-Y4kmzcu7INp9c",
             "approved": false,
-            "picture": "",
-            "description": "Various scenes from 'Man vs Bee'.",
+            "premiumCategory": "dacorum_uk",
+            "picture": "https://i.guim.co.uk/img/media/5354a9ef665e4bc78b7d79a1e73db82e19662b67/0_95_1994_1197/master/1994.jpg?width=465&quality=85&dpr=1&s=none",
+            "description": "'Pie in the Sky' series filmed at Hemel Old Town High Street, including the iconic restaurant front.",
+            "film": "Pie in the Sky",
+            "name": "Hemel Old Town High Street",
+            "address": "64 High Street, Hemel Hempstead, UK",
+            "extraData": "BBC1",
+            "position": {"lat": 51.7578, "lng": -0.4714}
+        },
+        {
+            "category": "-NcytMPAiNmylG2iasw3",
+            "approved": false,
+            "premiumCategory": "dacorum_uk",
+            "picture": "https://media.timeout.com/images/105654091/1372/772/image.jpg",
+            "description": "'The Gentlemen' series filmed basement scenes at Ashridge House.",
+            "film": "The Gentlemen",
+            "name": "Ashridge House",
+            "address": "Ashridge, Berkhamsted HP4 1NS, UK",
+            "extraData": "Netflix",
+            "position": {"lat": 51.7912, "lng": -0.5675}
+        },
+        {
+            "category": "-Nd-dHTRxGYnVwMNC3OJ",
+            "approved": false,
+            "premiumCategory": "dacorum_uk",
+            "picture": "https://i.pinimg.com/originals/2b/92/c1/2b92c1656cbf8d6f217b9b8d60c9bc47.jpg",
+            "description": "Harry Potter and the Goblet of Fire features a distinctive beech tree at Ashridge Estate, Frithsden Beeches, where Harry and his friends meet Cedric Diggory.",
+            "film": "Harry Potter and the Goblet of Fire",
+            "name": "Ashridge Estate, Frithsden Beeches",
+            "address": "Ashridge Estate, Berkhamsted, HP4 1LT, UK",
+            "extraData": "Warner Brothers, Daniel Radcliffe, Robert Pattinson",
+            "position": {"lat": 51.8097, "lng": -0.5587}
+        },
+        {
+            "category": "-Ncyq28_bLffn4iJun3Q",
+            "approved": false,
+            "premiumCategory": "dacorum_uk",
+            "picture": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/05/19/17/justice-league.jpg",
+            "description": "Justice League filmed scenes at Bovingdon Airfield and Frogmore Paper Mill. Notably, Lois Lane is seen leaving Fred & Ginger Coffee shop.",
+            "film": "Justice League",
+            "name": "Bovingdon Airfield",
+            "address": "Bovingdon, Hemel Hempstead, HP5 3RR, UK",
+            "extraData": "Warner Brothers, Zack Snyder, Amy Adams, Gal Gadot, Ben Affleck, Henry Cavill",
+            "position": {"lat": 51.7234, "lng": -0.5374}
+        },
+        {
+            "category": "-Nd-eU6YmN_mseA-8M6H",
+            "approved": false,
+            "premiumCategory": "dacorum_uk",
+            "picture": "https://images.immediate.co.uk/production/volatile/sites/3/2022/04/greg-davies-the-cleaner-bbc-one-6b037ae.jpg",
+            "description": "The Cleaner used Hemel locations such as The Rose Pub, The Forum council offices, and the underground car park.",
+            "film": "The Cleaner",
+            "name": "The Rose Pub, The Forum",
+            "address": "Marlowes, Hemel Hempstead, UK",
+            "extraData": "BBC, Greg Davies",
+            "position": {"lat": 51.7536, "lng": -0.4695}
+        },
+        {
+            "category": "-Nd-eU6YmN_mseA-8M6H",
+            "approved": false,
+            "premiumCategory": "dacorum_uk",
+            "picture": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Bovingdon_Airfield.jpg",
+            "description": "FastX filmed scenes at Bovingdon Airfield Studios.",
+            "film": "FastX",
+            "name": "Bovingdon Airfield Studios",
+            "address": "Bovingdon, Hemel Hempstead, HP5 3RR, UK",
+            "extraData": "Universal Studios",
+            "position": {"lat": 51.7234, "lng": -0.5374}
+        },
+        {
+            "category": "-Nd-eU6YmN_mseA-8M6H",
+            "approved": false,
+            "premiumCategory": "dacorum_uk",
+            "picture": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Hemel_Hempstead_High_Street.jpg",
+            "description": "Scenes from 'Man vs Bee' were filmed at Bovingdon High Street.",
             "film": "Man vs Bee",
             "name": "Bovingdon High Street",
-            "address": "Bovingdon, UK",
-            "extraData": "Various actors",
-            "position": {
-                "lat": 51.7225,
-                "lng": -0.5362
-            },
-            "category": "-Nd6VZ7FsKsfvelRF-M0",
-            "premiumCategory": "dacorum_uk"
+            "address": "High Street, Bovingdon, UK",
+            "extraData": "Netflix",
+            "position": {"lat": 51.7243, "lng": -0.5360}
         },
         {
+            "category": "-Ndbkl8cG_yokvmETiEd",
             "approved": false,
-            "picture": "",
-            "description": "Scenes from ITV’s 'Endeavour' series.",
+            "premiumCategory": "dacorum_uk",
+            "picture": "https://www.tvzoneuk.com/uploads/1/3/2/4/132469015/published/endeavour.jpg?1643375510",
+            "description": "ITV's 'Endeavour' series filmed scenes at Hemel Old Town High Street.",
             "film": "Endeavour",
             "name": "Hemel Old Town High Street",
-            "address": "Hemel Hempstead, UK",
-            "extraData": "Various actors",
-            "position": {
-                "lat": 51.7568,
-                "lng": -0.4736
-            },
-            "category": "-Noq7xOCWaMXhe_k9rxr",
-            "premiumCategory": "dacorum_uk"
+            "address": "High Street, Hemel Hempstead, UK",
+            "extraData": "ITV",
+            "position": {"lat": 51.7578, "lng": -0.4714}
         },
         {
+            "category": "-Nd-e-dACKzvZgUaE4gr",
             "approved": false,
-            "picture": "",
-            "description": "Scenes from Netflix’s 'The Gentleman' series.",
-            "film": "The Gentleman",
-            "name": "Ashridge House",
-            "address": "Berkhamsted, UK",
-            "extraData": "Various actors, basement scenes",
-            "position": {
-                "lat": 51.7993,
-                "lng": -0.5626
-            },
-            "category": "-NcytMPAiNmylG2iasw3",
-            "premiumCategory": "dacorum_uk"
-        },
-        {
-            "approved": false,
-            "picture": "",
-            "description": "Various scenes from 'Midsomer Murders'.",
-            "film": "Midsomer Murders",
-            "name": "Aldbury Village",
-            "address": "Aldbury, UK",
-            "extraData": "Various actors",
-            "position": {
-                "lat": 51.7987,
-                "lng": -0.5963
-            },
-            "category": "-NeyYe-Y4kmzcu7INp9c",
-            "premiumCategory": "dacorum_uk"
-        },
-        {
-            "approved": false,
-            "picture": "",
-            "description": "Various scenes from 'Beauty and the Beast'.",
+            "premiumCategory": "dacorum_uk",
+            "picture": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Ashridge_Estate.jpg",
+            "description": "'Beauty and the Beast' filmed scenes at Ashridge Estate.",
             "film": "Beauty and the Beast",
             "name": "Ashridge Estate",
-            "address": "Berkhamsted, UK",
-            "extraData": "Various actors, National Trust property",
-            "position": {
-                "lat": 51.7993,
-                "lng": -0.5626
-            },
-            "category": "-NdFa003kCldbykohof0",
-            "premiumCategory": "dacorum_uk"
+            "address": "Ashridge Estate, Berkhamsted, HP4 1LT, UK",
+            "extraData": "Disney",
+            "position": {"lat": 51.8097, "lng": -0.5587}
         },
         {
+            "category": "-Nd-dHTRxGYnVwMNC3OJ",
             "approved": false,
-            "picture": "",
-            "description": "Various scenes from 'Killing Eve'.",
+            "premiumCategory": "dacorum_uk",
+            "picture": "https://static1.srcdn.com/wordpress/wp-content/uploads/2019/04/Sandra-Oh-as-Eve-Polastri-in-Killing-Eve.jpg",
+            "description": "'Killing Eve' filmed scenes at Ashridge Estate and The Marlowes shopping centre car park.",
             "film": "Killing Eve",
-            "name": "Ashridge Estate",
-            "address": "Berkhamsted, UK",
-            "extraData": "Various actors, National Trust property",
-            "position": {
-                "lat": 51.7993,
-                "lng": -0.5626
-            },
-            "category": "-NdV8rRmw_nRydU_cHh4",
-            "premiumCategory": "dacorum_uk"
+            "name": "Ashridge Estate, The Marlowes shopping centre car park",
+            "address": "Ashridge Estate, Berkhamsted, HP4 1LT, UK",
+            "extraData": "BBC",
+            "position": {"lat": 51.8097, "lng": -0.5587}
         },
         {
+            "category": "-Nd-e-dACKzvZgUaE4gr",
             "approved": false,
-            "picture": "",
-            "description": "Scenes from 'Harry Potter and the Goblet of Fire' involving a distinctive beech tree in Frithsden Beeches.",
-            "film": "Harry Potter and the Goblet of Fire",
-            "name": "Ashridge Estate",
-            "address": "Berkhamsted, UK",
-            "extraData": "Daniel Radcliffe, Rupert Grint, Emma Watson, Robert Pattinson, National Trust property",
-            "position": {
-                "lat": 51.7993,
-                "lng": -0.5626
-            },
-            "category": "-Nd-dHTRxGYnVwMNC3OJ",
-            "premiumCategory": "dacorum_uk"
+            "premiumCategory": "dacorum_uk",
+            "picture": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Ashridge_Estate.jpg",
+            "description": "Ashridge Estate was used for multiple 'Harry Potter' films, including scenes with a distinctive beech tree at Frithsden Beeches.",
+            "film": "Harry Potter",
+            "name": "Ashridge Estate, Frithsden Beeches",
+            "address": "Ashridge Estate, Berkhamsted, HP4 1LT, UK",
+            "extraData": "Warner Brothers",
+            "position": {"lat": 51.8097, "lng": -0.5587}
         },
         {
+            "category": "-NfpH0MbYJp2yXHTXTts",
             "approved": false,
-            "picture": "",
-            "description": "Various scenes from 'Harry Potter and the Half-Blood Prince'.",
-            "film": "Harry Potter and the Half-Blood Prince",
-            "name": "Ashridge Estate",
-            "address": "Berkhamsted, UK",
-            "extraData": "Daniel Radcliffe, Rupert Grint, Emma Watson, National Trust property",
-            "position": {
-                "lat": 51.7993,
-                "lng": -0.5626
-            },
-            "category": "-Nd-dHTRxGYnVwMNC3OJ",
-            "premiumCategory": "dacorum_uk"
-        },
-        {
-            "approved": false,
-            "picture": "",
-            "description": "Various scenes from 'Harry Potter and the Deathly Hallows: Part 1 and Part 2'.",
-            "film": "Harry Potter and the Deathly Hallows: Part 1 and Part 2",
-            "name": "Ashridge Estate",
-            "address": "Berkhamsted, UK",
-            "extraData": "Daniel Radcliffe, Rupert Grint, Emma Watson, National Trust property",
-            "position": {
-                "lat": 51.7993,
-                "lng": -0.5626
-            },
-            "category": "-Nd-dHTRxGYnVwMNC3OJ",
-            "premiumCategory": "dacorum_uk"
-        },
-        {
-            "approved": false,
-            "picture": "",
-            "description": "Various scenes from 'Eastenders'.",
+            "premiumCategory": "dacorum_uk",
+            "picture": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Hemel_Hempstead_High_Street.jpg",
+            "description": "'Eastenders' filmed scenes at Ashridge Estate.",
             "film": "Eastenders",
             "name": "Ashridge Estate",
-            "address": "Berkhamsted, UK",
-            "extraData": "Various actors, National Trust property",
-            "position": {
-                "lat": 51.7993,
-                "lng": -0.5626
-            },
-            "category": "-NeyYe-Y4kmzcu7INp9c",
-            "premiumCategory": "dacorum_uk"
+            "address": "Ashridge Estate, Berkhamsted, HP4 1LT, UK",
+            "extraData": "BBC",
+            "position": {"lat": 51.8097, "lng": -0.5587}
         },
         {
+            "category": "-NfpH0MbYJp2yXHTXTts",
             "approved": false,
-            "picture": "",
-            "description": "Various scenes from 'Sleepy Hollow'.",
+            "premiumCategory": "dacorum_uk",
+            "picture": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Hemel_Hempstead_High_Street.jpg",
+            "description": "'Sleepy Hollow' filmed scenes at Ashridge Estate.",
             "film": "Sleepy Hollow",
             "name": "Ashridge Estate",
-            "address": "Berkhamsted, UK",
-            "extraData": "Various actors, National Trust property",
-            "position": {
-                "lat": 51.7993,
-                "lng": -0.5626
-            },
-            "category": "-Nd-e-dACKzvZgUaE4gr",
-            "premiumCategory": "dacorum_uk"
+            "address": "Ashridge Estate, Berkhamsted, HP4 1LT, UK",
+            "extraData": "Paramount Pictures",
+            "position": {"lat": 51.8097, "lng": -0.5587}
         },
         {
+            "category": "-NfpH0MbYJp2yXHTXTts",
             "approved": false,
-            "picture": "",
-            "description": "Various scenes from 'Stardust'.",
+            "premiumCategory": "dacorum_uk",
+            "picture": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Hemel_Hempstead_High_Street.jpg",
+            "description": "'Stardust' filmed scenes at Ashridge Estate.",
             "film": "Stardust",
             "name": "Ashridge Estate",
-            "address": "Berkhamsted, UK",
-            "extraData": "Various actors, National Trust property",
-            "position": {
-                "lat": 51.7993,
-                "lng": -0.5626
-            },
-            "category": "-Nd-e-dACKzvZgUaE4gr",
-            "premiumCategory": "dacorum_uk"
+            "address": "Ashridge Estate, Berkhamsted, HP4 1LT, UK",
+            "extraData": "Paramount Pictures",
+            "position": {"lat": 51.8097, "lng": -0.5587}
         },
         {
+            "category": "-NfpH0MbYJp2yXHTXTts",
             "approved": false,
-            "picture": "",
-            "description": "Various scenes from 'Into the Woods'.",
+            "premiumCategory": "dacorum_uk",
+            "picture": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Hemel_Hempstead_High_Street.jpg",
+            "description": "'Into the Woods' filmed scenes at Ashridge Estate.",
             "film": "Into the Woods",
             "name": "Ashridge Estate",
-            "address": "Berkhamsted, UK",
-            "extraData": "Various actors, National Trust property",
-            "position": {
-                "lat": 51.7993,
-                "lng": -0.5626
-            },
-            "category": "-Nd-e-dACKzvZgUaE4gr",
-            "premiumCategory": "dacorum_uk"
+            "address": "Ashridge Estate, Berkhamsted, HP4 1LT, UK",
+            "extraData": "Disney",
+            "position": {"lat": 51.8097, "lng": -0.5587}
         },
         {
+            "category": "-NfpH0MbYJp2yXHTXTts",
             "approved": false,
-            "picture": "",
-            "description": "Various scenes from 'Maleficent'.",
+            "premiumCategory": "dacorum_uk",
+            "picture": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Hemel_Hempstead_High_Street.jpg",
+            "description": "'Maleficent' filmed scenes at Ashridge Estate.",
             "film": "Maleficent",
             "name": "Ashridge Estate",
-            "address": "Berkhamsted, UK",
-            "extraData": "Various actors, National Trust property",
-            "position": {
-                "lat": 51.7993,
-                "lng": -0.5626
-            },
-            "category": "-Nd-e-dACKzvZgUaE4gr",
-            "premiumCategory": "dacorum_uk"
+            "address": "Ashridge Estate, Berkhamsted, HP4 1LT, UK",
+            "extraData": "Disney",
+            "position": {"lat": 51.8097, "lng": -0.5587}
         },
         {
+            "category": "-NfpH0MbYJp2yXHTXTts",
             "approved": false,
-            "picture": "",
-            "description": "Various scenes from 'Les Misérables'.",
-            "film": "Les Misérables",
+            "premiumCategory": "dacorum_uk",
+            "picture": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Hemel_Hempstead_High_Street.jpg",
+            "description": "'Les Miserables' filmed scenes at Ashridge Estate.",
+            "film": "Les Miserables",
             "name": "Ashridge Estate",
-            "address": "Berkhamsted, UK",
-            "extraData": "Various actors, National Trust property",
-            "position": {
-                "lat": 51.7993,
-                "lng": -0.5626
-            },
-            "category": "-Nd-e-dACKzvZgUaE4gr",
-            "premiumCategory": "dacorum_uk"
+            "address": "Ashridge Estate, Berkhamsted, HP4 1LT, UK",
+            "extraData": "Universal Studios",
+            "position": {"lat": 51.8097, "lng": -0.5587}
         },
         {
+            "category": "-NdFa003kCldbykohof0",
             "approved": false,
-            "picture": "",
-            "description": "Various scenes from 'Slow Horses'.",
+            "premiumCategory": "dacorum_uk",
+            "picture": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Hemel_Hempstead_High_Street.jpg",
+            "description": "'Slow Horses' filmed scenes at Ashridge Estate.",
             "film": "Slow Horses",
             "name": "Ashridge Estate",
-            "address": "Berkhamsted, UK",
-            "extraData": "Various actors, National Trust property",
-            "position": {
-                "lat": 51.7993,
-                "lng": -0.5626
-            },
-            "category": "-NdA3jHkEtR8FNP8pILs",
-            "premiumCategory": "dacorum_uk"
+            "address": "Ashridge Estate, Berkhamsted, HP4 1LT, UK",
+            "extraData": "Apple TV",
+            "position": {"lat": 51.8097, "lng": -0.5587}
         },
         {
+            "category": "-Nd-bjAj9Kc92_9g8VMO",
             "approved": false,
-            "picture": "",
-            "description": "Various scenes from 'Avengers: Age of Ultron'.",
-            "film": "Avengers: Age of Ultron",
-            "name": "Tring Park School of the Performing Arts",
-            "address": "Tring, UK",
-            "extraData": "Various actors",
-            "position": {
-                "lat": 51.7969,
-                "lng": -0.6552
-            },
-            "category": "-NcgD-fWwiIU_agEQuj0",
-            "premiumCategory": "dacorum_uk"
+            "premiumCategory": "dacorum_uk",
+            "picture": "https://upload.wikimedia.org/wikipedia/commons/4/41/Tring_Park.jpg",
+            "description": "Avengers Age of Ultron filmed scenes at Tring Park School of The Performing Arts.",
+            "film": "Avengers Age of Ultron",
+            "name": "Tring Park School of The Performing Arts",
+            "address": "Tring Park, Tring, HP23 5LX, UK",
+            "extraData": "Marvel",
+            "position": {"lat": 51.7930, "lng": -0.6582}
         },
         {
+            "category": "-NclWEEs_RfpApdRf6L8",
             "approved": false,
-            "picture": "",
-            "description": "Various scenes from 'The Boys in the Boat'.",
+            "premiumCategory": "dacorum_uk",
+            "picture": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Hemel_Hempstead_High_Street.jpg",
+            "description": "'The Boys in the Boat' (2024) filmed scenes at Golda Grantchester.",
             "film": "The Boys in the Boat",
-            "name": "Golda Grantchester series 9 Call the Midwife Ashlyns School",
-            "address": "Berkhamsted, UK",
-            "extraData": "Various actors",
-            "position": {
-                "lat": 51.7634,
-                "lng": -0.5651
-            },
-            "category": "-Nd-e-dACKzvZgUaE4gr",
-            "premiumCategory": "dacorum_uk"
+            "name": "Golda Grantchester",
+            "address": "Grantchester, Cambridge, UK",
+            "extraData": "Paramount Pictures",
+            "position": {"lat": 52.1793, "lng": 0.0922}
         },
         {
+            "category": "-NclWEEs_RfpApdRf6L8",
             "approved": false,
-            "picture": "",
-            "description": "Scenes from ITV’s 'A Confession' episode 5.",
+            "premiumCategory": "dacorum_uk",
+            "picture": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Hemel_Hempstead_High_Street.jpg",
+            "description": "'Call the Midwife' filmed scenes at Ashlyns School, Berkhamsted.",
+            "film": "Call the Midwife",
+            "name": "Ashlyns School",
+            "address": "Chesham Rd, Berkhamsted HP4 3AH, UK",
+            "extraData": "BBC",
+            "position": {"lat": 51.7594, "lng": -0.5614}
+        },
+        {
+            "category": "-NclWEEs_RfpApdRf6L8",
+            "approved": false,
+            "premiumCategory": "dacorum_uk",
+            "picture": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Hemel_Hempstead_High_Street.jpg",
+            "description": "'A Confession' episode 5 filmed at Queen’s Square, Adeyfield, and Leverstock Green Village Hall/Community Centre.",
             "film": "A Confession",
-            "name": "Queen’s Square Adeyfield",
-            "address": "Hemel Hempstead, UK",
-            "extraData": "Various actors",
-            "position": {
-                "lat": 51.7605,
-                "lng": -0.4563
-            },
-            "category": "-Noq7xOCWaMXhe_k9rxr",
-            "premiumCategory": "dacorum_uk"
+            "name": "Queen’s Square, Adeyfield",
+            "address": "Queen's Square, Hemel Hempstead, HP2 4EW, UK",
+            "extraData": "ITV",
+            "position": {"lat": 51.7565, "lng": -0.4466}
         },
         {
+            "category": "-NclWEEs_RfpApdRf6L8",
             "approved": false,
-            "picture": "",
-            "description": "Scenes from 'A Confession' episode 5.",
-            "film": "A Confession",
-            "name": "Leverstock Green Village Hall/Community Centre & Old Town High Street",
-            "address": "Hemel Hempstead, UK",
-            "extraData": "Various actors",
-            "position": {
-                "lat": 51.7591,
-                "lng": -0.4381
-            },
-            "category": "-Noq7xOCWaMXhe_k9rxr",
-            "premiumCategory": "dacorum_uk"
-        },
-        {
-            "approved": false,
-            "picture": "",
-            "description": "Scenes from 'Fifteen Love'.",
+            "premiumCategory": "dacorum_uk",
+            "picture": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Hemel_Hempstead_High_Street.jpg",
+            "description": "'Fifteen Love' filmed scenes at Berkhamsted High Street and Tring Park School of the Performing Arts.",
             "film": "Fifteen Love",
-            "name": "Berkhamsted High Street & Tring Park School of the Performing Arts",
-            "address": "Berkhamsted, UK",
-            "extraData": "Various actors",
-            "position": {
-                "lat": 51.7606,
-                "lng": -0.5614
-            },
-            "category": "-NdHb4AaTiWOOCx0WfH-",
-            "premiumCategory": "dacorum_uk"
+            "name": "Berkhamsted High Street",
+            "address": "High Street, Berkhamsted, UK",
+            "extraData": "Amazon Prime",
+            "position": {"lat": 51.7609, "lng": -0.5626}
         },
         {
-            "approved": false,
-            "picture": "",
-            "description": "Scenes from Film 4’s 'Trespass Against Us'.",
-            "film": "Trespass Against Us",
-            "name": "Grovehill Highfield and Adeyfield",
-            "address": "Hemel Hempstead, UK",
-            "extraData": "Various actors, yellow car chase",
-            "position": {
-                "lat": 51.7596,
-                "lng": -0.4693
-            },
             "category": "-NqSFHq2aHGyZIkZ1op8",
-            "premiumCategory": "dacorum_uk"
+            "approved": false,
+            "premiumCategory": "dacorum_uk",
+            "picture": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Hemel_Hempstead_High_Street.jpg",
+            "description": "'Trespass Against Us' filmed scenes at Grovehill, Highfield, and Adeyfield.",
+            "film": "Trespass Against Us",
+            "name": "Grovehill, Highfield, and Adeyfield",
+            "address": "Hemel Hempstead, UK",
+            "extraData": "Film4",
+            "position": {"lat": 51.7640, "lng": -0.4680}
         },
         {
+            "category": "-Nd-bjAj9Kc92_9g8VMO",
             "approved": false,
-            "picture": "",
-            "description": "Scenes from 'Bohemian Rhapsody'.",
+            "premiumCategory": "dacorum_uk",
+            "picture": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Hemel_Hempstead_High_Street.jpg",
+            "description": "'Bohemian Rhapsody' filmed at Bovingdon Airfield Studios and Drift Limits Hemel Hempstead for the Live Aid concert scene.",
             "film": "Bohemian Rhapsody",
             "name": "Bovingdon Airfield Studios",
-            "address": "Bovingdon, UK",
-            "extraData": "Various actors, stage set replicating Wembley stage",
-            "position": {
-                "lat": 51.7242,
-                "lng": -0.5401
-            },
-            "category": "-NdNXMAyZpMfu-N5Z_He",
-            "premiumCategory": "dacorum_uk"
+            "address": "Bovingdon, Hemel Hempstead, HP5 3RR, UK",
+            "extraData": "20th Century Studios",
+            "position": {"lat": 51.7234, "lng": -0.5374}
         },
         {
+            "category": "-NclWEEs_RfpApdRf6L8",
             "approved": false,
-            "picture": "",
-            "description": "Scenes from Netflix’s 'This is Christmas'.",
+            "premiumCategory": "dacorum_uk",
+            "picture": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Hemel_Hempstead_High_Street.jpg",
+            "description": "'This is Christmas' filmed scenes at Hemel Old Town High Street.",
             "film": "This is Christmas",
             "name": "Hemel Old Town High Street",
-            "address": "Hemel Hempstead, UK",
-            "extraData": "Various actors",
-            "position": {
-                "lat": 51.7568,
-                "lng": -0.4736
-            },
-            "category": "-NcytMPAiNmylG2iasw3",
-            "premiumCategory": "dacorum_uk"
+            "address": "High Street, Hemel Hempstead, UK",
+            "extraData": "Netflix",
+            "position": {"lat": 51.7578, "lng": -0.4714}
         },
         {
+            "category": "-Nd-bjAj9Kc92_9g8VMO",
             "approved": false,
-            "picture": "",
-            "description": "Scenes from ITV’s 'Grantchester' (Robson Green).",
+            "premiumCategory": "dacorum_uk",
+            "picture": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Hemel_Hempstead_High_Street.jpg",
+            "description": "'Grantchester' (Robson Green) filmed scenes at Hemel Old Town High Street and various locations in Kings Langley.",
             "film": "Grantchester",
             "name": "Hemel Old Town High Street",
-            "address": "Hemel Hempstead, UK",
-            "extraData": "Robson Green, various locations in Kings Langley",
-            "position": {
-                "lat": 51.7568,
-                "lng": -0.4736
-            },
-            "category": "-Noq7xOCWaMXhe_k9rxr",
-            "premiumCategory": "dacorum_uk"
+            "address": "High Street, Hemel Hempstead, UK",
+            "extraData": "ITV",
+            "position": {"lat": 51.7578, "lng": -0.4714}
         },
         {
+            "category": "-Nd-bjAj9Kc92_9g8VMO",
             "approved": false,
-            "picture": "",
-            "description": "Scenes from 'Ladhood'.",
+            "premiumCategory": "dacorum_uk",
+            "picture": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Hemel_Hempstead_High_Street.jpg",
+            "description": "'Ladhood' filmed scenes at Hemel Old Town High Street.",
             "film": "Ladhood",
             "name": "Hemel Old Town High Street",
-            "address": "Hemel Hempstead, UK",
-            "extraData": "Various actors",
-            "position": {
-                "lat": 51.7568,
-                "lng": -0.4736
-            },
-            "category": "-Nd6VZ7FsKsfvelRF-M0",
-            "premiumCategory": "dacorum_uk"
+            "address": "High Street, Hemel Hempstead, UK",
+            "extraData": "BBC",
+            "position": {"lat": 51.7578, "lng": -0.4714}
         },
         {
+            "category": "-Nd-e-dACKzvZgUaE4gr",
             "approved": false,
-            "picture": "",
-            "description": "Scenes from 'Pennyworth'.",
+            "premiumCategory": "dacorum_uk",
+            "picture": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Ashridge_Estate.jpg",
+            "description": "'Pennyworth' filmed scenes at Ashridge House.",
             "film": "Pennyworth",
             "name": "Ashridge House",
-            "address": "Berkhamsted, UK",
-            "extraData": "Various actors",
-            "position": {
-                "lat": 51.7993,
-                "lng": -0.5626
-            },
-            "category": "-Ncyq28_bLffn4iJun3Q",
-            "premiumCategory": "dacorum_uk"
+            "address": "Ashridge, Berkhamsted HP4 1NS, UK",
+            "extraData": "Warner Brothers",
+            "position": {"lat": 51.7912, "lng": -0.5675}
         },
         {
+            "category": "-Nd-bjAj9Kc92_9g8VMO",
             "approved": false,
-            "picture": "",
-            "description": "Scenes from 'Deadpool 3'.",
+            "premiumCategory": "dacorum_uk",
+            "picture": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Bovingdon_Airfield.jpg",
+            "description": "'Deadpool 3' filmed at Bovingdon Airfield Studios.",
             "film": "Deadpool 3",
             "name": "Bovingdon Airfield Studios",
-            "address": "Bovingdon, UK",
-            "extraData": "Ryan Reynolds, not yet released",
-            "position": {
-                "lat": 51.7242,
-                "lng": -0.5401
-            },
-            "category": "-NcgD-fWwiIU_agEQuj0",
-            "premiumCategory": "dacorum_uk"
+            "address": "Bovingdon, Hemel Hempstead, HP5 3RR, UK",
+            "extraData": "20th Century Studios",
+            "position": {"lat": 51.7234, "lng": -0.5374}
         },
         {
+            "category": "-NdFa003kCldbykohof0",
             "approved": false,
-            "picture": "",
-            "description": "Scenes from Channel 4’s 'Married at First Sight'.",
-            "film": "Married at First Sight",
-            "name": "Ashridge House",
-            "address": "Berkhamsted, UK",
-            "extraData": "Various actors",
-            "position": {
-                "lat": 51.7993,
-                "lng": -0.5626
-            },
-            "category": "-NdNXMAyZpMfu-N5Z_He",
-            "premiumCategory": "dacorum_uk"
-        },
-        {
-            "approved": false,
-            "picture": "",
-            "description": "Scenes from Amazon Prime’s 'The Lord of the Rings: The Rings of Power'.",
+            "premiumCategory": "dacorum_uk",
+            "picture": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Ashridge_Estate.jpg",
+            "description": "'The Lord of the Rings: The Rings of Power' filmed at Bovingdon Airfield Studios.",
             "film": "The Lord of the Rings: The Rings of Power",
             "name": "Bovingdon Airfield Studios",
-            "address": "Bovingdon, UK",
-            "extraData": "Various actors",
-            "position": {
-                "lat": 51.7242,
-                "lng": -0.5401
-            },
-            "category": "-Nd-eU6YmN_mseA-8M6H",
-            "premiumCategory": "dacorum_uk"
+            "address": "Bovingdon, Hemel Hempstead, HP5 3RR, UK",
+            "extraData": "Amazon Studios",
+            "position": {"lat": 51.7234, "lng": -0.5374}
         },
         {
-            "approved": false,
-            "picture": "",
-            "description": "Scenes from 'Justice League'.",
-            "film": "Justice League",
-            "name": "Bovingdon Airfield Studios & Frogmore Paper Mill",
-            "address": "Hemel Hempstead, UK",
-            "extraData": "Ben Affleck, Gal Gadot, Henry Cavill, Fred & Ginger Coffee shop",
-            "position": {
-                "lat": 51.7242,
-                "lng": -0.5401
-            },
             "category": "-Ncyq28_bLffn4iJun3Q",
-            "premiumCategory": "dacorum_uk"
+            "approved": false,
+            "premiumCategory": "dacorum_uk",
+            "picture": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Ashridge_Estate.jpg",
+            "description": "'Justice League' scenes were shot at both Bovingdon Airfield in Hertfordshire and Frogmore Paper Mill in Apsley Hemel Hempstead.",
+            "film": "Justice League",
+            "name": "Frogmore Paper Mill",
+            "address": "Fourdrinier Way, Hemel Hempstead HP3 9RY, UK",
+            "extraData": "Warner Brothers",
+            "position": {"lat": 51.7332, "lng": -0.4806}
         },
         {
+            "category": "-Ncyq28_bLffn4iJun3Q",
             "approved": false,
-            "picture": "",
-            "description": "Scenes from 'The Inbetweeners'.",
+            "premiumCategory": "dacorum_uk",
+            "picture": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Ashridge_Estate.jpg",
+            "description": "'Justice League' storyboarded at Fred & Ginger Coffee in High Street Kings Langley.",
+            "film": "Justice League",
+            "name": "Fred & Ginger Coffee",
+            "address": "Kings Langley, Hemel Hempstead, UK",
+            "extraData": "Warner Brothers",
+            "position": {"lat": 51.7120, "lng": -0.4500}
+        },
+        {
+            "category": "-NfpH0MbYJp2yXHTXTts",
+            "approved": false,
+            "premiumCategory": "dacorum_uk",
+            "picture": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Hemel_Hempstead_High_Street.jpg",
+            "description": "'The Inbetweeners' filmed in Abbots Langley and St Albans.",
             "film": "The Inbetweeners",
-            "name": "Abbots Langley, Market Square",
-            "address": "Hemel Hempstead, UK",
-            "extraData": "Various actors",
-            "position": {
-                "lat": 51.7225,
-                "lng": -0.5362
-            },
-            "category": "-NdNXMAyZpMfu-N5Z_He",
-            "premiumCategory": "dacorum_uk"
+            "name": "Abbots Langley",
+            "address": "Abbots Langley, UK",
+            "extraData": "Channel 4",
+            "position": {"lat": 51.7066, "lng": -0.4172}
         },
         {
-            "approved": false,
-            "picture": "",
-            "description": "Scenes from BBC comedy 'The Cleaner'.",
-            "film": "The Cleaner",
-            "name": "The Rose Pub, The Forum council offices, underground car park",
-            "address": "Hemel Hempstead, UK",
-            "extraData": "Greg Davies",
-            "position": {
-                "lat": 51.7568,
-                "lng": -0.4736
-            },
             "category": "-NeyYe-Y4kmzcu7INp9c",
-            "premiumCategory": "dacorum_uk"
+            "approved": false,
+            "premiumCategory": "dacorum_uk",
+            "picture": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Hemel_Hempstead_High_Street.jpg",
+            "description": "'The Cleaner' filmed in Hemel locations like The Rose Pub, The Forum council offices, and the underground car park.",
+            "film": "The Cleaner",
+            "name": "The Rose Pub, The Forum",
+            "address": "Marlowes, Hemel Hempstead, UK",
+            "extraData": "BBC",
+            "position": {"lat": 51.7536, "lng": -0.4695}
         },
         {
+            "category": "-NeyYe-Y4kmzcu7INp9c",
             "approved": false,
-            "picture": "",
-            "description": "Scenes from Marvel's 'Guardians of the Galaxy'.",
+            "premiumCategory": "dacorum_uk",
+            "picture": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Hemel_Hempstead_High_Street.jpg",
+            "description": "'Guardians of the Galaxy' filmed at Hemel Hempstead Hospital.",
             "film": "Guardians of the Galaxy",
             "name": "Hemel Hempstead Hospital",
-            "address": "Hemel Hempstead, UK",
-            "extraData": "Various actors",
-            "position": {
-                "lat": 51.7466,
-                "lng": -0.4849
-            },
-            "category": "-NcgD-fWwiIU_agEQuj0",
-            "premiumCategory": "dacorum_uk"
+            "address": "Hillfield Rd, Hemel Hempstead HP2 4AD, UK",
+            "extraData": "Marvel",
+            "position": {"lat": 51.7487, "lng": -0.4744}
         },
         {
+            "category": "-Nd6UIHbQL2H4EjhnL9D",
             "approved": false,
-            "picture": "",
-            "description": "Scenes from BBC comedy 'Avoidance'.",
+            "premiumCategory": "dacorum_uk",
+            "picture": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Hemel_Hempstead_High_Street.jpg",
+            "description": "'Avoidance' filmed at Berkhamsted Civic Centre.",
             "film": "Avoidance",
             "name": "Berkhamsted Civic Centre",
-            "address": "Berkhamsted, UK",
-            "extraData": "Romesh Ranganathan",
-            "position": {
-                "lat": 51.7601,
-                "lng": -0.5615
-            },
-            "category": "-NeyYe-Y4kmzcu7INp9c",
-            "premiumCategory": "dacorum_uk"
+            "address": "High Street, Berkhamsted, UK",
+            "extraData": "BBC",
+            "position": {"lat": 51.7609, "lng": -0.5626}
         },
         {
+            "category": "-Nd-hBLJNUaVEc0YxsCm",
             "approved": false,
-            "picture": "",
-            "description": "Scenes from 'The Dirty Dozen'.",
-            "film": "The Dirty Dozen",
+            "premiumCategory": "dacorum_uk",
+            "picture": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Aldbury_village.jpg",
+            "description": "'Midsomer Murders' filmed episodes 'Written in Blood' and 'Murder of Innocence' at Aldbury Village.",
+            "film": "Midsomer Murders",
             "name": "Aldbury Village",
-            "address": "Aldbury, UK",
-            "extraData": "Various actors",
-            "position": {
-                "lat": 51.7987,
-                "lng": -0.5963
-            },
-            "category": "-Nd-e-dACKzvZgUaE4gr",
-            "premiumCategory": "dacorum_uk"
+            "address": "Aldbury, Tring, UK",
+            "extraData": "ITV",
+            "position": {"lat": 51.7987, "lng": -0.6063}
         },
         {
+            "category": "-Nd6UIHbQL2H4EjhnL9D",
             "approved": false,
-            "picture": "",
-            "description": "Scenes from 'The Shillingbury Blowers'.",
-            "film": "The Shillingbury Blowers",
-            "name": "Aldbury Village",
-            "address": "Aldbury, UK",
-            "extraData": "Various actors",
-            "position": {
-                "lat": 51.7987,
-                "lng": -0.5963
-            },
-            "category": "-Nd-e-dACKzvZgUaE4gr",
-            "premiumCategory": "dacorum_uk"
-        },
-        {
-            "approved": false,
-            "picture": "",
-            "description": "Scenes from 'Bridget Jones: The Edge of Reason'.",
-            "film": "Bridget Jones: The Edge of Reason",
-            "name": "Aldbury Village",
-            "address": "Aldbury, UK",
-            "extraData": "Various actors, the Greyhound pub",
-            "position": {
-                "lat": 51.7987,
-                "lng": -0.5963
-            },
-            "category": "-Nd-e-dACKzvZgUaE4gr",
-            "premiumCategory": "dacorum_uk"
-        },
-        {
-            "approved": false,
-            "picture": "",
-            "description": "Scenes from 'Lord of Misrule'.",
-            "film": "Lord of Misrule",
-            "name": "Aldbury Village",
-            "address": "Aldbury, UK",
-            "extraData": "Various actors",
-            "position": {
-                "lat": 51.7987,
-                "lng": -0.5963
-            },
-            "category": "-Nd-e-dACKzvZgUaE4gr",
-            "premiumCategory": "dacorum_uk"
-        },
-        {
-            "approved": false,
-            "picture": "",
-            "description": "Scenes from 1967 TV series 'The Avengers'.",
-            "film": "The Avengers",
-            "name": "Aldbury Village",
-            "address": "Aldbury, UK",
-            "extraData": "Various actors",
-            "position": {
-                "lat": 51.7987,
-                "lng": -0.5963
-            },
-            "category": "-NcgD-fWwiIU_agEQuj0",
-            "premiumCategory": "dacorum_uk"
-        },
-        {
-            "approved": false,
-            "picture": "",
-            "description": "Scenes from 'The Shillingbury Tales' series.",
-            "film": "The Shillingbury Tales",
-            "name": "Aldbury Village",
-            "address": "Aldbury, UK",
-            "extraData": "Various actors",
-            "position": {
-                "lat": 51.7987,
-                "lng": -0.5963
-            },
-            "category": "-Nd-e-dACKzvZgUaE4gr",
-            "premiumCategory": "dacorum_uk"
-        },
-        {
-            "approved": false,
-            "picture": "",
-            "description": "Scenes from 'My Friend Misty'.",
+            "premiumCategory": "dacorum_uk",
+            "picture": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Hemel_Hempstead_High_Street.jpg",
+            "description": "'My Friend Misty' filmed at Randalls Park, Hemel Hempstead.",
             "film": "My Friend Misty",
             "name": "Randalls Park",
             "address": "Hemel Hempstead, UK",
-            "extraData": "Ferne Cotton, BBC children's series",
-            "position": {
-                "lat": 51.7466,
-                "lng": -0.4849
-            },
-            "category": "-NeyYe-Y4kmzcu7INp9c",
-            "premiumCategory": "dacorum_uk"
+            "extraData": "BBC",
+            "position": {"lat": 51.7520, "lng": -0.4695}
         },
         {
+            "category": "-Nd-e-dACKzvZgUaE4gr",
             "approved": false,
-            "picture": "",
-            "description": "Scenes from 'The Legend of Tarzan'.",
+            "premiumCategory": "dacorum_uk",
+            "picture": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Ashridge_Estate.jpg",
+            "description": "'The Legend of Tarzan' filmed scenes at Ashridge Estate and Gaddesden Place.",
             "film": "The Legend of Tarzan",
             "name": "Ashridge Estate, Gaddesden Place",
-            "address": "Berkhamsted, UK",
-            "extraData": "Various actors",
-            "position": {
-                "lat": 51.7993,
-                "lng": -0.5626
-            },
-            "category": "-Nd-eU6YmN_mseA-8M6H",
-            "premiumCategory": "dacorum_uk"
+            "address": "Ashridge Estate, Berkhamsted, HP4 1LT, UK",
+            "extraData": "Warner Brothers",
+            "position": {"lat": 51.8097, "lng": -0.5587}
         },
         {
+            "category": "-NfpH0MbYJp2yXHTXTts",
             "approved": false,
-            "picture": "",
-            "description": "Scenes from 'Killing Eve'.",
+            "premiumCategory": "dacorum_uk",
+            "picture": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Hemel_Hempstead_High_Street.jpg",
+            "description": "'Killing Eve' filmed at The Marlowes shopping centre car park.",
             "film": "Killing Eve",
             "name": "The Marlowes shopping centre car park",
             "address": "Hemel Hempstead, UK",
-            "extraData": "Various actors",
-            "position": {
-                "lat": 51.7578,
-                "lng": -0.4707
-            },
-            "category": "-NdV8rRmw_nRydU_cHh4",
-            "premiumCategory": "dacorum_uk"
+            "extraData": "BBC",
+            "position": {"lat": 51.7536, "lng": -0.4695}
         },
         {
+            "category": "-Nd6UIHbQL2H4EjhnL9D",
             "approved": false,
-            "picture": "",
-            "description": "Scenes from Amazon Prime’s 'Fifteen Love'.",
+            "premiumCategory": "dacorum_uk",
+            "picture": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Hemel_Hempstead_High_Street.jpg",
+            "description": "'Fifteen Love' used Berkhamsted Civic Centre for external Police Station scenes.",
             "film": "Fifteen Love",
             "name": "Berkhamsted Civic Centre",
-            "address": "Berkhamsted, UK",
-            "extraData": "Various actors, external Police Station",
-            "position": {
-                "lat": 51.7601,
-                "lng": -0.5615
-            },
-            "category": "-NdHb4AaTiWOOCx0WfH-",
-            "premiumCategory": "dacorum_uk"
+            "address": "High Street, Berkhamsted, UK",
+            "extraData": "Amazon Prime",
+            "position": {"lat": 51.7609, "lng": -0.5626}
         },
         {
+            "category": "-Nd6UIHbQL2H4EjhnL9D",
             "approved": false,
-            "picture": "",
-            "description": "Scenes from BBC comedy 'Mandy'.",
+            "premiumCategory": "dacorum_uk",
+            "picture": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Hemel_Hempstead_High_Street.jpg",
+            "description": "'Mandy' series 1 filmed at Berkhamsted Civic Centre, series 3 at The Market Square, Hemel Old Town High Street, and Boxmoor Playhouse.",
             "film": "Mandy",
-            "name": "Series 1: Berkhamsted Civic Centre, Series 3: The Market Square, Hemel, the Old Town High Street, Boxmoor Playhouse",
-            "address": "Berkhamsted, UK",
-            "extraData": "Various actors",
-            "position": {
-                "lat": 51.7601,
-                "lng": -0.5615
-            },
-            "category": "-NeyYe-Y4kmzcu7INp9c",
-            "premiumCategory": "dacorum_uk"
+            "name": "Berkhamsted Civic Centre, The Market Square, Boxmoor Playhouse",
+            "address": "Berkhamsted and Hemel Hempstead, UK",
+            "extraData": "BBC",
+            "position": {"lat": 51.7609, "lng": -0.5626}
         },
         {
+            "category": "-NdFa003kCldbykohof0",
             "approved": false,
-            "picture": "",
-            "description": "Scenes from ITV’s 'A Confession' Season 1 Episode 6.",
+            "premiumCategory": "dacorum_uk",
+            "picture": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Bovingdon_Airfield.jpg",
+            "description": "'A Confession' episode 6 filmed at Tring Pendley Manor.",
             "film": "A Confession",
             "name": "Tring Pendley Manor",
-            "address": "Tring, UK",
-            "extraData": "Various actors",
-            "position": {
-                "lat": 51.796,
-                "lng": -0.657
-            },
-            "category": "-Noq7xOCWaMXhe_k9rxr",
-            "premiumCategory": "dacorum_uk"
+            "address": "Tring, Hertfordshire, UK",
+            "extraData": "ITV",
+            "position": {"lat": 51.7983, "lng": -0.6632}
         }
     ]
 }
